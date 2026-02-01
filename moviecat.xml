@@ -1,0 +1,180 @@
+<dir>
+
+        <title>[B][I][COLOR yellow]1001 Must See Movies Before You Die[/COLOR][/I][/B]</title>
+        <trakt>https://api.trakt.tv/users/jtucci/lists/1001-must-see-movies-before-you-die/items</trakt>
+        <thumbnail>http://ezzer-mac.com/Addon/images/mustsee.jpg</thumbnail>
+        <summary></summary>
+</dir>
+
+<dir>
+      <title>[B][I][COLOR yellow]Academy Awards(Oscars)[/COLOR][/I][/B]</title>
+      <trakt>https://api.trakt.tv/users/pullsa/lists</trakt>
+      <thumbnail>http://www.ezzer-mac.com/Addon/images/acad.jpg</thumbnail>
+</dir>
+
+<dir>
+
+        <title>[B][I][COLOR yellow]A to Z MOVIES[/COLOR][/I][/B]</title>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/atoz/atozlist.xml</link>
+        <thumbnail>http://ezzer-mac.com/Addon/images/atoz.jpg</thumbnail>
+        <summary></summary>
+</dir>
+
+<dir>
+
+        <title>[B][I][COLOR yellow]BOX SETS[/COLOR][/I][/B]</title>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/boxsets/boxsetlist.xml</link>
+        <thumbnail>http://ezzer-mac.com/Addon/images/bs.jpg</thumbnail>
+        <summary></summary>
+</dir>
+
+<dir>
+
+        <title>[B][I][COLOR yellow]CHRISTMAS MOVIES[/COLOR][/I][/B]</title>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/christmas.xml</link>
+        <thumbnail>http://ezzer-mac.com/Addon/images/xmas.jpg</thumbnail>
+        <summary></summary>
+</dir>
+
+<dir>
+
+        <title>[B][I][COLOR yellow]GANGSTER MOVIES[/COLOR][/I][/B]</title>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/ganster.xml</link>
+        <thumbnail>http://ezzer-mac.com/Addon/images/gangster1.jpg</thumbnail>
+        <summary></summary>
+</dir>
+
+<dir>
+
+        <title>[B][I][COLOR yellow]HORROR MOVIES[/COLOR][/I][/B]</title>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/horror.xml</link>
+        <thumbnail>http://ezzer-mac.com/Addon/images/horror1.jpg</thumbnail>
+        <summary></summary>
+</dir>
+
+<dir>
+
+        <title>[B][I][COLOR yellow]MUST WATCH MOVIES[/COLOR][/I][/B]</title>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/mwm.xml</link>
+        <thumbnail>http://ezzer-mac.com/Addon/images/mwm.jpg</thumbnail>
+        <summary></summary>
+</dir>
+
+<dir>
+
+        <title>[B][I][COLOR yellow]NEWISH MOVIES[/COLOR][/I][/B]</title>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/newishmovies.xml</link>
+        <thumbnail>http://ezzer-mac.com/Addon/images/newmovies.jpg</thumbnail>
+        <summary></summary>
+</dir>
+
+<dir>
+
+        <title>[B][I][COLOR yellow]OLD MOVIES[/COLOR][/I][/B]</title>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/1clickold.xml</link>
+        <thumbnail>http://ezzer-mac.com/Addon/images/old.jpg</thumbnail>
+        <summary></summary>
+</dir>
+
+<dir>
+
+        <title>[B][I][COLOR yellow]PRODUCTIONS[/COLOR][/I][/B]</title>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/production.xml</link>
+        <thumbnail>http://ezzer-mac.com/Addon/images/production.jpg</thumbnail>
+        <summary></summary>
+</dir>
+
+<dir>
+
+        <title>[B][I][COLOR yellow]RANDOM[/COLOR][/I][/B]</title>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/random.xml</link>
+        <thumbnail>http://ezzer-mac.com/Addon/images/random.jpg</thumbnail>
+        <summary></summary>
+</dir>
+
+<item>
+
+        <title>[B][I][COLOR red]                    HIT AND MISS LINKS[/COLOR][/I][/B]</title>
+	
+</item>
+
+<dir>
+
+        <title>[B][I][COLOR yellow]ADVENTURE[/COLOR][/I][/B]</title>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/hitandmiss/adventure.xml</link>
+        <thumbnail>http://ezzer-mac.com/Addon/images/adventure.jpg</thumbnail>
+        <summary></summary>
+</dir>
+
+<dir>
+
+        <title>[B][I][COLOR yellow]BIOGRAPHY[/COLOR][/I][/B]</title>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/hitandmiss/biography.xml</link>
+        <thumbnail>http://ezzer-mac.com/Addon/images/biography.jpg</thumbnail>
+        <summary></summary>
+</dir>
+
+<dir>
+
+        <title>[B][I][COLOR yellow]CRIME[/COLOR][/I][/B]</title>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/hitandmiss/crime.xml</link>
+        <thumbnail>http://ezzer-mac.com/Addon/images/crime.jpg</thumbnail>
+        <summary></summary>
+</dir>
+
+<dir>
+
+        <title>[B][I][COLOR yellow]FAMILY[/COLOR][/I][/B]</title>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/hitandmiss/family.xml</link>
+        <thumbnail>http://ezzer-mac.com/Addon/images/family.jpg</thumbnail>
+        <summary></summary>
+</dir>
+
+<dir>
+
+        <title>[B][I][COLOR yellow]MUSIC[/COLOR][/I][/B]</title>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/hitandmiss/music.xml</link>
+        <thumbnail>http://ezzer-mac.com/Addon/images/music.jpg</thumbnail>
+        <summary></summary>
+</dir>
+
+<dir>
+
+        <title>[B][I][COLOR yellow]MYSTERY[/COLOR][/I][/B]</title>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/hitandmiss/mystery.xml</link>
+        <thumbnail>http://ezzer-mac.com/Addon/images/mystery.jpg</thumbnail>
+        <summary></summary>
+</dir>
+
+<dir>
+
+        <title>[B][I][COLOR yellow]ROMANCE[/COLOR][/I][/B]</title>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/hitandmiss/romance.xml</link>
+        <thumbnail>http://ezzer-mac.com/Addon/images/romance.jpg</thumbnail>
+        <summary></summary>
+</dir>
+
+<dir>
+
+        <title>[B][I][COLOR yellow]SCI-FI[/COLOR][/I][/B]</title>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/hitandmiss/scifi.xml</link>
+        <thumbnail>http://ezzer-mac.com/Addon/images/scifi.jpg</thumbnail>
+        <summary></summary>
+</dir>
+
+<dir>
+
+        <title>[B][I][COLOR yellow]SPORT[/COLOR][/I][/B]</title>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/hitandmiss/sport.xml</link>
+        <thumbnail>http://ezzer-mac.com/Addon/images/sport.jpg</thumbnail>
+        <summary></summary>
+</dir>
+
+
+<dir>
+
+        <title>[B][I][COLOR yellow]WAR[/COLOR][/I][/B]</title>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/hitandmiss/war.xml</link>
+        <thumbnail>http://ezzer-mac.com/Addon/images/war.jpg</thumbnail>
+        <summary></summary>
+</dir>
