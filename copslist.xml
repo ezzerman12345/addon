@@ -1,0 +1,507 @@
+<item>
+    <title>[B][COLOR yellow]NEW TO M.E.T.V WILL ADD AS OFTEN AS POSSIBLE - IF YOU HAVE ANY REQUESTS THEN DM ME ON TWITTER @EzZeR_mAn[/COLOR][/B]</title>
+</item>
+
+<item>
+    <title>[COLOR yellow]-------------WELCOME TO 1970/80'S COP SHOP------------[/COLOR]</title>
+</item>
+
+<dir>
+        <name>[B][I][COLOR yellow]PERRY MASON[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/pm/pmlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.themoviedb.org/t/p/w1280/1th2fC46icNw67k51FykUn3wwC0.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]MADIGAN[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/mad/madlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.lookimg.com/images/2018/07/10/db1rs.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]THE MAN FROM UNCLE[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/tmfu/tmfulist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://img16.pixhost.to/images/89/61094801_capture.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]BARETTA[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/bare/barelist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BNjA2Njg0NzYyNF5BMl5BanBnXkFtZTcwNzM1ODIyMQ@@._V1_UY268_CR7,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]THE NEW AVENGERS[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/tna/tnalist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMTIwNDg4NzE1N15BMl5BanBnXkFtZTcwNTIwMDYyMQ@@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]BUDGIE[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/budgie/budgielist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMTMwMjg1NzUyOV5BMl5BanBnXkFtZTcwMTkxNDg2MQ@@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]EDGAR WALLACE MYSTERY[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/ewm/ewmlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BNmZiNTVhNjgtMDdmMS00NWUyLWFkZjEtYWM1NmU4ZDUwZWIyXkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]THE A TEAM[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/tat/tatlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMzI0MjI1NjU5OF5BMl5BanBnXkFtZTcwNzg5NDUyMQ@@._V1_UY268_CR7,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]REILLY - ACE OF SPIES[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/raos/raoslist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMjA4MjQ3MzU3OF5BMl5BanBnXkFtZTcwMTE3MTgyMQ@@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]IN THE HEAT OF THE NIGHT[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/ithotn/ithotnlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMjQzNjM5OTYzM15BMl5BanBnXkFtZTgwNDkxMzEyOTE@._V1_UY268_CR87,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]PHILIP MARLOWE - PRIVATE EYE[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/pm1/pmlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMTgwNDE4NjM4Nl5BMl5BanBnXkFtZTcwODYzNzQyMQ@@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]AIRWOLF[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/air/airlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BODYyY2EwNTYtMmY3Mi00MWRkLWJlYjEtNmJhMmIzNDU0ZGE4XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]BARNEY MILLER[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/bm/bmlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMTI2NDQ1NDYxM15BMl5BanBnXkFtZTcwNTI0OTQyMQ@@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]L.A LAW[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/lalaw/lalawlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMTQyNzA5ODY1NV5BMl5BanBnXkFtZTYwMzE3Mjg5._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]KNIGHT RIDER[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/kr/krlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMjVjMmY2ZTctZWNjMS00MzQ1LTgzZjItN2ZmNzMwMmUxNDlkXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_UY268_CR12,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]SPECIAL BRANCH (1969/1974)[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/sb/sblist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BNTcwN2U1YTUtZWYzMy00NmIzLWFlYzItMmFjYzJiMDEyYWFhXkEyXkFqcGdeQXVyNDQ3NDM5OQ@@._V1_UY268_CR87,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]FATHER DOWLING[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/fd/fdlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BOGQ4ZDUzMGItNDI5YS00ZjUzLWI0YTYtMmYzNTg1OGQwZmY0XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_UY268_CR11,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]THE TOP SECRET LIFE OF EDGAR BRIGGS[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/loeb/loeblist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BNGEwYTVhY2YtZmYyMC00NTFjLWJlYWItY2RhMGY1YTA5YTIyL2ltYWdlXkEyXkFqcGdeQXVyNTg5NTcwNjk@._V1_UY268_CR5,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]THE RIVALS OF SHERLOCK HOLMES[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/tros/troslist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BNjg5MTk5Mzk5OF5BMl5BanBnXkFtZTcwNjM4MzgxMw@@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]CHARLIES ANGELS[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/ca/calist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BNjkzODk3NjYtZDU4My00ODdlLWE3ZDEtZjI1NDMyYmZhMThjXkEyXkFqcGdeQXVyMzU3MTc5OTE@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]PRIME SUSPECT (1973)[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/PS1973/PS1973list.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BYWY2YTU5YmItMjk5OS00OWQwLTliOGMtYmFmN2M5ZjkxZDVlXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]THE UNTOUCHABLES (1959/1963)[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/untouch/untouchlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMTI4NDM1NDI2Nl5BMl5BanBnXkFtZTcwODY1MjM0MQ@@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]THE PROFESSIONALS[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/pros/proslist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMTc4NjQwODA5NV5BMl5BanBnXkFtZTcwNDMwOTI0MQ@@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]JULIET BRAVO[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/jb/jblist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BYzljYTQ5OTgtMjdmMS00MmYyLTgzMzktYTY3NjdlMTM3YjUyXkEyXkFqcGdeQXVyMTIwOTI0NTE@._V1_UY268_CR8,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]PERRY MASON[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/pm/pmlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BZjEzYmZkYWYtNjM2ZC00OTg0LWI5MWMtYWU0OWE3OTQ0N2M0XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_UY268_CR7,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]TRAPPER JOHN M.D[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/trapper/tjlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BOWU3OWJkZTQtMjZlNi00Nzk0LTk1MTMtMzE1N2U2YjQ0MTgwXkEyXkFqcGdeQXVyMTU2NTE5NDU@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]MURDER SHE WROTE[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/msw/mswlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BOWQ1YjAyNzItYzkzYS00MDFlLTlmNWYtYjYyZWU1YjdiZDMzXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]MIKE HAMMER[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/mh/mhlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BZGM0ZWI2NzYtNjBlZi00NGMzLThhZTUtMzM2M2E4YzViODQ5XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]MAGNUM P.I[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/mag/maglist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BZGMyMDY5MTktYTMzYy00ZjUyLThlOTktMmM3NWY3NjUwNjY5XkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]M*A*S*H[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/mash/mashlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BNTY1MjA2ZjUtMDU1YS00ZjBlLWJiN2MtZTViNjEwYjU1MzgxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]CRIME STORY[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/cs/cslist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMTIzNzY1OTYwMl5BMl5BanBnXkFtZTcwMTc2MTEzMQ@@._V1_UY268_CR10,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]AGATHA CHRISTIES POIROT[/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/ac/aclist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BODljYzNlZTMtMWIwNi00N2QzLWE2ZTAtZDBmYzIwYzhlZDY2XkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]MISSION IMPOSSIBLE[/COLOR][/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/mi/milist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMTg3MDQ4ODQwNF5BMl5BanBnXkFtZTcwODMwODM0MQ@@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]POLICE WOMAN[/COLOR][/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/pw/pwlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMjAyOTQ4NTUyNV5BMl5BanBnXkFtZTcwMDI1OTEzMQ@@._V1_UY268_CR5,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]THE PERSUADERS[/COLOR][/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/persuaders/perlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMTIxMTEzMzc4Nl5BMl5BanBnXkFtZTcwNTAwMDYyMQ@@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+
+<dir>
+        <name>[B][I][COLOR yellow]S.W.A.T[/COLOR][/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/swat/swatlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMTQyODkzMzU1OF5BMl5BanBnXkFtZTYwNDYwNzk5._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+
+
+
+<dir>
+        <name>[B][I][COLOR yellow]HAWAII 5 O[/COLOR][/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/5o/5olist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BNDg5MjA3NjA4MV5BMl5BanBnXkFtZTcwNTY0NDMzMg@@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]IRONSIDE[/COLOR][/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/is/islist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BYmVhNjhjYjQtMjg3ZS00Yzg0LWI1ODMtOWVjMWM5NWZiMzM4XkEyXkFqcGdeQXVyMTk0MjQ3Nzk@._V1_SY1000_CR0,0,691,1000_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]THE SIX MILLION DOLLAR MAN[/COLOR][/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/tsmdm/tsmdmlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMTQ2NTM2NTY1Nl5BMl5BanBnXkFtZTgwMjgwNTkwMDE@._V1_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]SWEENEY[/COLOR][/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/sweeney/sweeneylist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BNjQ1NjA4MDM1NF5BMl5BanBnXkFtZTcwODMyMDcyMQ@@._V1_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]QUINCY M.E[/COLOR][/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/quincey/quincylist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BYjZlN2Y2M2ItZDk4Mi00MDIxLTlmOGMtODg5YTI0Nzc0NWY5XkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SY1000_CR0,0,726,1000_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]THE STREETS OF SAN FRANCISCO[/COLOR][/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/san/sanlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BYmNiM2NkYjYtZGE1NC00OGVlLTg5OWMtYzhmZDQxZmNlMTFlXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SY1000_CR0,0,669,1000_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]CAGNEY AND LACEY[/COLOR][/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/cal/callist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMTgwNjgxMDg1NF5BMl5BanBnXkFtZTcwMTE4MTQ4NA@@._V1_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]THE EQUALIZER[/COLOR][/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/tequal/tequallist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMjAzMzAyODMxMF5BMl5BanBnXkFtZTcwNjcyMjE2MQ@@._V1_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]TJ HOOKER[/COLOR][/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/tj/tjlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMTcyNzI4NDc0Ml5BMl5BanBnXkFtZTcwNzQxMjAzMQ@@._V1_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]CANNON[/COLOR][/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/cannon/cannonlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BNGJkYzJhNTQtZWI3Zi00NTIwLWJiMzEtNDdhMzkxOTk5NWI3XkEyXkFqcGdeQXVyMTAxMjIzNTQ5._V1_SX1777_CR0,0,1777,999_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]THE BIONIC WOMAN[/COLOR][/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/tbw/tbwlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMTI5NTIxNDA2OF5BMl5BanBnXkFtZTYwNjA5NTM5._V1_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]COLUMBO[/COLOR][/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/columbo/collist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BODBlYjcwNWMtZDM0OS00YzZjLTllOWYtYjg2MDM0NjQ5NjRmXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SY1000_CR0,0,682,1000_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]HART TO HART[/COLOR][/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/hth/hthlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMTkwODk5OTUxMl5BMl5BanBnXkFtZTcwNjk3MDUzMQ@@._V1_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]THE ROCKFORD FILES[/COLOR][/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/trf/trflist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BNTE1ZjkyY2MtMGNiNi00ODVkLTljNzAtZTk1NTVmYWU2NzI2XkEyXkFqcGdeQXVyMTkxODQ4MDg@._V1_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]STARSKY AND HUTCH[/COLOR][/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/sh/shlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMTIwMjkwMzg3Ml5BMl5BanBnXkFtZTcwMjQ4MTUyMQ@@._V1_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]KOJAK[/COLOR][/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/kojak/kojaklist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BNzFkNjk2OGEtZjI0Zi00ZWMwLWE3MGItM2VjMzhmNTVjNTMzXkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_SY1000_CR0,0,724,1000_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]CHiPs[/COLOR][/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/chip/chiplist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BNDg1ZWZlMjMtMTk3Ni00M2Q3LWIyZmYtODBkNzE1YWVkOTU1XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]MIAMI VICE[/COLOR][/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/mv/mvlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BMTlmMjJhNDctODg1NS00MzU1LTg3YzEtZGY2ZjYzOGE5OWZmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,704,1000_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]HILL STREET BLUES[/COLOR][/I][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/70scops/hsb/hsblist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BN2U3NmI1YWItNTAyYi00ZmEwLTliNGUtZGZkNGZmY2ZiNjEzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,680,1000_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+

@@ -1,0 +1,72 @@
+<dir>
+        <name>[B][I][COLOR tomato]     TV SERIES[/COLOR][/I][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/tvserieslist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/tv.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR tomato]          MINI TV SERIES[/COLOR][/I][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/miniseries.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/mini.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR tomato]               PERIOD DRAMA[/COLOR][/I][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/periodlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/pd.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR tomato]                    CLASSIC CARTOONS[/COLOR][/I][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/classcartoonlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/ccar.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR tomato]                    CLASSIC COMEDY[/COLOR][/I][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/cclist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/cc.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR tomato]               CLASSIC COPS[/COLOR][/I][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/copscat.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/cops1.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR tomato]          CLASSIC SITCOMS[/COLOR][/I][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/sitcomlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/cs.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR tomato]     CLASSIC SCI-FI[/COLOR][/I][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/sciclassic.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/scifi.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+

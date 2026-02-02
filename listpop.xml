@@ -1,0 +1,29 @@
+<dir>
+      <title>[B][COLORred]                         M.E.T.V[/COLOR][/B] - [B][COLORwhite]POPULAR MOVIES[/COLOR][/B]</title>
+      <tmdb>movies/popular</tmdb>
+      <thumbnail>http://ezzer-mac.com/Addon/images/popmovies.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORred]                         M.E.T.V[/COLOR][/B] - [B][COLORwhite]NOW PLAYING[/COLOR][/B]</title>
+      <tmdb>movies/now_playing</tmdb>
+      <thumbnail>http://ezzer-mac.com/Addon/images/nowplaying.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORred]                         M.E.T.V[/COLOR][/B] - [B][COLORwhite]TOP RATED[/COLOR][/B]</title>
+      <tmdb>movies/top_rated</tmdb>
+      <thumbnail>http://ezzer-mac.com/Addon/images/toprated.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORred]                         M.E.T.V[/COLOR][/B] - [B][COLORwhite]TOP RATED - TV[/COLOR][/B]</title>
+      <tmdb>tv/top_rated</tmdb>
+      <thumbnail>http://ezzer-mac.com/Addon/images/topratedtv.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORred]                         M.E.T.V[/COLOR][/B] - [B][COLORwhite]AIRING TODAY[/COLOR][/B]</title>
+      <tmdb>tv/today</tmdb>
+      <thumbnail>http://ezzer-mac.com/Addon/images/airtoday.jpg</thumbnail>
+</dir>

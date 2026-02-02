@@ -1,0 +1,59 @@
+***********************************************************
+
+          LUCKY DIP
+		  
+**********************************************************
+
+<dir>
+        <name>[B][I][COLOR lightskyblue]NETWORKS[/COLOR][/I][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/luckydip/networks.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/ldnw.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR lightskyblue]PRODUCTIONS[/COLOR][/I][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/luckydip/production.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/ldpro.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR lightskyblue]TV GENRE[/COLOR][/I][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/luckydip/tvGenre.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/ldtvgenre.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR lightskyblue]MORE GENRE[/COLOR][/I][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/luckydip/sectiontv.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/ldmoregenre.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR lightskyblue]SCI-FI[/COLOR][/I][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/luckydip/scifitv.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/ldscifi.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR lightskyblue]TV SERIES[/COLOR][/I][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/luckydip/minitv.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/ldtvseries.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>

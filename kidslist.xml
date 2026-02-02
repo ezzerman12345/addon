@@ -1,0 +1,77 @@
+***************************************
+
+           Kids List
+		   
+***************************************
+
+<dir>
+        <name>[B][I][COLOR yellow]KIDS MOVIES[/COLOR][/I][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/kids/kidsmovies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/kidsmovies.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[B][I][COLOR yellow]MORE DISNEY MOVIES[/COLOR][/I][/B]</title>
+  <tmdb>company/movies/3166</tmdb>
+  <thumbnail>http://www.ezzer-mac.com/Addon/images/kidsmovies.jpg</thumbnail>
+</dir>
+
+<dir>
+  <title>[B][I][COLOR yellow]MORE DISNEY MOVIES 2[/COLOR][/I][/B]</title>
+  <tmdb>company/movies/2</tmdb>
+  <thumbnail>http://www.ezzer-mac.com/Addon/images/kidsmovies.jpg</thumbnail>
+</dir>
+
+<dir>
+  <title>[B][I][COLOR yellow]MORE DISNEY MOVIES 3[/COLOR][/I][/B]</title>
+  <trakt>https://api.trakt.tv/users/djwayne1985/lists/kid-s-movie-s/items</trakt>
+  <thumbnail></thumbnail>
+  <fanart>https://s2.thcdn.com/productimg/300/300/11912794-5444617564126333.jpg</fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR yellow]KIDS BOXSETS[/COLOR][/I][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/kids/kidsboxsets.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/kidsboxsets.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+  <title>[B][I][COLOR yellow]Animation Movies[/COLOR][/I][/B]</title>
+  <tmdb>genre/movies/16</tmdb>
+  <thumbnail></thumbnail>
+  <fanart>https://i.ebayimg.com/images/g/LzgAAOSwr7ZW6-Lz/s-l300.jpg</fanart>
+</dir>
+  
+  <dir>
+  <title>[B][I][COLOR yellow]Dreamworks Animation[/COLOR][/I][/B]</title>
+  <trakt>https://api.trakt.tv/users/movistapp/lists/dreamworks-animation/items</trakt>
+ <thumbnail></thumbnail>
+	<summary>Dreamworks Animation</summary> 
+</dir>
+
+<dir>
+  <title>[B][I][COLOR yellow]D C Comics[/COLOR][/I][/B]</title>
+  <trakt>https://api.trakt.tv/users/movistapp/lists/dc-comics/items</trakt>
+  <thumbnail></thumbnail>
+	<summary>D C Comics</summary>
+</dir>
+
+<dir>
+  <title>[B][I][COLOR yellow]Superman Movies[/COLOR][/I][/B]</title>
+  <trakt>https://api.trakt.tv/users/movistapp/lists/superman/items</trakt>
+  <thumbnail></thumbnail>
+	<summary>Superman Movies</summary>
+</dir>
+
+<dir>
+  <title>[B][I][COLOR yellow]Family Movies[/COLOR][/I][/B]</title>
+  <trakt>https://api.trakt.tv/users/movistapp/lists/family/items</trakt>
+   <thumbnail></thumbnail>
+	<summary>Family Movies</summary>
+</dir>
