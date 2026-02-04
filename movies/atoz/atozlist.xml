@@ -164,7 +164,7 @@
 
 <dir>
         <name>[B][COLOR yellow]M-YSTERY[/COLOR][/B]</name>
-        <link>https://www.ezzer-mac.com/Addon/text/movies/atoz/Mystery%20Movies.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/atoz/Mystery%20Movies.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/mystery.png</thumbnail>
         <animated_fanart></animated_fanart>
