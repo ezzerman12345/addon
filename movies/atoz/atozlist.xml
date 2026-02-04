@@ -234,7 +234,7 @@
 
 <dir>
         <name>[B][COLOR yellow]T-RUE[/COLOR][/B]</name>
-        <link>https://www.ezzer-mac.com/Addon/text/movies/atoz/true%20films.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/atoz/true%20films.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/true.png</thumbnail>
         <animated_fanart></animated_fanart>
