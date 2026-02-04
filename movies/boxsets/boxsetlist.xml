@@ -1,0 +1,31 @@
+**************************************
+             BOX-SETS
+**************************************
+
+
+<dir>
+
+        <title>[B][I][COLOR ffc6ff02]Box Sets 1[/COLOR][/I][/B]</title>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/boxsets/boxset.xml</link>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/newicon/box/box1.png</thumbnail>
+        <summary></summary>
+        
+</dir>
+
+<dir>
+
+        <title>[B][I][COLOR FFc6ff02]Box Sets 2[/COLOR][/I][/B]</title>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/boxsets/boxset2.xml</link>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/newicon/box/box2.png</thumbnail>
+        <summary></summary>
+        
+</dir>
+
+<dir>
+
+        <title>[B][I][COLOR FFc6ff02]Box Sets 3 RD Links[/COLOR][/I][/B]</title>
+        <link>http://www.ezzer-mac.com/Addon/text/boxsetlist.xml</link>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/newicon/box/boxrd.png</thumbnail>
+        <summary></summary>
+        
+</dir>

@@ -1,0 +1,820 @@
+
+**Eighties Movies**
+
+ <item>
+     <title>Back to the Future</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0088763</imdb>
+			 <title>Back to the Future</title>
+			 <year>1985</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,643,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/AgQ5hH1ciPc584OIaUlqHLEwJZ6.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Blade Runner</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0083658</imdb>
+			 <title>Blade Runner</title>
+			 <year>1982</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,671,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/tv8J6uCTKsTlASa8luJqrFiJlBX.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Ghostbusters</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0087332</imdb>
+			 <title>Ghostbusters</title>
+			 <year>1984</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMjYyNzgwMl5BMl5BanBnXkFtZTgwMTE3MjYyMTE@._V1_SY1000_CR0,0,650,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/qmDy6Rdom8d8UFj9GeAAtVIjTRT.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Raiders of the Lost Ark</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0082971</imdb>
+			 <title>Raiders of the Lost Ark</title>
+			 <year>1981</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_SY1000_CR0,0,664,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/1TxaXNobCO3fhcgYUfLHj6CkEFP.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Star Wars: Episode V - The Empire Strikes Back</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0080684</imdb>
+			 <title>Star Wars: Episode V - The Empire Strikes Back</title>
+			 <year>1980</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjk2M2FiMTEtMzFlNS00MzcyLWFjYTAtODBiMDJjMWVlZTUwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/wZsCZshXai2C2IuluNIb6HLiK3h.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>The Shining</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0081505</imdb>
+			 <title>The Shining</title>
+			 <year>1980</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/xu6k5BlsFT2weTG2Ayjo8cu3oPx.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Fast Times at Ridgemont High</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0083929</imdb>
+			 <title>Fast Times at Ridgemont High</title>
+			 <year>1982</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYzBlZjE1MDctYjZmZC00ZTJmLWFkOWEtYjdmZDZkODBkZmI2XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SY1000_CR0,0,663,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/apWNo8UWqrCrnFW0taiOEzdPsAK.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Blue Velvet</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0090756</imdb>
+			 <title>Blue Velvet</title>
+			 <year>1986</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNGNhYWY4M2ItZTFjOC00YmRiLTk4YTUtOGIxNjNjOGU2MTA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/ozpPfzZMQDRZlf8xHtzAuUlVpRH.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>E.T. the Extra-Terrestrial</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0083866</imdb>
+			 <title>E.T. the Extra-Terrestrial</title>
+			 <year>1982</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2ODFlMDAtNzdhOC00ZDYzLWE3YTMtNDU4ZGFmZmJmYTczXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,640,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/kAItezzEH5vtA9ZdnmKaxDj8byK.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Ferris Bueller's Day Off</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0091042</imdb>
+			 <title>Ferris Bueller's Day Off</title>
+			 <year>1986</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMDA0NjZhZWUtNmI2NC00MmFjLTgwZDYtYzVjZmNhMDVmOTBkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/pNrMusE83e5Qg4uw1Idg3s7EsCK.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>The Breakfast Club</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0088847</imdb>
+			 <title>The Breakfast Club</title>
+			 <year>1985</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTM5N2ZmZTMtNjlmOS00YzlkLTk3YjEtNTU1ZmQ5OTdhODZhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,639,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/tUSXZ37j0XpNtmOb5uwqogdcq7E.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Raging Bull</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0081398</imdb>
+			 <title>Raging Bull</title>
+			 <year>1980</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w700_and_h392_bestv2/8mXHmHtJwWzPjp5tepMNFuv1Qix.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>A Nightmare on Elm Street</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0087800</imdb>
+			 <title>A Nightmare on Elm Street</title>
+			 <year>1984</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzFjZmM1ODgtMDBkMS00NWFlLTg2YmUtZjc3ZTgxMjE1OTI2L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_SX650_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w700_and_h392_bestv2/yKIZzfWsDuACZgxesFZS8FqjzSr.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>The Goonies</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0089218</imdb>
+			 <title>The Goonies</title>
+			 <year>1985</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTlmMWU5YTQtOWMxMi00OWE0LTg2MDItMjEyZDBjNWY0NDdhL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/qKeyO9gXaaK0g87tvvqOPK1siwc.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Full Metal Jacket</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0093058</imdb>
+			 <title>Full Metal Jacket</title>
+			 <year>1987</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzc2ZThkOGItZGY5YS00MDYwLTkyOTAtNDRmZWIwMGRhYTc0L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,656,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/nfm6JCKUaM6dT0mATmShLY6cpmc.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Gremlins</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0087363</imdb>
+			 <title>Gremlins</title>
+			 <year>1984</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZDVjN2FkYTQtNTBlOC00MjM5LTgzMWEtZWRlNGUyYmNiOTFiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/h9kfkQCYMn33Jg0shm5AUdRweSU.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Stand by Me</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0092005</imdb>
+			 <title>Stand by Me</title>
+			 <year>1986</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxODliZDYtMGMyYy00ZDQzLTgzOTMtMWY5YWEyNTBhNzk5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/cAwwKiSqFTtXjA5osuBIKWp8dML.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Beverly Hills Cop</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0086960</imdb>
+			 <title>Beverly Hills Cop</title>
+			 <year>1984</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BN2MyZDE0YjAtNWFjYy00MWRlLTk3MTktMzY3ZDVhNTJkZTlmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_CR0,0,698,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/38aEFo3chy25jobknuIX0WTF0Xl.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>The Evil Dead</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0083907</imdb>
+			 <title>The Evil Dead</title>
+			 <year>1981</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODc2MmVjZmUtNjAzMS00MDNiLWIyM2YtOGEzMjg0YjRhMzRmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,643,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/eUEqWIswh9yBXhPvfJsl8MBC8DG.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Platoon</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0091763</imdb>
+			 <title>Platoon</title>
+			 <year>1986</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTU3NzY4ODY5MF5BMl5BanBnXkFtZTcwOTkzNzE1NA@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/aTnCWNF9rZkD6FKfvK14zfztmFd.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>The Thing</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0084787</imdb>
+			 <title>The Thing</title>
+			 <year>1982</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNDcyZmFjY2YtN2I1OC00MzU3LWIzZGEtZDA5N2VlNDJjYWI3L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,660,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/7mdGrxp3ZL2OqNSrQ5LoYySi5MH.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Do the Right Thing</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0097216</imdb>
+			 <title>Do the Right Thing</title>
+			 <year>1989</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODA2MjU1NTI1MV5BMl5BanBnXkFtZTgwOTU4ODIwMjE@._V1_SY1000_CR0,0,676,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/3VZUt1Y9nguvAeWJfkXYqy7CplD.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Who Framed Roger Rabbit</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0096438</imdb>
+			 <title>Who Framed Roger Rabbit</title>
+			 <year>1988</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMDhiOTM2OTctODk3Ny00NWI4LThhZDgtNGQ4NjRiYjFkZGQzXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY1000_CR0,0,676,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/9podqGmd36AJHO13HQIQHQZRTJC.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Top Gun</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0092099</imdb>
+			 <title>Top Gun</title>
+			 <year>1986</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZjQxYTA3ODItNzgxMy00N2Y2LWJlZGMtMTRlM2JkZjI1ZDhhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_CR0,0,646,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/9GyBSsMiGkPSk4OESIYZuedijBI.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Raising Arizona</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0093822</imdb>
+			 <title>Raising Arizona</title>
+			 <year>1987</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOGUwZTEwZTYtZmQ0OS00NmM1LWE2ZTQtNjZiYmE4ZmUxMjk1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_SX664_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/2NKBHDZOT0NlhhT5ZEc5jamaUhX.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Caddyshack</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0080487</imdb>
+			 <title>Caddyshack</title>
+			 <year>1980</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BY2QxMGI0ZjgtMDJjMy00NzM3LTgyNGQtMWM0YmYyNmM4OWFiXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/kdL7CWq5msNd2CzE11fNkY0k4m7.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Once Upon a Time in America</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0087843</imdb>
+			 <title>Once Upon a Time in America</title>
+			 <year>1984</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,639,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/92hpS16FaUDO5FmVjx3z6lBQWXr.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>The Untouchables</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0094226</imdb>
+			 <title>The Untouchables</title>
+			 <year>1987</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYTVjYWJmMWQtYWU4Ni00MWY3LWI2YmMtNTI5MDE0MWVmMmEzL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,646,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/k4LW1C1OVqncn4pqp6hO1UVosiV.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Sixteen Candles</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0088128</imdb>
+			 <title>Sixteen Candles</title>
+			 <year>1984</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTgzNTkxMTkxMl5BMl5BanBnXkFtZTgwMjE3NjkzMTE@._V1_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/if7IlmJHgi5Oo6SObOshWn1ZlOP.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Beetlejuice</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0094721</imdb>
+			 <title>Beetlejuice</title>
+			 <year>1988</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZDdmNjBlYTctNWU0MC00ODQxLWEzNDQtZGY1NmRhYjNmNDczXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_SX670_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/ghqjoy3R6tkzE69rdIvvaK6v5o5.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Airplane</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0080339</imdb>
+			 <title>Airplane</title>
+			 <year>1980</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZDU5MjY1NzItMThjOC00ZTBmLWJmOTMtMTUxNGY3YTM5NGQyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/tFPvOmz0uNmfp1sq2ebYAeUCLQ4.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Stranger Than Paradise</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0088184</imdb>
+			 <title>Stranger Than Paradise</title>
+			 <year>1984</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMDQ1ODM0NzctNDUwZS00NTI3LThjYWQtY2QyN2U5NDAyNDM3XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/Ug80ZiiiXhpR7LUOLJVrBJygTb.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>The King of Comedy</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0085794</imdb>
+			 <title>The King of Comedy</title>
+			 <year>1982</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTAyNDM0OGMtMmQ5OS00OGJiLTljMDUtY2Y1OTFlYmM2ZTk2XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY1000_CR0,0,650,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/gMmahpSK47iTmnaqSCCO4akrAgr.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Crimes and Misdemeanors</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0097123</imdb>
+			 <title>Crimes and Misdemeanors</title>
+			 <year>1989</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYWY3N2EyOWYtNDVhZi00MWRkLTg2OTUtODNkNDQ5ZTIwMGJkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,654,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/pDaCBJPFMG4ndJR3Fi3U5C5vrVH.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>The Verdict</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0084855</imdb>
+			 <title>The Verdict</title>
+			 <year>1982</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU5MzMwMzAzM15BMl5BanBnXkFtZTcwNjYyMjA0Mg@@._V1_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/6hAUcUwiXyCSikvNlZNfzgP2rqb.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Blood Simple</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0086979</imdb>
+			 <title>Blood Simple</title>
+			 <year>1984</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZjU2MzE0OTQtOTJkMi00NDc4LWEyY2ItNjc2MjIyNWI4NDI0XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/eUODQTO8QEAQU1oOqrgkzd2jLxe.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Poltergeist</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0084516</imdb>
+			 <title>Poltergeist</title>
+			 <year>1982</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzliZmRlYTctYmNkYS00NzE5LWI1OWQtMTRiODY5MDMwMTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,656,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/i2otKlu6k5xM0bvA69y4z7XaCGo.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>The Elephant Man</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0080678</imdb>
+			 <title>The Elephant Man</title>
+			 <year>1980</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,670,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/rR479zn26lJp4vNxXKjfBVCHLAW.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Spaceballs</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0094012</imdb>
+			 <title>Spaceballs</title>
+			 <year>1987</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjVjOGQ0OTctNDhkZC00ZGNiLWI2ZGEtYjZlMWZjOTlkNDlhXkEyXkFqcGdeQXVyNjg1MjEwOTM@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/mMblxwsvvJ9wu8CVXVVjX4MBuN2.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Dune</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0087182</imdb>
+			 <title>Dune</title>
+			 <year>1984</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYTAzYzNlMDMtMGRjYS00M2UxLTk0MmEtYmE4YWZiYmEwOTIwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SY1000_CR0,0,640,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/l1ctjtDogIP1niK5xC47JbjhsK.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>An American Werewolf in London</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0082010</imdb>
+			 <title>An American Werewolf in London</title>
+			 <year>1981</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1NTc1MjI5NV5BMl5BanBnXkFtZTYwOTQyOTc3._V1_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/lFiEdW3zVjR2Wujxu3yZLpL2N8n.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Child's Play</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0094862</imdb>
+			 <title>Child's Play</title>
+			 <year>1988</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZGU1MjNiYWYtNGQ5MS00MTgzLTlkYjItZDhhNTdlMTkxZGVlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,676,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/8DkJrxEyRN8gTseEhajybpC5smK.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Condorman</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0082199</imdb>
+			 <title>Condorman</title>
+			 <year>1981</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTY5ZDg5ZGEtM2FmZS00MjMyLWJhMDAtNjBmMmZlOWU2ZWU0XkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_SY1000_CR0,0,651,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/iU9oXY5CsSLO8c4F86Nz75z9xSt.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Desperately Seeking Susan</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0089017</imdb>
+			 <title>Desperately Seeking Susan</title>
+			 <year>1985</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZGY2ZGU4OGMtODMxMC00M2M1LWE0ZGQtOGM1Yjk4MTJmNTZlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/gfenrYQu3xV9kcgzZxmD2xoIsOJ.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>The Karate Kid</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0087538</imdb>
+			 <title>The Karate Kid</title>
+			 <year>1984</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTkzY2YzNmYtY2ViMS00MThiLWFlYTEtOWQ1OTBiOGEwMTdhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX640_CR0,0,640,999_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/rfhnEYubWD4hnUUm8xXmotpqffb.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Police Academy</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0087928</imdb>
+			 <title>Police Academy</title>
+			 <year>1984</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjNiMWVhNjAtMzgyYS00NzRhLWJmNGUtNzdiOGFhMmY5NDUwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,661,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/aW0vnLLvifOsLUWMDV1kmW3Mqol.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Time Bandits</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0081633</imdb>
+			 <title>Time Bandits</title>
+			 <year>1981</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2MDYwMzM0NF5BMl5BanBnXkFtZTcwODI3MTQ5OQ@@._V1_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/koPLq718hLXXXEqUyNP2FRbkv6l.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>¡Three Amigos!</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0092086</imdb>
+			 <title>¡Three Amigos!</title>
+			 <year>1986</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMDdiNWFjYmEtY2VkMC00ZGZkLTg0NGItNzc2NzViYTNiM2MyXkEyXkFqcGdeQXVyMjY3MjUzNDk@._V1_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/mWuHbFc7qVmVcpybx3ezhXLj5VO.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>The Witches of Eastwick</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0094332</imdb>
+			 <title>The Witches of Eastwick</title>
+			 <year>1987</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYTA4ZGRlNDEtNDliMi00NmI0LThlYjctYmViMjI0MDlmOWU2XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/uwOY1y1YrtSnHPAlxiyRfCdGrFB.jpg</fanart>
+ </item>
+ 
+ <item>
+     <title>Invaders from Mars</title>
+	     <meta>
+		     <content>movie</content>
+			 <imdb>tt0091276</imdb>
+			 <title>Invaders from Mars</title>
+			 <year>1986</year>
+		 </meta>
+	<link>
+	      <sublink>search</sublink>
+		  <sublink>searchsd</sublink>
+    </link>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzg4NmY3ZGYtMDcxZi00ODdhLTg1YTUtYzNmNjMyYjkxNDVlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,638,1000_AL_.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/nCJvpSUitSj7gl59zIiAnjx1H38.jpg</fanart>
+ </item>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 

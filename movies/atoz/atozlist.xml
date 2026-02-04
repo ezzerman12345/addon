@@ -1,0 +1,267 @@
+
+
+<dir>
+        <name>[B][COLOR yellow]                              MOVIE BY ACTOR[/COLOR][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/atoz/actors.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/actor.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+	    <summary>Movies By Actors</summary>
+
+</dir>
+
+<dir>
+        <name>[B][COLOR yellow]                              MOVIE BY ACTRESS[/COLOR][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/atoz/Actress.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/actress.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+        <summary>Movies By Actress</summary>
+</dir>
+
+<dir>
+        <name>[B][COLOR yellow]                              MOVIE BY GENRE[/COLOR][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/atoz/genre.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/genre.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+        <summary>Movies By Genre</summary>
+</dir>
+
+<dir>
+        <name>[B][COLOR yellow]                              MOVIE BY YEARS[/COLOR][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/atoz/tmdbyear.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/years.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+        <summary>Movies By Year</summary>
+</dir>
+
+<dir>
+        <name>[B][COLOR yellow]A-CTION[/COLOR][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/atoz/action movies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/action.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+	    <summary>Action Movies</summary>
+
+</dir>
+
+<dir>
+        <name>[B][COLOR yellow]B-RITISH FILMS[/COLOR][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/movies/atoz/british%20films.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/brit.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+        <summary>British Movies</summary>
+</dir>
+
+<dir>
+        <name>[B][COLOR yellow]C-OMEDY[/COLOR][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/movies/atoz/comedy%20movies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/comedy.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+        <summary>Comedy Movies</summary>
+</dir>
+
+<dir>
+        <name>[B][COLOR yellow]D-ISNEY[/COLOR][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/movies/atoz/disney%20movies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/disney.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+        <summary>Disney Movies</summary>
+</dir>
+
+<dir>
+        <name>[B][COLOR yellow]E-IGHTIES[/COLOR][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/movies/atoz/eighties%20movies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/eight.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+        <summary>Eighties Movies</summary>
+</dir>
+
+<dir>
+        <name>[B][COLOR yellow]F-ANTASY[/COLOR][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/movies/atoz/fantasy%20movies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/fantasy.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+        <summary>Fantasy Movies</summary>
+</dir>
+
+<dir>
+        <name>[B][COLOR yellow]G-IRLIE FILMS[/COLOR][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/movies/atoz/girlie%20movies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/girlie.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+        <summary>Girlie Movies</summary>
+</dir>
+
+<dir>
+        <name>[B][COLOR yellow]H-ORROR[/COLOR][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/movies/atoz/horror%20movies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/horror.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+        <summary>Horror Movies</summary>
+</dir>
+
+<dir>
+        <name>[B][COLOR yellow]I-NVESTIGATION[/COLOR][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/movies/atoz/Investigation%20movies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/invest.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+        <summary>Investigation Movies</summary>
+</dir>
+
+<dir>
+        <name>[B][COLOR yellow]J-AIL MOVIES[/COLOR][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/movies/atoz/jail%20movies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/jail.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+        <summary>Jail Movies</summary>
+</dir>
+
+<dir>
+        <name>[B][COLOR yellow]K-IDS MOVIES[/COLOR][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/movies/atoz/Kids%20Movies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/kids.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+        <summary>Kids Movies</summary>
+</dir>
+
+<dir>
+        <name>[B][COLOR yellow]L-EGAL[/COLOR][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/movies/atoz/Legal%20Movies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/legal.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+        <summary>Legal Movies</summary>
+</dir>
+
+<dir>
+        <name>[B][COLOR yellow]M-YSTERY[/COLOR][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/movies/atoz/Mystery%20Movies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/mystery.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+        <summary>Mystery Movies</summary>
+</dir>
+
+<dir>
+        <name>[B][COLOR yellow]N-INETYS[/COLOR][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/movies/atoz/Ninety's%20Movies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/nine.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+        <summary>Ninetys Movies</summary>
+</dir>
+
+<dir>
+        <name>[B][COLOR yellow]O-LD FILMS[/COLOR][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/movies/atoz/Old%20Movies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/old.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+        <summary>Old Movies</summary>
+</dir>
+
+<dir>
+        <name>[B][COLOR yellow]P-SYCHOLOGICAL[/COLOR][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/movies/atoz/Psychological%20Movies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/psyco.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+        <summary>Psychological Movies</summary>
+</dir>
+
+<dir>
+        <name>[B][COLOR yellow]Q-UEENS[/COLOR][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/movies/atoz/Queen%20Movies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/queens.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+        <summary>queen Movies</summary>
+</dir>
+
+<dir>
+        <name>[B][COLOR yellow]R-OMANCE[/COLOR][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/movies/atoz/Romantic%20Movies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/romance.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+        <summary>Romance Movies</summary>
+</dir>
+
+<dir>
+        <name>[B][COLOR yellow]S-EVENTIES[/COLOR][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/movies/atoz/seventies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/seven.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+        <summary>Seventies Movies</summary>
+</dir>
+
+<dir>
+        <name>[B][COLOR yellow]T-RUE[/COLOR][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/movies/atoz/true%20films.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/true.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+        <summary>True Movies</summary>
+</dir>
+
+<dir>
+        <name>[B][COLOR yellow]U-NDERGROUND[/COLOR][/B]</name>
+        <link>https://www.ezzer-mac.com/Addon/text/movies/atoz/Underground%20movies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/under.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+        <summary>Underground Movies</summary>
+</dir>
+
+<dir>
+        <name>[B][COLOR yellow]W-ESTERN[/COLOR][/B]</name>
+        <trakt>https://api.trakt.tv/users/staael2014/lists/westerns/items</trakt>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/western.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+        <summary>Western Movies</summary>
+</dir>
+
+
+
+
