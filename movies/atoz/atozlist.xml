@@ -23,7 +23,7 @@
 
 <dir>
         <name>[B][COLOR yellow]                              MOVIE BY GENRE[/COLOR][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/movies/atoz/genre.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/atoz/genre.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/genre.png</thumbnail>
         <animated_fanart></animated_fanart>
