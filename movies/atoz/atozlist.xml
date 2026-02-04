@@ -154,7 +154,7 @@
 
 <dir>
         <name>[B][COLOR yellow]L-EGAL[/COLOR][/B]</name>
-        <link>https://www.ezzer-mac.com/Addon/text/movies/atoz/Legal%20Movies.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/atoz/Legal%20Movies.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/legal.png</thumbnail>
         <animated_fanart></animated_fanart>
