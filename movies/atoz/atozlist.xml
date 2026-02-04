@@ -2,7 +2,7 @@
 
 <dir>
         <name>[B][COLOR yellow]                              MOVIE BY ACTOR[/COLOR][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/movies/atoz/actors.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/atoz/actors.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.ezzer-mac.com/Addon/images/newicon/atoz/actor.png</thumbnail>
         <animated_fanart></animated_fanart>
