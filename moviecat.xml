@@ -28,7 +28,7 @@
 <dir>
 
         <title>[B][I][COLOR yellow]1001 Must See Movies Before You Die[/COLOR][/I][/B]</title>
-        <trakt>https://api.trakt.tv/users/jtucci/lists/1001-must-see-movies-before-you-die/items</trakt>
+        <trakt>https://trakt.tv/users/duane123/lists/1001-movies-you-must-see-before-you-die-copy/items</trakt>
         <thumbnail>http://ezzer-mac.com/Addon/images/newicon/mustsee.png</thumbnail>
 	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
         <summary>Welcome to Must 1001 Must See Movies Before You Die</summary>
@@ -232,6 +232,7 @@
         <summary>Welcome to War</summary>
 
 </dir>
+
 
 
 
