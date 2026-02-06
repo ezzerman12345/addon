@@ -129,56 +129,56 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Creepshow[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/creep/creeplist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/creep/creeplist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2021/03/07/60443b19d90fd931859763.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Daddy's Home[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/dh/dhlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/dh/dhlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2021/05/10/609971a6357ef039726679.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Despicable Me[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/dm/dmlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/dm/dmlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2020/04/22/5ea03b197eb34.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Die Hard[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/dhard/dhardlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/dhard/dhardlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2019/03/09/5c83937c15a86.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Doctor Strange[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/ds/dslist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/ds/dslist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://img81.pixhost.to/images/0/321897976_poster-500.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Don't Breathe[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/db/dblist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/db/dblist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2021/09/09/6139e283a7031499267035.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]DragonHeart[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/dragh/draghlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/dragh/draghlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2018/10/02/5bb2ea2bb385c.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Dumb and Dumber[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/dad/dadlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/dad/dadlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2018/06/20/5b2a49f3a7470.jpg</thumbnail>
 </dir>
@@ -742,6 +742,7 @@
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2019/12/23/5e0041587fe8f.jpg</thumbnail>
 </dir>
+
 
 
 
