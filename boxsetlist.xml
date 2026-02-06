@@ -292,28 +292,28 @@
         <name>[B][I][COLOR lightskyblue]Jeepers Creepers[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/jc/jclist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2018/03/25/5ab7a57abb52d.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/g410Y1U1ELbmJG14Zru3UAimm1G.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Johnny English[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/jenglish/jenglishlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2022/03/25/623d0e47e10d9333998994.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/lx3Y7teA6DaoQ6cIhwzrlnDZpFW.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Jumanji[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/jum/jumlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2020/06/02/5ed67553ec8c0.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/vgpXmVaVyUL7GGiDeiK1mKEKzcX.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Jurassic Park[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/jp/jplist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2022/08/28/630b5465f2fe6843095761.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/b1xCNnyrPebIc7EWNZIa6jhb1Ww.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -742,6 +742,7 @@
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2019/12/23/5e0041587fe8f.jpg</thumbnail>
 </dir>
+
 
 
 
