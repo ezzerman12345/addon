@@ -488,28 +488,28 @@
         <name>[B][I][COLOR lightskyblue]Scream[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/scream/screamlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2021/11/01/617fcb1ad3291357802223.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/momkKuWburNTqKBF6ez7rvhYVhE.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Sherlock Holmes[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/sherlock/sherlocklist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2022/05/27/6290a4312f883135185470.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/momkKuWburNTqKBF6ez7rvhYVhE.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Shrek[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/shrek/shreklist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2021/03/01/603d0ffa5d707903498379.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Sonic the Hedgehog[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/sth/sthlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2022/07/12/62cd819fc7c28463987252.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -530,7 +530,7 @@
         <name>[B][I][COLOR lightskyblue]Suicide Squad[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/tss/tsslist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2021/12/24/61c5e9291a851274341368.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/xFw9RXKZDvevAGocgBK0zteto4U.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -742,6 +742,7 @@
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2019/12/23/5e0041587fe8f.jpg</thumbnail>
 </dir>
+
 
 
 
