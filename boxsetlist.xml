@@ -88,14 +88,14 @@
         <name>[B][I][COLOR lightskyblue]Cars[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/cars/carslist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2021/08/24/612509bc2a64f834760137.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/u4G8EkiIBZYx0wEg2xDlXZigTOZ.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Cheaper by the Dozen[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/cbtd/cbtdlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2021/05/16/60a11fa249ff0605141597.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/afclGGoQslTYFTnyW1LRMtJMiBp.jpg</thumbnail>
 </dir>
 
 
@@ -103,7 +103,7 @@
         <name>[B][I][COLOR lightskyblue]Clerk[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/clerk/clerklist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2020/05/27/5ece557e649bd.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/zeFhNF0SXlYIvWXpaOLuXVQ3jB4.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -117,21 +117,21 @@
         <name>[B][I][COLOR lightskyblue]Coming to America[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/cta/ctalist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2022/04/15/62594eb94a716429841920.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/djRAvxyvvN2yqlJKDbT3uy4vOBw.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Conan the Barbarian[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/ctb/ctblist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2021/01/08/5ff7c18286c9f646777372.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/7bXLZQpeC5mCCBV0LvY8sgvvybg.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Creepshow[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/creep/creeplist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2021/03/07/60443b19d90fd931859763.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/4SoyTCEpsgLjX6yAyMsx3AsAyRQ.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -742,6 +742,7 @@
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2019/12/23/5e0041587fe8f.jpg</thumbnail>
 </dir>
+
 
 
 
