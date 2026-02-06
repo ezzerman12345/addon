@@ -416,70 +416,70 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Ocean's Eleven[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/ocean/oceanlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/ocean/oceanlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2022/04/04/624b654a96c16583438200.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Pirates of the Caribbean[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/potc/potclist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/potc/potclist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2022/04/17/625c709a209c1309968026.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Pitch Perfect[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/pp/pplist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/pp/pplist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2021/12/18/61bda88ba88e4383768695.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Planet of the Apes[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/pota/potalist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/pota/potalist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2020/05/30/5ed2d6da34006.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Predator[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/pred/predlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/pred/predlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://img81.pixhost.to/images/0/321898238_poster-500.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Rambo[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/rambo/rambolist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/rambo/rambolist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2018/11/14/5beb8adc2d21a.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Ride Alone[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/ra/ralist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/ra/ralist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2021/09/18/6145fe47a809b417463236.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]R.I.P.D[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/ripd/ripdlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/ripd/ripdlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2018/03/07/5a9fc2347766c.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Rocky[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/rocky/rockylist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/rocky/rockylist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2022/03/19/623547b939950171166195.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Rush Hour[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/rhour/rhourlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/rhour/rhourlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2022/01/14/61e0cc86906ee716110137.jpg</thumbnail>
 </dir>
@@ -742,6 +742,7 @@
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2019/12/23/5e0041587fe8f.jpg</thumbnail>
 </dir>
+
 
 
 
