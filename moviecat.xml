@@ -3,7 +3,7 @@
         <title>[B][I][COLOR yellow]2025 MOVIES[/COLOR][/I][/B]</title>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/2025movies.xml</link>
         <thumbnail>https://i.imgur.com/f3ZIOwA.png</thumbnail>
-	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+	    <fanart>https://i.imgur.com/CiV4MPS.jpg</fanart>
         <summary>Welcome to 2025 Movies Section</summary>
 </dir>
 
@@ -12,7 +12,7 @@
         <title>[B][I][COLOR yellow]2024 MOVIES[/COLOR][/I][/B]</title>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/2024movies.xml</link>
         <thumbnail>https://i.imgur.com/ORy12WV.png</thumbnail>
-	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+	    <fanart>https://i.imgur.com/CiV4MPS.jpg</fanart>
         <summary>Welcome to 2024 Movies Section</summary>
 </dir>
 
@@ -21,7 +21,7 @@
         <title>[B][I][COLOR yellow]2023 MOVIES[/COLOR][/I][/B]</title>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/2023movies.xml</link>
         <thumbnail>https://i.imgur.com/78Izoo3.png</thumbnail>
-	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+	    <fanart>https://i.imgur.com/CiV4MPS.jpg</fanart>
         <summary>Welcome to 2023 Movies Section</summary>
 </dir>
 
@@ -47,7 +47,7 @@
         <title>[B][I][COLOR yellow]A to Z MOVIES[/COLOR][/I][/B]</title>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/atoz/atozlist.xml</link>
 	    <thumbnail>https://i.imgur.com/Ptd52la.png</thumbnail>
-	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+	    <fanart>https://i.imgur.com/CiV4MPS.jpg</fanart>
 	    <summary>Welcome to A-Z of Movies</summary>
 </dir>
 
@@ -56,7 +56,7 @@
         <title>[B][I][COLOR yellow]BOX SETS MOVIES[/COLOR][/I][/B]</title>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/boxsets/boxsetlist.xml</link>
         <thumbnail>https://i.imgur.com/ZUIodxj.png</thumbnail>
-	    <fanart>https://i.imgur.com/ZUIodxj.png</fanart>
+	    <fanart>https://i.imgur.com/CiV4MPS.jpg</fanart>
         <summary>Welcome to Box Sets</summary>
 </dir>
 
@@ -65,7 +65,7 @@
         <title>[B][I][COLOR yellow]CHRISTMAS MOVIES[/COLOR][/I][/B]</title>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/christmas.xml</link>
         <thumbnail>https://i.imgur.com/6gz2hem.png</thumbnail>
-	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+	    <fanart>https://i.imgur.com/CiV4MPS.jpg</fanart>
         <summary>Welcome to Christmas Movies</summary>
 </dir>
 
@@ -74,7 +74,7 @@
         <title>[B][I][COLOR yellow]GANGSTER MOVIES[/COLOR][/I][/B]</title>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/ganster.xml</link>
         <thumbnail>http://ezzer-mac.com/Addon/images/newicon/gangster.png</thumbnail>
-	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+	    <fanart>https://i.imgur.com/CiV4MPS.jpg</fanart>
         <summary>Welcome to​ Ganster Movies</summary>
 </dir>
 
@@ -83,7 +83,7 @@
         <title>[B][I][COLOR yellow]HORROR MOVIES[/COLOR][/I][/B]</title>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/horror.xml</link>
         <thumbnail>http://ezzer-mac.com/Addon/images/newicon/horror.png</thumbnail>
-	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+	    <fanart>https://i.imgur.com/CiV4MPS.jpg</fanart>
         <summary>Welcome to Horror Movies</summary>
 </dir>
 
@@ -92,7 +92,7 @@
         <title>[B][I][COLOR yellow]MUST WATCH MOVIES[/COLOR][/I][/B]</title>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/mwm.xml</link>
         <thumbnail>http://ezzer-mac.com/Addon/images/newicon/mustwatch.png</thumbnail>
-	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+	    <fanart>https://i.imgur.com/CiV4MPS.jpg</fanart>
         <summary>Welcome to Must Watch Movies</summary>
 </dir>
 
@@ -101,7 +101,7 @@
         <title>[B][I][COLOR yellow]NEWISH MOVIES[/COLOR][/I][/B]</title>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/newishmovies.xml</link>
         <thumbnail>http://ezzer-mac.com/Addon/images/newicon/newish.png</thumbnail>
-	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+	    <fanart>https://i.imgur.com/CiV4MPS.jpg</fanart>
         <summary>Welcome to Newish Movies</summary>
 </dir>
 
@@ -110,7 +110,7 @@
         <title>[B][I][COLOR yellow]OLD MOVIES[/COLOR][/I][/B]</title>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/1clickold.xml</link>
         <thumbnail>http://ezzer-mac.com/Addon/images/newicon/old.png</thumbnail>
-	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+	    <fanart>https://i.imgur.com/CiV4MPS.jpg</fanart>
         <summary>Welcome to Old Movies</summary>
 </dir>
 
@@ -119,7 +119,7 @@
         <title>[B][I][COLOR yellow]PRODUCTIONS[/COLOR][/I][/B]</title>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/production.xml</link>
         <thumbnail>http://ezzer-mac.com/Addon/images/newicon/production.png</thumbnail>
-	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+	    <fanart>https://i.imgur.com/CiV4MPS.jpg</fanart>
         <summary>Welcome to Productions</summary>
 </dir>
 
@@ -128,7 +128,7 @@
         <title>[B][I][COLOR yellow]RANDOM[/COLOR][/I][/B]</title>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/random.xml</link>
         <thumbnail>http://ezzer-mac.com/Addon/images/newicon/random.png</thumbnail>
-	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+	    <fanart>https://i.imgur.com/CiV4MPS.jpg</fanart>
         <summary>Welcome to Random Movies</summary>
 </dir>
 
@@ -232,6 +232,7 @@
         <summary>Welcome to War</summary>
 
 </dir>
+
 
 
 
