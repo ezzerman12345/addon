@@ -250,42 +250,42 @@
         <name>[B][I][COLOR lightskyblue]HellBoy[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/hellboy/hellboylist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2019/07/02/5d1be54b3cc58.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/21hS8mD8uxBVvf8xVYR30LbbmPO.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Hocas Pocus[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/hp/hplist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2021/07/20/60f622ab7f912130027406.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/by4D4Q9NlUjFSEUA1yrxq6ksXmk.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Halloween[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/hallo/hallolist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2019/02/13/5c6407e72754e.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Hangover[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/hangover/hangoverlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2020/10/23/5f9322d8b6fa1500448826.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/uluhlXubGu1VxU63X9VHCLWDAYP.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Horrible Bosses[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/hboss/hbosslist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2020/05/14/5ebd08a7b89ee.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/uQkUwgyFHAm0jGQERPG6Z9o9Zbj.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Hotel Transylvania[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/ht/htlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2022/10/25/63584a3429a77241333827.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -742,6 +742,7 @@
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2019/12/23/5e0041587fe8f.jpg</thumbnail>
 </dir>
+
 
 
 
