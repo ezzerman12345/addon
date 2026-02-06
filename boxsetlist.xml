@@ -108,7 +108,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Cloverfield[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/clover/cloverlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/clover/cloverlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://img81.pixhost.to/images/0/321898179_poster-500.jpg</thumbnail>
 </dir>
@@ -742,6 +742,7 @@
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2019/12/23/5e0041587fe8f.jpg</thumbnail>
 </dir>
+
 
 
 
