@@ -101,7 +101,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Clerk[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/clerk/clerklist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/clerk/clerklist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2020/05/27/5ece557e649bd.jpg</thumbnail>
 </dir>
@@ -742,6 +742,7 @@
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2019/12/23/5e0041587fe8f.jpg</thumbnail>
 </dir>
+
 
 
 
