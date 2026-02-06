@@ -63,7 +63,7 @@
 <dir>
 
         <title>[B][I][COLOR yellow]CHRISTMAS MOVIES[/COLOR][/I][/B]</title>
-        <link>http://www.ezzer-mac.com/Addon/text/movies/christmas.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/christmas.xml</link>
         <thumbnail>http://ezzer-mac.com/Addon/images/newicon/christmas.png</thumbnail>
 	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
         <summary>Welcome to Christmas Movies</summary>
@@ -72,7 +72,7 @@
 <dir>
 
         <title>[B][I][COLOR yellow]GANGSTER MOVIES[/COLOR][/I][/B]</title>
-        <link>http://www.ezzer-mac.com/Addon/text/movies/ganster.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/ganster.xml</link>
         <thumbnail>http://ezzer-mac.com/Addon/images/newicon/gangster.png</thumbnail>
 	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
         <summary>Welcome to​ Ganster Movies</summary>
@@ -90,7 +90,7 @@
 <dir>
 
         <title>[B][I][COLOR yellow]MUST WATCH MOVIES[/COLOR][/I][/B]</title>
-        <link>http://www.ezzer-mac.com/Addon/text/movies/mwm.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/mwm.xml</link>
         <thumbnail>http://ezzer-mac.com/Addon/images/newicon/mustwatch.png</thumbnail>
 	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
         <summary>Welcome to Must Watch Movies</summary>
@@ -99,7 +99,7 @@
 <dir>
 
         <title>[B][I][COLOR yellow]NEWISH MOVIES[/COLOR][/I][/B]</title>
-        <link>http://www.ezzer-mac.com/Addon/text/movies/newishmovies.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/newishmovies.xml</link>
         <thumbnail>http://ezzer-mac.com/Addon/images/newicon/newish.png</thumbnail>
 	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
         <summary>Welcome to Newish Movies</summary>
@@ -108,7 +108,7 @@
 <dir>
 
         <title>[B][I][COLOR yellow]OLD MOVIES[/COLOR][/I][/B]</title>
-        <link>http://www.ezzer-mac.com/Addon/text/movies/1clickold.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/1clickold.xml</link>
         <thumbnail>http://ezzer-mac.com/Addon/images/newicon/old.png</thumbnail>
 	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
         <summary>Welcome to Old Movies</summary>
@@ -117,7 +117,7 @@
 <dir>
 
         <title>[B][I][COLOR yellow]PRODUCTIONS[/COLOR][/I][/B]</title>
-        <link>http://www.ezzer-mac.com/Addon/text/movies/production.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/production.xmll</link>
         <thumbnail>http://ezzer-mac.com/Addon/images/newicon/production.png</thumbnail>
 	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
         <summary>Welcome to Productions</summary>
@@ -126,7 +126,7 @@
 <dir>
 
         <title>[B][I][COLOR yellow]RANDOM[/COLOR][/I][/B]</title>
-        <link>http://www.ezzer-mac.com/Addon/text/movies/random.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/random.xml</link>
         <thumbnail>http://ezzer-mac.com/Addon/images/newicon/random.png</thumbnail>
 	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
         <summary>Welcome to Random Movies</summary>
@@ -232,6 +232,7 @@
         <summary>Welcome to War</summary>
 
 </dir>
+
 
 
 
