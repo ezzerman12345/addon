@@ -355,7 +355,7 @@
         <name>[B][I][COLOR lightskyblue]Major League[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/ml/mllist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://image.tmdb.org/t/p/w1280/o8uO64psLnagA0urtVxMFBNERVr.jp</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/o8uO64psLnagA0urtVxMFBNERVr.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -742,6 +742,7 @@
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2019/12/23/5e0041587fe8f.jpg</thumbnail>
 </dir>
+
 
 
 
