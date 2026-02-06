@@ -731,7 +731,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Young Guns[/COLOR][/I][/B]</name>
-        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/yguns/ygunslist.xmll</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/yguns/ygunslist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2019/02/25/5c74235731d31.jpg</thumbnail>
 </dir>
@@ -742,6 +742,7 @@
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2019/12/23/5e0041587fe8f.jpg</thumbnail>
 </dir>
+
 
 
 
