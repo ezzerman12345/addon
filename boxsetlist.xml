@@ -486,49 +486,49 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Scream[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/scream/screamlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/scream/screamlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2021/11/01/617fcb1ad3291357802223.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Sherlock Holmes[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/sherlock/sherlocklist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/sherlock/sherlocklist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2022/05/27/6290a4312f883135185470.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Shrek[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/shrek/shreklist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/shrek/shreklist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2021/03/01/603d0ffa5d707903498379.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Sonic the Hedgehog[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/sth/sthlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/sth/sthlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2022/07/12/62cd819fc7c28463987252.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]SpiderMan[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/spiderman/spidermanlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/sth/sthlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://img81.pixhost.to/images/0/321897946_poster-500.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Star Wars[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/swars/swarslist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/swars/swarslist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>http://images2.imagebam.com/45/4d/30/92bcf0699695633.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Suicide Squad[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/tss/tsslist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/tss/tsslist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2021/12/24/61c5e9291a851274341368.jpg</thumbnail>
 </dir>
@@ -742,6 +742,7 @@
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2019/12/23/5e0041587fe8f.jpg</thumbnail>
 </dir>
+
 
 
 
