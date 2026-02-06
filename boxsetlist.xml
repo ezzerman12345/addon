@@ -397,28 +397,28 @@
         <name>[B][I][COLOR lightskyblue]National Lampoon's Vacation[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/nlv/nlvlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2022/05/08/6277b2809d01f766702320.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/q3DvoqY06yZnRp9faH6uge7n7VP.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Night at the Museum[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/natm/natmlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2018/12/23/5c1f6c4fab9b7.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/uY9k8t2FQkMj60obnAnsPKLxHCE.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Now You See Me[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/nysm/nysmlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2020/05/30/5ed2d4f67d7ab.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Ocean's Eleven[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/ocean/oceanlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2022/04/04/624b654a96c16583438200.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -742,6 +742,7 @@
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2019/12/23/5e0041587fe8f.jpg</thumbnail>
 </dir>
+
 
 
 
