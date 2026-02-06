@@ -55,8 +55,8 @@
 
         <title>[B][I][COLOR yellow]BOX SETS MOVIES[/COLOR][/I][/B]</title>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/boxsets/boxsetlist.xml</link>
-        <thumbnail>https://imgur.com/ZUIodxj</thumbnail>
-	    <fanart>https://imgur.com/ZUIodxj</fanart>
+        <thumbnail>https://i.imgur.com/ZUIodxj.png</thumbnail>
+	    <fanart>https://i.imgur.com/ZUIodxj.png</fanart>
         <summary>Welcome to Box Sets</summary>
 </dir>
 
@@ -232,6 +232,7 @@
         <summary>Welcome to War</summary>
 
 </dir>
+
 
 
 
