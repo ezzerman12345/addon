@@ -91,7 +91,7 @@
 
         <title>[B][I][COLOR yellow]MUST WATCH MOVIES[/COLOR][/I][/B]</title>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/mwm.xml</link>
-        <thumbnail>http://ezzer-mac.com/Addon/images/newicon/mustwatch.png</thumbnail>
+        <thumbnail>https://i.imgur.com/hot2uaH.png</thumbnail>
 	    <fanart>https://i.imgur.com/CiV4MPS.jpg</fanart>
         <summary>Welcome to Must Watch Movies</summary>
 </dir>
@@ -100,7 +100,7 @@
 
         <title>[B][I][COLOR yellow]NEWISH MOVIES[/COLOR][/I][/B]</title>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/newishmovies.xml</link>
-        <thumbnail>http://ezzer-mac.com/Addon/images/newicon/newish.png</thumbnail>
+        <thumbnail>https://i.imgur.com/jt7OSK8.png</thumbnail>
 	    <fanart>https://i.imgur.com/CiV4MPS.jpg</fanart>
         <summary>Welcome to Newish Movies</summary>
 </dir>
@@ -109,7 +109,7 @@
 
         <title>[B][I][COLOR yellow]OLD MOVIES[/COLOR][/I][/B]</title>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/1clickold.xml</link>
-        <thumbnail>http://ezzer-mac.com/Addon/images/newicon/old.png</thumbnail>
+        <thumbnail>https://i.imgur.com/FoRMnRG.png</thumbnail>
 	    <fanart>https://i.imgur.com/CiV4MPS.jpg</fanart>
         <summary>Welcome to Old Movies</summary>
 </dir>
@@ -118,7 +118,7 @@
 
         <title>[B][I][COLOR yellow]PRODUCTIONS[/COLOR][/I][/B]</title>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/production.xml</link>
-        <thumbnail>http://ezzer-mac.com/Addon/images/newicon/production.png</thumbnail>
+        <thumbnail>https://i.imgur.com/DpmPQct.png</thumbnail>
 	    <fanart>https://i.imgur.com/CiV4MPS.jpg</fanart>
         <summary>Welcome to Productions</summary>
 </dir>
@@ -127,7 +127,7 @@
 
         <title>[B][I][COLOR yellow]RANDOM[/COLOR][/I][/B]</title>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/random.xml</link>
-        <thumbnail>http://ezzer-mac.com/Addon/images/newicon/random.png</thumbnail>
+        <thumbnail>https://i.imgur.com/0smBysE.png</thumbnail>
 	    <fanart>https://i.imgur.com/CiV4MPS.jpg</fanart>
         <summary>Welcome to Random Movies</summary>
 </dir>
@@ -232,6 +232,7 @@
         <summary>Welcome to War</summary>
 
 </dir>
+
 
 
 
