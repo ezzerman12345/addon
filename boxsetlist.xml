@@ -348,28 +348,28 @@
         <name>[B][I][COLOR lightskyblue]Mad Max[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/mmax/mmaxlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2018/07/14/5b499d5aa357b.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/5LrI4GiCSrChgkdskVZiwv643Kg.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Major League[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/ml/mllist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2021/01/02/5ff0389228ae7458039556.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/o8uO64psLnagA0urtVxMFBNERVr.jp</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Meet the Blacks[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/mtb/mtblist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2020/08/14/5f364684143de681387873.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/4pemUf5lKEzgxGebxxMVKL5NHSW.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Men in Black[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/mib/miblist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2019/02/12/5c63395f6ead3.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -383,14 +383,14 @@
         <name>[B][I][COLOR lightskyblue]Mission Impossible[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/misimpos/misimposlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2021/01/12/5ffe169f4ccdb021631008.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/pyQqxuDYmkyNnjC131bmt1bzShW.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Murder on the Orient Express[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/motoe/motoelist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://img62.pixhost.to/images/144/241993115_0071877.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/33LmWxGdj4hHE2HCTRZII1ZdMmQ.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -742,6 +742,7 @@
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2019/12/23/5e0041587fe8f.jpg</thumbnail>
 </dir>
+
 
 
 
