@@ -46,7 +46,7 @@
 
         <title>[B][I][COLOR yellow]A to Z MOVIES[/COLOR][/I][/B]</title>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/atoz/atozlist.xml</link>
-	    <thumbnail>http://ezzer-mac.com/Addon/images/newicon/az.png</thumbnail>
+	    <thumbnail>https://i.imgur.com/Ptd52la.png</thumbnail>
 	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
 	    <summary>Welcome to A-Z of Movies</summary>
 </dir>
@@ -232,6 +232,7 @@
         <summary>Welcome to War</summary>
 
 </dir>
+
 
 
 
