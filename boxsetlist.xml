@@ -248,70 +248,70 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]HellBoy[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/hellboy/hellboylist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/hellboy/hellboylist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2019/07/02/5d1be54b3cc58.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Hocas Pocus[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/hp/hplist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/hp/hplist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2021/07/20/60f622ab7f912130027406.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Halloween[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/hallo/hallolist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/hallo/hallolist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2019/02/13/5c6407e72754e.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Hangover[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/hangover/hangoverlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/hangover/hangoverlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2020/10/23/5f9322d8b6fa1500448826.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Horrible Bosses[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/hboss/hbosslist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/hboss/hbosslist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2020/05/14/5ebd08a7b89ee.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Hotel Transylvania[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/ht/htlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/ht/htlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2022/10/25/63584a3429a77241333827.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Jeepers Creepers[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/jc/jclist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/jc/jclist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2018/03/25/5ab7a57abb52d.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Johnny English[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/jenglish/jenglishlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/jenglish/jenglishlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2022/03/25/623d0e47e10d9333998994.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Jumanji[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/jum/jumlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/jum/jumlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2020/06/02/5ed67553ec8c0.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Jurassic Park[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/boxsets/jp/jplist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/jp/jplist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2022/08/28/630b5465f2fe6843095761.jpg</thumbnail>
 </dir>
@@ -742,6 +742,7 @@
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2019/12/23/5e0041587fe8f.jpg</thumbnail>
 </dir>
+
 
 
 
