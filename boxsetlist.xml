@@ -334,14 +334,14 @@
         <name>[B][I][COLOR lightskyblue]Legally Blonde[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/lb/lblist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2020/05/28/5ecf9430967d6.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/4ABNnmkVpzplrEVQWt1piITT0Ey.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Lord of the Rings[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/lotr/lotrlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2021/11/03/6181d8b93faaa210504190.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -742,6 +742,7 @@
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2019/12/23/5e0041587fe8f.jpg</thumbnail>
 </dir>
+
 
 
 
