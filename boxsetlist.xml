@@ -453,35 +453,35 @@
         <name>[B][I][COLOR lightskyblue]Rambo[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/rambo/rambolist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2018/11/14/5beb8adc2d21a.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/a9sa6ERZCpplbPEO7OMWE763CLD.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Ride Alone[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/ra/ralist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2021/09/18/6145fe47a809b417463236.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/ihKj5zsdkbm8FQ0IsOpAaaqPGX7.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]R.I.P.D[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/ripd/ripdlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2018/03/07/5a9fc2347766c.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/rS0kByPD4YF8pQ85KjzMdGiu7Xf.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Rocky[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/rocky/rockylist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2022/03/19/623547b939950171166195.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]Rush Hour[/COLOR][/I][/B]</name>
         <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/Boxsets/rhour/rhourlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgaa.com/2022/01/14/61e0cc86906ee716110137.jpg</thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w1280/we7wOLVFgxhzLzUt0qNe50xdIQZ.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -742,6 +742,7 @@
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgaa.com/2019/12/23/5e0041587fe8f.jpg</thumbnail>
 </dir>
+
 
 
 
