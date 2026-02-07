@@ -37,7 +37,7 @@
 <dir>
       <title>[B][I][COLOR yellow]Academy Awards(Oscars)[/COLOR][/I][/B]</title>
       <trakt>https://api.trakt.tv/users/pullsa/lists</trakt>
-      <thumbnail>http://ezzer-mac.com/Addon/images/newicon/academy.png</thumbnail>
+      <thumbnail>https://i.imgur.com/lxbmY4H.png</thumbnail>
 	  <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
 	  <summary>Welcome to Academy Awards</summary>
 </dir>
@@ -232,6 +232,7 @@
         <summary>Welcome to War</summary>
 
 </dir>
+
 
 
 
