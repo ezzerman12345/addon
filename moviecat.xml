@@ -27,6 +27,15 @@
 
 <dir>
 
+        <title>[B][I][COLOR yellow]FREE MOVIES[/COLOR][/I][/B]</title>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/2023movies.xml</link>
+        <thumbnail>https://i.imgur.com/a89ongj.png</thumbnail>
+	    <fanart>https://i.imgur.com/CiV4MPS.jpg</fanart>
+        <summary>Welcome to Free Movies Section</summary>
+</dir>
+
+<dir>
+
         <title>[B][I][COLOR yellow]1001 Must See Movies Before You Die[/COLOR][/I][/B]</title>
         <trakt>https://api.trakt.tv/users/jtucci/lists/1001-must-see-movies-before-you-die/items</trakt>
         <thumbnail>https://i.imgur.com/6KHmAhC.png</thumbnail>
@@ -242,6 +251,7 @@
         <summary>Welcome to War</summary>
 
 </dir>
+
 
 
 
