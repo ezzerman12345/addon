@@ -135,7 +135,7 @@
 <item>
 
         <title>[B][I][COLOR red]                    HIT AND MISS LINKS[/COLOR][/I][/B]</title>
-	    <thumbnail>http://ezzer-mac.com/Addon/images/newicon/hitmiss.png</thumbnail>
+	    <thumbnail>https://i.imgur.com/HCAtKeb.png</thumbnail>
 	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
 	    <summary>As it says this Section is Hit and Miss</summary>
 	
@@ -144,8 +144,8 @@
 <dir>
 
         <title>[B][I][COLOR yellow]ADVENTURE[/COLOR][/I][/B]</title>
-        <link>http://www.ezzer-mac.com/Addon/text/movies/hitandmiss/adventure.xml</link>
-        <thumbnail>http://ezzer-mac.com/Addon/images/newicon/adventure.png</thumbnail>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/hitandmiss/adventure.xml</link>
+        <thumbnail>https://i.imgur.com/oPGWbWw.png</thumbnail>
 	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
         <summary>Welcome to Adventure</summary>
 </dir>
@@ -153,8 +153,8 @@
 <dir>
 
         <title>[B][I][COLOR yellow]BIOGRAPHY[/COLOR][/I][/B]</title>
-        <link>http://www.ezzer-mac.com/Addon/text/movies/hitandmiss/biography.xml</link>
-        <thumbnail>http://ezzer-mac.com/Addon/images/newicon/bio.png</thumbnail>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/hitandmiss/biography.xml</link>
+        <thumbnail>https://i.imgur.com/8GAakBc.png</thumbnail>
 	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
         <summary>Welcome to Biography</summary>
 </dir>
@@ -162,8 +162,8 @@
 <dir>
 
         <title>[B][I][COLOR yellow]CRIME[/COLOR][/I][/B]</title>
-        <link>http://www.ezzer-mac.com/Addon/text/movies/hitandmiss/crime.xml</link>
-        <thumbnail>http://ezzer-mac.com/Addon/images/newicon/crime.png</thumbnail>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/hitandmiss/crime.xml</link>
+        <thumbnail>https://i.imgur.com/cDqm3bs.png</thumbnail>
 	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
         <summary>Welcome to Crime</summary>
 </dir>
@@ -171,8 +171,8 @@
 <dir>
 
         <title>[B][I][COLOR yellow]FAMILY[/COLOR][/I][/B]</title>
-        <link>http://www.ezzer-mac.com/Addon/text/movies/hitandmiss/family.xml</link>
-        <thumbnail>http://ezzer-mac.com/Addon/images/newicon/family.png</thumbnail>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/hitandmiss/family.xml</link>
+        <thumbnail>https://i.imgur.com/nX00sQb.png</thumbnail>
 	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
         <summary>Welcome to Family</summary>
 </dir>
@@ -180,8 +180,8 @@
 <dir>
 
         <title>[B][I][COLOR yellow]MUSIC[/COLOR][/I][/B]</title>
-        <link>http://www.ezzer-mac.com/Addon/text/movies/hitandmiss/music.xml</link>
-        <thumbnail>http://ezzer-mac.com/Addon/images/newicon/music.png</thumbnail>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/hitandmiss/music.xml</link>
+        <thumbnail>https://i.imgur.com/JA4Wx0a.png</thumbnail>
 	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
         <summary>Welcome to Music</summary>
 </dir>
@@ -189,8 +189,8 @@
 <dir>
 
         <title>[B][I][COLOR yellow]MYSTERY[/COLOR][/I][/B]</title>
-        <link>http://www.ezzer-mac.com/Addon/text/movies/hitandmiss/mystery.xml</link>
-        <thumbnail>http://ezzer-mac.com/Addon/images/newicon/mystery.png</thumbnail>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/hitandmiss/mystery.xml</link>
+        <thumbnail>https://i.imgur.com/bV7VVjz.png</thumbnail>
 	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
         <summary>Welcome to Mystery</summary>
 </dir>
@@ -198,8 +198,8 @@
 <dir>
 
         <title>[B][I][COLOR yellow]ROMANCE[/COLOR][/I][/B]</title>
-        <link>http://www.ezzer-mac.com/Addon/text/movies/hitandmiss/romance.xml</link>
-        <thumbnail>http://ezzer-mac.com/Addon/images/newicon/romance.png</thumbnail>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/hitandmiss/romance.xml</link>
+        <thumbnail>https://i.imgur.com/4OwxZCe.png</thumbnail>
 	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
         <summary>Welcome to Romance</summary>
 </dir>
@@ -207,8 +207,8 @@
 <dir>
 
         <title>[B][I][COLOR yellow]SCI-FI[/COLOR][/I][/B]</title>
-        <link>http://www.ezzer-mac.com/Addon/text/movies/hitandmiss/scifi.xml</link>
-        <thumbnail>http://ezzer-mac.com/Addon/images/newicon/scifi.png</thumbnail>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/hitandmiss/scifi.xmll</link>
+        <thumbnail>https://i.imgur.com/o80cePd.png</thumbnail>
 	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
         <summary>Welcome to Sci-Fi</summary>
 </dir>
@@ -216,8 +216,8 @@
 <dir>
 
         <title>[B][I][COLOR yellow]SPORT[/COLOR][/I][/B]</title>
-        <link>http://www.ezzer-mac.com/Addon/text/movies/hitandmiss/sport.xml</link>
-        <thumbnail>http://ezzer-mac.com/Addon/images/newicon/sport.png</thumbnail>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/hitandmiss/sport.xml</link>
+        <thumbnail>https://i.imgur.com/xRQk7Ia.png</thumbnail>
 	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
         <summary>Welcome to Sports</summary>
 </dir>
@@ -226,12 +226,13 @@
 <dir>
 
         <title>[B][I][COLOR yellow]WAR[/COLOR][/I][/B]</title>
-        <link>http://www.ezzer-mac.com/Addon/text/movies/hitandmiss/war.xml</link>
-        <thumbnail>http://ezzer-mac.com/Addon/images/newicon/war.png</thumbnail>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/movies/hitandmiss/war.xml</link>
+        <thumbnail>https://i.imgur.com/jsQS5dF.png</thumbnail>
 	    <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
         <summary>Welcome to War</summary>
 
 </dir>
+
 
 
 
