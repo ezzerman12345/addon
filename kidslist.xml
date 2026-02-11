@@ -34,7 +34,7 @@
 
 <dir>
         <name>[B][I][COLOR yellow]KIDS BOXSETS[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/kids/kidsboxsets.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/kids/kidsboxsets.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>http://www.ezzer-mac.com/Addon/images/kidsboxsets.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -76,3 +76,4 @@
 	<summary>Family Movies</summary>
 
 </dir>
+
