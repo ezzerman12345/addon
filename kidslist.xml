@@ -6,7 +6,7 @@
 
 <dir>
         <name>[B][I][COLOR yellow]KIDS MOVIES[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/kids/kidsmovies.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/kidsmovies.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>http://www.ezzer-mac.com/Addon/images/kidsmovies.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -74,4 +74,5 @@
   <trakt>https://api.trakt.tv/users/movistapp/lists/family/items</trakt>
    <thumbnail></thumbnail>
 	<summary>Family Movies</summary>
+
 </dir>
