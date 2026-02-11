@@ -6,7 +6,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]NETWORKS[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/luckydip/networks.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/luckydip/networks.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>http://www.ezzer-mac.com/Addon/images/ldnw.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -56,4 +56,5 @@
         <thumbnail>http://www.ezzer-mac.com/Addon/images/ldtvseries.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart></fanart>
+
 </dir>
