@@ -6,216 +6,456 @@
     <title>[COLOR yellow]-------------WELCOME TO CLASSICS COPS------------[/COLOR]</title>
 </item>
 
-<dir>
-      <title>[B][I][COLOR lightskyblue]PERRY MASON[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/cops/pm/pmlist.xml</link>
-      <thumbnail>https://www.themoviedb.org/t/p/w1280/1th2fC46icNw67k51FykUn3wwC0.jpg</thumbnail>
-</dir>
-
 
 <dir>
-      <title>[B][I][COLOR lightskyblue]THE MAN FROM UNCLE[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/cops/tmfu/tmfulist.xml</link>
-      <thumbnail>https://img16.pixhost.to/images/89/61094801_capture.jpg</thumbnail>
-</dir>
-
-
-<dir>
+	<meta>
+	<imdb>tt0072472</imdb>
+	<year>1975</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]BARNEY MILLER[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/bm/bmlist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/wfrcuXAlgbPyUenIbCONhICH23h.jpg</thumbnail>
+	<summary>Barney Miller is an American situation comedy television series set in a New York City police station in Greenwich Village. The series originally was broadcast from January 23, 1975 to May 20, 1982 on ABC. It was created by Danny Arnold and Theodore J. Flicker. Noam Pitlik directed the majority of the episodes.</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0090400</imdb>
+	<year>1986</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]BOON[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/boon/boonlist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/xjbb4DLt9dnjNvSFWAy3rNZQZJU.jpg</thumbnail>
+	<summary>Boon is a British television drama and modern-day western series starring Michael Elphick, David Daker, and later Neil Morrissey. It was created by Jim Hill and Bill Stair and filmed by Central Television for ITV. It revolved around the life of a modern-day Lone Ranger and ex-firefighter, Ken Boon.</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0066636</imdb>
+	<year>1971</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]CANNON[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/cannon/cannonlist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/8VkW3h6AD5DPgV1kUzmZNFqdK5l.jpg</thumbnail>
+	<summary>Cannon is a CBS detective television series produced by Quinn Martin which aired from March 26, 1971 to March 3, 1976. The primary protagonist is the title character, private detective Frank Cannon, played by William Conrad. He also appeared on two episodes of Barnaby Jones.</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0073972</imdb>
+	<year>1976</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]CHARLES ANGELS[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/ca/calist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/hTy1z8KR5NhFBUAt65Br9TWyuod.jpg</thumbnail>
+	<summary>Beautiful, intelligent, and ultra-sophisticated, Charlie's Angels are everything a man could dream of... and way more than they could ever handle! Receiving their orders via speaker phone from their never seen boss, Charlie, the Angels employ their incomparable sleuthing and combat skills, as well as their lethal feminine charm, to crack even the most seemingly insurmountable of cases.</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0075488</imdb>
+	<year>1977</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]CHiPs[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/chips/chipslist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/obrPwSPS0q9zK5e7xwlVGlAmWSg.jpg</thumbnail>
+	<summary>Lighthearted look at the adventures of two Highway Patrol officers in Los Angeles. The main characters are Jon Baker and Frank Poncherello, two motorcycle officers always on the street to save lives.</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0053496</imdb>
+	<year>1960</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]DANGER MAN[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/dm/dmlist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/5wCJ8Rt9PA1j6jzzmUQg0EjsxwV.jpg</thumbnail>
+	<summary>Danger Man is a British television series which was broadcast between 1960 and 1962, and again between 1964 and 1968. The series featured Patrick McGoohan as secret agent John Drake. Ralph Smart created the programme and wrote many of the scripts. Danger Man was financed by Lew Grade's ITC Entertainment.</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0088503</imdb>
+	<year>1985</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]DEMPSEY AND MAKEPEACE[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/dam/damlist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/uyfaW5hbsEg4bWgcgVUo4CjwZT.jpg</thumbnail>
+	<summary>Dempsey and Makepeace is a British television crime drama made by London Weekend Television for ITV, created and produced by Ranald Graham. The leading roles were played by Michael Brandon and Glynis Barber, who later married each other on 18 November 1989.</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt2215842</imdb>
+	<year>2013</year>
+	</meta>
+      <title>[B][I][COLOR lightskyblue]FATHER BROWN[/COLOR][/I][/B]</title>
+      <link>http://www.ezzer-mac.com/Addon/text/cops/fbrown/fbrownlist.xml</link>
+      <thumbnail>https://www.themoviedb.org/t/p/w1280/u8LUC3O1hiEDKP2SFZK68iYqMzl.jpg</thumbnail>
+	<summary>Father Brown is based on G. K. Chesterton's detective stories about a Catholic priest who doubles as an amateur detective in order to try and solve mysteries.</summary>
+</dir>
+
+<dir>
+	<meta>
+	<imdb>tt0078622</imdb>
+	<year>1979</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]HART TO HART[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/hth/hthlist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/rK7eHDVQVYwwuxf91rmSNn6ykQn.jpg</thumbnail>
+	<summary>Wealthy couple Jonathan and Jennifer Hart, a self-made millionaire and his journalist wife, moonlight as amateur detectives.</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0062568</imdb>
+	<year>1968</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]HAWII FIVE-O[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/hfo/hfolist.xml</link>
       <thumbnail>https://artworks.thetvdb.com/banners/posters/71223-1.jpg</thumbnail>
+	<summary>Hawaii Five-O is an American police procedural drama series produced by CBS Productions and Leonard Freeman. Set in Hawaii, the show originally aired for 12 seasons from 1968 to 1980, and continues in reruns. Jack Lord portrayed Detective Lieutenant Steve McGarrett, the head of a special state police task force which was based on an actual unit that existed under martial law in the 1940s. The theme music composed by Morton Stevens became especially popular. Many episodes would end with McGarrett instructing his subordinate to "Book 'em, Danno!", sometimes specifying a charge such as "murder one".</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0081873</imdb>
+	<year>1981</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]HILL STREET BLUES[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/hsb/hsblist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/mMfqHsOeI0yLwifmfCRGTaItvTS.jpg</thumbnail>
+	<summary>A realistic glimpse into the daily lives of the officers and detectives at an urban police station</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0061266</imdb>
+	<year>1967</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]IRONSIDE[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/is/islist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/Fu9Sv0pQ0s89uWwwXcaG0kiNW7.jpg</thumbnail>
+	<summary>Ironside is a Universal television series that ran on NBC from September 14, 1967 to January 16, 1975. The show starred Raymond Burr as a paraplegic Chief of Detectives, Robert T. Ironside. The character debuted on March 28, 1967 in a TV movie. When broadcast in the United Kingdom the show was initially titled A Man Called Ironside. The show earned Burr six Emmy and two Golden Globe nominations.</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0080234</imdb>
+	<year>1980</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]JULIET BRAVO[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/jb/jblist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/ifs860YxxWnJHFMeLTlbeSXGN8B.jpg</thumbnail>
+	<summary>Juliet Bravo was a drama that focused on two female police inspectors, neither of whom were called Juliet Bravo! These two inspectors worked in the small fictional town of Hartley, Lancashire. Jean Darblay was on the scene first and had trouble with her sexist colleagues. However she soon managed to gain their trust and prove a woman could be a successful police officer and housewife. Jean's call sign was Juliet Bravo. When she was promoted and moved on she was replaced by Kate Longton who not only took over the patch but also the headaches that went with it.</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0083437</imdb>
+	<year>1982</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]KNIGHT RIDER[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/kr/krlist.xml</link>
       <thumbnail>https://ist3-6.filesor.com/pimpandhost.com/1/7/6/1/176180/4/E/8/r/4E8rh/capturerrb_zpsc16b8da4.JPG</thumbnail>
+	<summary>Michael Long, an undercover police officer, is shot while investigating a case and left for dead by his assailants. He is rescued by Wilton Knight, a wealthy, dying millionaire and inventor who arranges life-saving surgery, including a new face and a new identity--that of Michael Knight. Michael is then given a special computerized and indestructible car called the Knight Industries Two Thousand (nicknamed KITT), and a mission: apprehend criminals who are beyond the reach of the law. The series depicts Michael's exploits as he and KITT battle the forces of evil on behalf of the Foundation for Law and Government.</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0069599</imdb>
+	<year>1973</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]KOJAK[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/kojak/kojaklist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/7F1eH97Bpi8zQbc172drbJCsOsG.jpg</thumbnail>
+	<summary>A bald, lollipop sucking police detective with a fiery righteous attitude battles crime in New York City.</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0080240</imdb>
+	<year>1980</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]MAGNUM P.I[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/mag/maglist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/xcSls4q9dJnvvHnuP5RFWQimcQl.jpg</thumbnail>
+	<summary>A private investigator who works when he wants, lives in a beachfront estate in Hawaii, drives a posh Ferrari, runs up an unlimited tab at a swank bar, and charms attractive women in peril - that's the lifestyle of Thomas Magnum, aka Magnum, P.I.</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0107221</imdb>
+	<year>1992</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]MAIGRET[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/mgret/mgretlist.xml</link>
       <thumbnail>https://artworks.thetvdb.com/banners/posters/74569-2.jpg</thumbnail>
+	<summary>Based on the novels by Georges Simenon, Michael Gambon plays the eponymous detective from the Sûreté in this 1992 revival of the 1960s BBC drama series. Maigret is an intuitutive detective, who investigates his cases by watching and listening, getting to know everyone on his list of suspects until someone makes a slip or breaks down and confesses.</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0062583</imdb>
+	<year>1967</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]MAN IN A SUITCASE[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/mias/miaslist.xml</link>
       <thumbnail>https://myself.2ix.ch/i/qXxf.jpg</thumbnail>
+	<summary>Accused of treason, a former U.S. intelligence officer based in London tries to clear his name, taking on freelance jobs around Europe as he searches for answers.</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0065317</imdb>
+	<year>1970</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]McCLOUD[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/mcc/mcclist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/kPjXgU17GXTKkg0gKJmvmHRW4Bw.jpg</thumbnail>
+	<summary>Deputy Marshal Sam McCloud of the small western town of Taos, New Mexico is assigned to the metropolitan New York City Police Department (NYPD) as a special investigator.</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0086759</imdb>
+	<year>1984</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]MIAMI VICE[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/mv/mvlist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/6psPEKu03UCiLqBxzeSy7wRQOVN.jpg</thumbnail>
+	<summary>The story of the Miami Police Department's vice squad and its efforts to end drug trafficking and prostitution, centered on the unlikely partnership of Sonny Crockett and Ricardo Tubbs - who first meet when Tubbs is undercover in a drug cartel.</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0130416</imdb>
+	<year>1997</year>
+	</meta>
+      <title>[B][I][COLOR lightskyblue]MIKE HAMMER PRIVATE EYE[/COLOR][/I][/B]</title>
+      <link>http://www.ezzer-mac.com/Addon/text/cops/mhpe/mhpelist.xml</link>
+      <thumbnail>https://www.themoviedb.org/t/p/w1280/pMlBPiwkiON9enb67cl7KIYHWP0.jpg</thumbnail>
+	<summary>Mike Hammer, Private Eye is an American syndicated television program based on the adventures of the fictitious private detective Mike Hammer, created by novelist Mickey Spillane. The show starred Stacy Keach and was seen as an attempt to revive the character he had played in Mickey Spillane's Mike Hammer and The New Mike Hammer - two moderately successful syndicated CBS series from the 1980s. Mike Hammer, Private Eye premiered on September 27, 1997. The show failed to gain a wide audience and, as a result, it was canceled after only one season. The final show of the series aired on June 14, 1998.</summary>
+</dir>
+
+<dir>
+	<meta>
+	<imdb>tt0088833</imdb>
+	<year>1984</year>
+	</meta>
+      <title>[B][I][COLOR lightskyblue]MISS MARPLE - THE BODY IN THE LIBRARY[/COLOR][/I][/B]</title>
+      <link>http://www.ezzer-mac.com/Addon/text/cops/tbitl/tbitllist.xml</link>
+      <thumbnail>https://img.photouploads.com/file/PhotoUploads-com/MdI4.jpg</thumbnail>
+	<summary>Amateur detective Miss Jane Marple investigates the murder of a young woman whose body is found in the library at Gossington Hall, home of Colonel and Mrs. Arthur Bantry.</summary>
+</dir>
+
+<dir>
+	<meta>
+	<imdb>tt0050051</imdb>
+	<year>1957</year>
+	</meta>
+      <title>[B][I][COLOR lightskyblue]PERRY MASON[/COLOR][/I][/B]</title>
+      <link>http://www.ezzer-mac.com/Addon/text/cops/pm/pmlist.xml</link>
+      <thumbnail>https://www.themoviedb.org/t/p/w1280/1th2fC46icNw67k51FykUn3wwC0.jpg</thumbnail>
+	<summary>The cases of master criminal defense attorney Perry Mason and his staff who handled the most difficult of cases in the aid of the innocent.</summary>
+</dir>
+
+<dir>
+	<meta>
+	<imdb>tt0071034</imdb>
+	<year>1974</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]POLICE WOMAN[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/pw/pwlist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/leF62WHfjJS4Su9AjDoz4cuqO7k.jpg</thumbnail>
+	<summary>Sergeant “Pepper"” Anderson, an undercover cop for the Criminal Conspiracy Unit of the Los Angeles Police Department, poses undercover from mob girl to prostitute.</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0074042</imdb>
+	<year>1976</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]QUINCY M.E.[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/quincy/quincylist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/sZ58zg6sU5jKhKiHCzstlokkQ90.jpg</thumbnail>
+	<summary>Quincy, M.E. is an American television series from Universal Studios pert in several of the later episodes</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0069630</imdb>
+	<year>1973</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]SHAFT[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/shaft/shaftlist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/yJChPuu2V339IiDPQDHeIh1SYpA.jpg</thumbnail>
+	<summary>Shaft is a series of TV movies that aired along with Hawkins during 1973-74 television season on The New CBS Tuesday Night Movies. The series was based on three films beginning with Shaft, and starring Richard Roundtree as private detective John Shaft.</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0046642</imdb>
+	<year>1954</year>
+	</meta>
+      <title>[B][I][COLOR lightskyblue]SHERLOCK HOLMES (1954)[/COLOR][/I][/B]</title>
+      <link>http://www.ezzer-mac.com/Addon/text/cops/sh1954/sh1954list.xml</link>
+      <thumbnail>https://www.themoviedb.org/t/p/w1280/eFORQaQuldP89f8mQMaa71mmLqu.jpg</thumbnail>
+	<summary>The first American television series of Sherlock Holmes adventures aired in syndication in the fall of 1954. The 39 half-hour mostly original stories were produced by Sheldon Reynolds and filmed in France by Guild Films, starring Ronald Howard as Holmes and Howard Marion Crawford as Watson. Archie Duncan appeared in many episodes as Inspector Lestrade. Richard Larke, billed as Kenneth Richards, played Sgt. Wilkins in about fifteen episodes. The series' associate producer, Nicole Milinaire, was one of the first women to attain a senior production role in a television series.</summary>
+</dir>
+
+<dir>
+	<meta>
+	<imdb>tt0063953</imdb>
+	<year>1969</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]SPECIAL BRANCH[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/sb/sblist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/ad6FLV2EonIkMemVsFMOzrZerer.jpg</thumbnail>
+	<summary>Special Branch is a British television. A police drama series, the action was centred on members of the Special Branch anti-espionage and anti-terrorist department of the London Metropolitan Police.</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0072567</imdb>
+	<year>1975</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]STARSKY & HUTCH[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/sandh/sandhlist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/q9JtKmFimSA6wLVD9a56N54k1dr.jpg</thumbnail>
+	<summary>Streetwise Detective David Starsky partners up with a more intellectual partner, Kenneth 'Hutch' Hutchinson, to protect citizens and patrol the streets of Bay City.</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0072560</imdb>
+	<year>1975</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]S.W.A.T.[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/swat/swatlist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/u3DbvKamBWkchckwioak3PvN8j1.jpg</thumbnail>
+	<summary>S.W.A.T. is an American action/crime drama series about the adventures of a Special Weapons And Tactics team operating in an unidentified California city. A spin-off of The Rookies, the series aired on ABC from February 1975 to April 1976.</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0088621</imdb>
+	<year>1983</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]TAGGART[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/tag/taglist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/3PbPPSHjaiZ2jxFUSvbd8clmfaB.jpg</thumbnail>
+	<summary>Taggart is a Scottish detective television programme.The series revolves around a group of detectives initially in the Maryhill CID of Strathclyde Police, though various storylines have happened in other parts of the Greater Glasgow area, and as of the most recent series the team have operated out of the fictional John Street police station across the street from the City Chambers.</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0088513</imdb>
+	<year>1985</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]THE EQUALIZER[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/tequ/tequlist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/he4X6Ca0KUPOfkIwFshR9JcPs3p.jpg</thumbnail>
+	<summary>Robert McCall is a former agent of a secret government agency who is now running his own private crime fighting operation where he fashions himself as "The Equalizer." It is a service for victims of the system who have exhausted all possible means of seeking justice and have nowhere to go. McCall promises to even out the odds for them.</summary>
 </dir>
 
 <dir>
-      <title>[B][I][COLOR lightskyblue]THE FALL GUY[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/cops/tfg/tfglist.xml</link>
-      <thumbnail>https://ist3-6.filesor.com/pimpandhost.com/1/7/6/1/176180/4/D/V/e/4DVe0/TheFallGuy_S1V2_zps1d45ee54.jpg</thumbnail>
+	<meta>
+	<imdb>tt0057765</imdb>
+	<year>1964</year>
+	</meta>
+      <title>[B][I][COLOR lightskyblue]THE MAN FROM UNCLE[/COLOR][/I][/B]</title>
+      <link>http://www.ezzer-mac.com/Addon/text/cops/tmfu/tmfulist.xml</link>
+      <thumbnail>https://img16.pixhost.to/images/89/61094801_capture.jpg</thumbnail>
+	<summary>Agents Napoleon Solo and Illya Kuryakin work for a secret intelligence service working under the auspices of the U.N.</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0050043</imdb>
+	<year>1957</year>
+	</meta>
+      <title>[B][I][COLOR lightskyblue]THE NEW ADVENTURES OF CHARLIE CHAN[/COLOR][/I][/B]</title>
+      <link>http://www.ezzer-mac.com/Addon/text/cops/cchan/cchanlist.xml</link>
+      <thumbnail>https://www.themoviedb.org/t/p/w1280/8p4BvR2EIpyc8mukSlTTym1w1WD.jpg</thumbnail>
+	<summary>Chinese-American detective Charlie Chan is called in to help solve baffling cases, aided by his #1 son. The first five episodes were filmed in the US, then production switched to the UK for the rest of the series.</summary>
+</dir>
+
+<dir>
+	<meta>
+	<imdb>tt0066701</imdb>
+	<year>1971</year>
+	</meta>
+      <title>[B][I][COLOR lightskyblue]THE PERSUADERS[/COLOR][/I][/B]</title>
+      <link>http://www.ezzer-mac.com/Addon/text/cops/theper/theperlist.xml</link>
+      <thumbnail>https://www.themoviedb.org/t/p/w1280/taB98MBV16I0BYkTooUcNHFXQy6.jpg</thumbnail>
+	<summary>Two worlds collide when Lord Brett Sinclair, a titled British man, and Danny Wilde, a Bronx-raised, self-made American, reluctantly join forces to right wrongs and protect the innocent</summary>
+</dir>
+
+<dir>
+	<meta>
+	<imdb>tt0075561</imdb>
+	<year>1977</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]THE PROFESSIONALS[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/pro/prolist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/dcWbH33uUGk8pKmIgqX3hRkBNeN.jpg</thumbnail>
+	<summary>The lives of Bodie and Doyle, top agents for Britain's CI5 (Criminal Intelligence 5), and their controller, George Cowley</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0167703</imdb>
+	<year>1971</year>
+	</meta>
+      <title>[B][I][COLOR lightskyblue]THE RIVALS OF SHERLOCK HOLMES[/COLOR][/I][/B]</title>
+      <link>http://www.ezzer-mac.com/Addon/text/cops/trosh/troshlist.xml</link>
+      <thumbnail>https://www.themoviedb.org/t/p/w1280/3sfRBSpBT6k5mEANa53T6hFg5lk.jpg</thumbnail>
+	<summary>Adaptations of mystery stories written by Sir Arthur Conan Doyle's contemporary rivals in the genre</summary>
+</dir>
+
+<dir>
+	<meta>
+	<imdb>tt0071054</imdb>
+	<year>1974</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]THE SIX MILLION DOLLAR MAN[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/tsmdm/tsmdmlist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/5pd6DayQgZxK9lQHdZZYZuXyaZ2.jpg</thumbnail>
+	<summary>Follow the adventures of Steve Austin, cybernetically enhanced astronaut turned secret agent, employed by the OSI, under the command of Oscar Goldman and supervised by the scientist who created his cybernetics, Rudy Wells. Steve uses the superior strength and speed provided by his bionic arm and legs, and the enhanced vision provided by his artificial eye, to fight enemy agents, aliens, mad scientists, and a wide variety of other villains.</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0068135</imdb>
+	<year>1972</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]THE STREETS OF SAN FRACISCO[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/tsosf/tsosflist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/9Hpeu6FfEsWuy2rED3JuAMdNKhk.jpg</thumbnail>
+	<summary>A veteran cop with more than twenty years of experience is teamed with a young Inspector to solve crimes in San Francisco, California.</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0071059</imdb>
+	<year>1975</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]THE SWEENEY[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/sweeney/sweeneylist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/bB7er5lQytNjsX3qGL9N4RwXfgt.jpg</thumbnail>
+	<summary>Jack Regan, an unethical officer of the Flying Squad, uses unorthodox methods to pursue criminals with the help of his partner, George Carter.</summary>
 </dir>
 
 <dir>
+	<meta>
+	<imdb>tt0083486</imdb>
+	<year>1982</year>
+	</meta>
       <title>[B][I][COLOR lightskyblue]T J HOOKER[/COLOR][/I][/B]</title>
       <link>http://www.ezzer-mac.com/Addon/text/cops/tj/tjlist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/zcHUwD20mqMD4g8LKdpKD12QRhE.jpg</thumbnail>
+	<summary>Sergeant Thomas Jefferson Hooker is a tough-as-nails veteran police officer with the LCPD who turns his back on a gold badge and goes back to patrolling the streets and training recuits. Along with his young partners in blue, Hooker take on Lake City's toughest criminals.</summary>
 </dir>
 
 
