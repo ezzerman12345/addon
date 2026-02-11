@@ -17,7 +17,7 @@
 
 <dir>
         <name>[B][I][COLOR tomato]               PERIOD DRAMA[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/periodlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/periodlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>http://www.ezzer-mac.com/Addon/images/newicon/tvseries/period.png</thumbnail>
         <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
@@ -26,7 +26,7 @@
 
 <dir>
         <name>[B][I][COLOR tomato]                    CLASSIC CARTOONS[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/classcartoonlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/classcartoonlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>http://www.ezzer-mac.com/Addon/images/newicon/tvseries/cartoon.png</thumbnail>
         <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
@@ -35,7 +35,7 @@
 
 <dir>
         <name>[B][I][COLOR tomato]               TV SERIES BASED ON COMICS[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tsboclist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tsboclist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>http://www.ezzer-mac.com/Addon/images/newicon/tvseries/tvboc.png</thumbnail>
         <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
@@ -44,7 +44,7 @@
 
 <dir>
         <name>[B][I][COLOR tomato]               TRUE CRIME[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/truecrimecat.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/truecrimecat.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>http://www.ezzer-mac.com/Addon/images/newicon/tvseries/tc.png</thumbnail>
         <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
@@ -53,7 +53,7 @@
 
 <dir>
         <name>[B][I][COLOR tomato]                    CLASSIC COMEDY[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/cclist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/cclist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>http://www.ezzer-mac.com/Addon/images/newicon/tvseries/cc.png</thumbnail>
         <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
@@ -62,7 +62,7 @@
 
 <dir>
         <name>[B][I][COLOR tomato]               CLASSIC COPS[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/copscat.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/copscat.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>http://www.ezzer-mac.com/Addon/images/newicon/tvseries/ccops.png</thumbnail>
         <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
@@ -71,7 +71,7 @@
 
 <dir>
         <name>[B][I][COLOR tomato]          CLASSIC SITCOMS[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/sitcomlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/sitcomlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>http://www.ezzer-mac.com/Addon/images/newicon/tvseries/cs.png</thumbnail>
         <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
@@ -80,12 +80,13 @@
 
 <dir>
         <name>[B][I][COLOR tomato]     CLASSIC SCI-FI[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/sciclassic.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/sciclassic.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>http://www.ezzer-mac.com/Addon/images/newicon/tvseries/csf.png</thumbnail>
         <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
 	    <summary>Welcome to Classic Sci-Fi Series Section</summary>
 </dir>
+
 
 
 
