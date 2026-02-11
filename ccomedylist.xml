@@ -1,6 +1,6 @@
 <dir>
         <name>[B][I][COLOR tomato]     TV SERIES[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvserieslist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvserieslist.xml</link>
 	    <summary>Welcome to TV Series Section</summary>
         <thumbnail>http://www.ezzer-mac.com/Addon/images/newicon/tvseries/tvseries.png</thumbnail>
         <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
@@ -86,4 +86,5 @@
         <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
 	    <summary>Welcome to Classic Sci-Fi Series Section</summary>
 </dir>
+
 
