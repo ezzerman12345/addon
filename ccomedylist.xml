@@ -8,7 +8,7 @@
 
 <dir>
         <name>[B][I][COLOR tomato]          MINI TV SERIES[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/miniseries.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/miniseries.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>http://www.ezzer-mac.com/Addon/images/newicon/tvseries/mini.png</thumbnail>
         <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
@@ -86,5 +86,6 @@
         <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
 	    <summary>Welcome to Classic Sci-Fi Series Section</summary>
 </dir>
+
 
 
