@@ -1,0 +1,89 @@
+<dir>
+        <name>[B][I][COLOR tomato]     TV SERIES[/COLOR][/I][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/tvserieslist.xml</link>
+	    <summary>Welcome to TV Series Section</summary>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/newicon/tvseries/tvseries.png</thumbnail>
+        <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR tomato]          MINI TV SERIES[/COLOR][/I][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/miniseries.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/newicon/tvseries/mini.png</thumbnail>
+        <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+	    <summary>Welcome to Mini TV Series Section</summary>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR tomato]               PERIOD DRAMA[/COLOR][/I][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/periodlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/newicon/tvseries/period.png</thumbnail>
+        <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+	    <summary>Welcome to Period Drama Section</summary>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR tomato]                    CLASSIC CARTOONS[/COLOR][/I][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/classcartoonlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/newicon/tvseries/cartoon.png</thumbnail>
+        <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+	    <summary>Welcome to Classic Cartoons Section</summary>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR tomato]               TV SERIES BASED ON COMICS[/COLOR][/I][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/tsboclist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/newicon/tvseries/tvboc.png</thumbnail>
+        <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+	    <summary>Welcome to TV Series Based on Comics Section</summary>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR tomato]               TRUE CRIME[/COLOR][/I][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/truecrimecat.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/newicon/tvseries/tc.png</thumbnail>
+        <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+	    <summary>Welcome to True Crime Series Section</summary>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR tomato]                    CLASSIC COMEDY[/COLOR][/I][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/cclist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/newicon/tvseries/cc.png</thumbnail>
+        <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+	    <summary>Welcome to Classic Comedy Series Section</summary>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR tomato]               CLASSIC COPS[/COLOR][/I][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/copscat.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/newicon/tvseries/ccops.png</thumbnail>
+        <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+	    <summary>Welcome to Classic Cops Series Section</summary>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR tomato]          CLASSIC SITCOMS[/COLOR][/I][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/sitcomlist.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/newicon/tvseries/cs.png</thumbnail>
+        <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+	    <summary>Welcome to Classic Sitcoms Series Section</summary>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR tomato]     CLASSIC SCI-FI[/COLOR][/I][/B]</name>
+        <link>http://www.ezzer-mac.com/Addon/text/sciclassic.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/newicon/tvseries/csf.png</thumbnail>
+        <fanart>http://www.ezzer-mac.com/Addon/images/newicon/fanart.jpg</fanart>
+	    <summary>Welcome to Classic Sci-Fi Series Section</summary>
+</dir>
+
