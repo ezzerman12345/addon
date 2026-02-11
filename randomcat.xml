@@ -1,7 +1,7 @@
 <dir>
 
         <title>[B][I][COLOR yellow]MOVIES[/COLOR][/I][/B]</title>
-        <link>http://www.ezzer-mac.com/Addon/text/randomrequest/randommovies.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/randomrequest/randommovies.xml</link>
         <thumbnail>http://ezzer-mac.com/Addon/images/movies.jpg</thumbnail>
         <summary></summary>
 </dir>
@@ -9,7 +9,7 @@
 <dir>
 
         <title>[B][I][COLOR yellow]TV SERIES[/COLOR][/I][/B]</title>
-        <link>http://www.ezzer-mac.com/Addon/text/randomrequest/randomtv.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/randomrequest/randomtv.xml</link>
         <thumbnail>http://ezzer-mac.com/Addon/images/tv.jpg</thumbnail>
         <summary></summary>
 </dir>
@@ -17,7 +17,8 @@
 <dir>
 
         <title>[B][I][COLOR yellow]EVERYTHING ELSE[/COLOR][/I][/B]</title>
-        <link>http://www.ezzer-mac.com/Addon/text/randomrequest/randomelse.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/randomrequest/randomelse.xml</link>
         <thumbnail>http://ezzer-mac.com/Addon/images/random1.jpg</thumbnail>
         <summary></summary>
+
 </dir>
