@@ -1,0 +1,439 @@
+
+<dir>
+        <name>[B][I][COLOR white]KIDS BOX-SETS[/COLOR][/I][/B]</name>
+        <link>http://miniaturelife67.co.uk/Addon/text/kids_boxset.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][I][COLOR white]DISNEY MOVIES[/COLOR][/I][/B]</name>
+        <link>http://miniaturelife67.co.uk/Addon/text/disney.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+        
+<dir>
+      <title>[B][COLORwhite]Adventure Time[/COLOR][/B]</title>
+      <tmdb>list/42169</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Animaniacs[/COLOR][/B]</title>
+      <tmdb>list/42185</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Arthur[/COLOR][/B]</title>
+      <tmdb>list/42218</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Avatar: The Last Airbender[/COLOR][/B]</title>
+      <tmdb>list/42181</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Bagpuss[/COLOR][/B]</title>
+      <tmdb>list/42199</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Barney & Friends[/COLOR][/B]</title>
+      <tmdb>list/42221</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Batman: The Animated Series[/COLOR][/B]</title>
+      <tmdb>list/42174</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Battle of the Planets[/COLOR][/B]</title>
+      <tmdb>list/42164</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Blue Peter[/COLOR][/B]</title>
+      <tmdb>list/42200</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Byker Grove[/COLOR][/B]</title>
+      <tmdb>list/42196</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Chorlton and the Wheelies[/COLOR][/B]</title>
+      <tmdb>list/42206</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Clifford the Big Red Dog[/COLOR][/B]</title>
+      <tmdb>list/42222</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Crackerjack[/COLOR][/B]</title>
+      <tmdb>list/42207</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Danger Mouse[/COLOR][/B]</title>
+      <tmdb>list/42165</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Dexter's Laboratory[/COLOR][/B]</title>
+      <tmdb>list/42184</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Disney's House of Mouse[/COLOR][/B]</title>
+      <tmdb>list/42229</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]DuckTales[/COLOR][/B]</title>
+      <tmdb>list/42172</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]DuckTales 2017[/COLOR][/B]</title>
+      <tmdb>list/42173</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Ed, Edd n Eddy[/COLOR][/B]</title>
+      <tmdb>list/42175</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Family Guy[/COLOR][/B]</title>
+      <tmdb>list/42160</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Fraggle Rock[/COLOR][/B]</title>
+      <tmdb>list/42219</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Foster's Home for Imaginary Friends[/COLOR][/B]</title>
+      <tmdb>list/42179</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Garfield and Friends[/COLOR][/B]</title>
+      <tmdb>list/42216</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Grange Hill[/COLOR][/B]</title>
+      <tmdb>list/42197</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]He-Man and the Masters of the Universe[/COLOR][/B]</title>
+      <tmdb>list/42166</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]He-Man and the Masters of the Universe 2004[/COLOR][/B]</title>
+      <tmdb>list/42167</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Hong Kong Phooey[/COLOR][/B]</title>
+      <tmdb>list/42211</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Jamie and the Magic Torch[/COLOR][/B]</title>
+      <tmdb>list/42194</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Johnny Bravo[/COLOR][/B]</title>
+      <tmdb>list/42177</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Knightmare[/COLOR][/B]</title>
+      <tmdb>list/42171</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Maid Marian and Her Merry Men[/COLOR][/B]</title>
+      <tmdb>list/42192</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Pinky and the Brain[/COLOR][/B]</title>
+      <tmdb>list/42180</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Postman Pat[/COLOR][/B]</title>
+      <tmdb>list/42189</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Power Rangers[/COLOR][/B]</title>
+      <tmdb>list/42220</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Rainbow[/COLOR][/B]</title>
+      <tmdb>list/42215</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Rentaghost[/COLOR][/B]</title>
+      <tmdb>list/42213</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Roobarb[/COLOR][/B]</title>
+      <tmdb>list/42201</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Rugrats[/COLOR][/B]</title>
+      <tmdb>list/42161</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Samurai Jack[/COLOR][/B]</title>
+      <tmdb>list/42176</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Scooby-Doo, Where Are You![/COLOR][/B]</title>
+      <tmdb>list/42162</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Sesame Street[/COLOR][/B]</title>
+      <tmdb>list/42163</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]SMTV Live[/COLOR][/B]</title>
+      <tmdb>list/42214</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]SpongeBob SquarePants[/COLOR][/B]</title>
+      <tmdb>list/42157</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Teen Titans[/COLOR][/B]</title>
+      <tmdb>list/42178</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Teletubbies[/COLOR][/B]</title>
+      <tmdb>list/42224</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Tiswas[/COLOR][/B]</title>
+      <tmdb>list/42193</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]The Adventure Game[/COLOR][/B]</title>
+      <tmdb>list/42204</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]The Basil Brush Show[/COLOR][/B]</title>
+      <tmdb>list/42203</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]The Batman[/COLOR][/B]</title>
+      <tmdb>list/42223</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]The Fairly OddParents[/COLOR][/B]</title>
+      <tmdb>list/42168</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]The Flintstones[/COLOR][/B]</title>
+      <tmdb>list/42159</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]The Jetsons[/COLOR][/B]</title>
+      <tmdb>list/42170</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]The Muppet Show[/COLOR][/B]</title>
+      <tmdb>list/42187</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]The Pink Panther Show[/COLOR][/B]</title>
+      <tmdb>list/42182</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]The Powerpuff Girls[/COLOR][/B]</title>
+      <tmdb>list/42183</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]The Singing Ringing Tree[/COLOR][/B]</title>
+      <tmdb>list/42209</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]The Sooty Show[/COLOR][/B]</title>
+      <tmdb>list/42210</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]The Tom and Jerry Show[/COLOR][/B]</title>
+      <tmdb>list/42226</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]The Tomorrow People[/COLOR][/B]</title>
+      <tmdb>list/42202</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Thomas and Friends[/COLOR][/B]</title>
+      <tmdb>list/42188</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Top Cat[/COLOR][/B]</title>
+      <tmdb>list/42190</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Trumpton[/COLOR][/B]</title>
+      <tmdb>list/42195</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[B][COLORwhite]Tweenies[/COLOR][/B]</title>
+      <tmdb>list/42225</tmdb>
+      <thumbnail>http://miniaturelife67.co.uk/Addon/images/movies/kids.jpg</thumbnail>
+</dir>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
