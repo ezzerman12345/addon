@@ -30,8 +30,9 @@
 	<season>3</season>
 	<year>2022</year>
 	</meta>
-	<link>https://github.com/ezzerman12345/addon/blob/main/tvseries/afterlife/afterlife3.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/afterlife/afterlife3.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/k4reCI9znTrm4PfnC8W3uFWDzDj.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/iQVNcpLKuVLJG4sGF0mGoIknLMq.jpg</fanart>
 </dir>
+
 
