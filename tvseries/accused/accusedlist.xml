@@ -1,0 +1,24 @@
+<dir>
+	<title>[COLOR=white]Series 1[/COLOR]</title>
+	<meta>
+	<imdb>tt1769411</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>2010</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/accused/accused1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/hJf8sI9lbdIe5GvJoIttYxpNty0.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/g61rFsbIVoN8tb08nChex1FERQu.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Series 2[/COLOR]</title>
+	<meta>
+	<imdb>tt1769411</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2012</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/accused/accused2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/4CeqEw797MjtVEnHn7jbTQhyp2f.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/g61rFsbIVoN8tb08nChex1FERQu.jpg</fanart>
+</dir>
