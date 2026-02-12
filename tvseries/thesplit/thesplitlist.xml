@@ -1,0 +1,36 @@
+<dir>
+	<title>[COLOR=white]Series 1[/COLOR]</title>
+	<meta>
+	<imdb>tt7631146</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>2018</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/thesplit/thesplit1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/h4l02Z55HQC93Te4CzEngr7JCKV.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/kZA1PConTaVJQH2lAgvGB6VEO2b.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Series 2[/COLOR]</title>
+	<meta>
+	<imdb>tt7631146</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2020</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/thesplit/thesplit2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gt78LAucr9wWOP10JAG3wV86T1y.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/kZA1PConTaVJQH2lAgvGB6VEO2b.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Series 3[/COLOR]</title>
+	<meta>
+	<imdb>tt7631146</imdb>
+	<content>season</content>
+	<season>3</season>
+	<year>2022</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/thesplit/thesplit3.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/vOxXjqBNGXTjZeYCsEebljiDkLj.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/kZA1PConTaVJQH2lAgvGB6VEO2b.jpg</fanart>
+</dir>
