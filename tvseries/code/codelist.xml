@@ -1,0 +1,36 @@
+<dir>
+	<title>[COLOR=white]Series 1[/COLOR]</title>
+	<meta>
+	<imdb>tt9169784</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>2020</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/code/code1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/eziqqKVysxen1gRlZX2wbb5BUDq.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/tBXtDa0EUy0LD1LtbwmHRxV5At.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Series 2[/COLOR]</title>
+	<meta>
+	<imdb>tt9169784</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2021</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/code/code2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/4mxnGq5ysyqSDF1UyBj9wAI3TwF.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/tBXtDa0EUy0LD1LtbwmHRxV5At.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Series 3[/COLOR]</title>
+	<meta>
+	<imdb>tt9169784</imdb>
+	<content>season</content>
+	<season>3</season>
+	<year>2022</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/code/code3.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6DWel4NSWcgX2VW1fSOcqEjesFw.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/tBXtDa0EUy0LD1LtbwmHRxV5At.jpg</fanart>
+</dir>
