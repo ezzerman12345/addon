@@ -1,0 +1,37 @@
+
+<dir>
+	<title>[COLOR=white]Season 1[/COLOR]</title>
+	<meta>
+	<imdb>tt2699128</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>2014</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/tlo/tlo1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/w2zeyglJ5gpwz8J2p90evU5SXvB.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/qXm5j4jxl69kp7bO6O8VbDriMPA.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 2[/COLOR]</title>
+	<meta>
+	<imdb>tt2699128</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2015</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/tlo/tlo2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/yMejMxkTyePplyaWhTmQEGqVZX0.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/qXm5j4jxl69kp7bO6O8VbDriMPA.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 3[/COLOR]</title>
+	<meta>
+	<imdb>tt2699128</imdb>
+	<content>season</content>
+	<season>3</season>
+	<year>2017</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/tlo/tlo3.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/46aKrlLIssEa9apmBAstAwjFcHO.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/qXm5j4jxl69kp7bO6O8VbDriMPA.jpg</fanart>
+</dir>
