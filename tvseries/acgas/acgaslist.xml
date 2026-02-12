@@ -18,7 +18,7 @@
 	<season>1</season>
 	<year>1978</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/acgas/acgas1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/acgas/acgas1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/iraxtlfidYwbijCWTrzcekj5RhU.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/kqpOg91jYda1G3RU7MpjdHllAGy.jpg</fanart>
 </dir>
@@ -30,7 +30,7 @@
 	<season>2</season>
 	<year>1978</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/acgas/acgas2.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/acgas/acgas2.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/yMFVF0ERcAwrZ3taZXC7drGNlYq.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/kqpOg91jYda1G3RU7MpjdHllAGy.jpg</fanart>
 </dir>
@@ -42,7 +42,7 @@
 	<season>3</season>
 	<year>1979</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/acgas/acgas3.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/acgas/acgas3.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/40GqpjTU6kt3lgbAZsGZGm6KQy0.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/kqpOg91jYda1G3RU7MpjdHllAGy.jpg</fanart>
 </dir>
@@ -54,7 +54,7 @@
 	<season>4</season>
 	<year>1988</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/acgas/acgas4.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/acgas/acgas4.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/rGuBvyAWpza5Gl2XGqvFxg7IedZ.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/kqpOg91jYda1G3RU7MpjdHllAGy.jpg</fanart>
 </dir>
@@ -66,7 +66,7 @@
 	<season>5</season>
 	<year>1988</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/acgas/acgas5.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/acgas/acgas5.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/mHQtljCOuOEtbF8XSq9LIzE2O9L.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/kqpOg91jYda1G3RU7MpjdHllAGy.jpg</fanart>
 </dir>
@@ -78,7 +78,7 @@
 	<season>6</season>
 	<year>1989</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/acgas/acgas6.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/acgas/acgas6.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/f9xlVKTCohqagfjUhFmeeuvrJTW.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/kqpOg91jYda1G3RU7MpjdHllAGy.jpg</fanart>
 </dir>
@@ -90,7 +90,8 @@
 	<season>7</season>
 	<year>1990</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/acgas/acgas7.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/acgas/acgas7.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/mfNZPrqfD978RzosjHrLaTBlaVj.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/kqpOg91jYda1G3RU7MpjdHllAGy.jpg</fanart>
 </dir>
+
