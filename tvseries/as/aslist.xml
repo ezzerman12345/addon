@@ -7,7 +7,7 @@
 	<season>1</season>
 	<year>2009</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/as/as1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/as/as1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/ekNAG546lcaWpN8zetJSxKr4OmR.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/aXrbn4FRDIodNwYNvxGEyDqSzRK.jpg</fanart>
 </dir>
@@ -19,7 +19,7 @@
 	<season>2</season>
 	<year>2010</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/as/as2.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/as/as2.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280None</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/aXrbn4FRDIodNwYNvxGEyDqSzRK.jpg</fanart>
 </dir>
@@ -31,7 +31,7 @@
 	<season>3</season>
 	<year>2011</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/as/as3.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/as/as3.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280None</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/aXrbn4FRDIodNwYNvxGEyDqSzRK.jpg</fanart>
 </dir>
@@ -43,7 +43,8 @@
 	<season>4</season>
 	<year>2012</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/as/as4.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/as/as4.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280None</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/aXrbn4FRDIodNwYNvxGEyDqSzRK.jpg</fanart>
 </dir>
+
