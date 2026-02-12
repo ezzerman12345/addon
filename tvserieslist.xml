@@ -28,7 +28,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]A CONFESSION[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/aconfession/aconfessionlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/aconfession/aconfessionlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/gyU8PABRE7sNHS8Q8UQ8PxVo84e.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1993,5 +1993,6 @@
         <fanart></fanart>
 
 </dir>
+
 
 
