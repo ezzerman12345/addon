@@ -22,7 +22,7 @@
 
 <dir>
       <title>[B][I][COLOR lightskyblue]ACCUSED[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/tvseries/accused/accusedlist.xml</link>
+      <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/accused/accusedlist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/nfeqQPO2hpw0NYG6xiK0gWUC2l0.jpg</thumbnail>
 </dir>
 
@@ -1993,4 +1993,5 @@
         <fanart></fanart>
 
 </dir>
+
 
