@@ -1,0 +1,36 @@
+<dir>
+	<title>[COLOR=white]Season 1[/COLOR]</title>
+	<meta>
+	<imdb>tt0086791</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>1984</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/ros/ros1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/biyQTi8j5DQzbsk4nIZPoTAyIyn.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280None</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 2[/COLOR]</title>
+	<meta>
+	<imdb>tt0086791</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>1986</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/ros/ros2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6cZEfYtBgXx9mMKIojiNuNC423f.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280None</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 3[/COLOR]</title>
+	<meta>
+	<imdb>tt0086791</imdb>
+	<content>season</content>
+	<season>3</season>
+	<year>1986</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/ros/ros3.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/89AxMe0vUyxOD6CjT4Jkg8Z23Li.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280None</fanart>
+</dir>
