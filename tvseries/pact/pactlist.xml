@@ -1,0 +1,24 @@
+<dir>
+	<title>[COLOR=white]Series 1[/COLOR]</title>
+	<meta>
+	<imdb>tt13107070</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>2021</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/pact/pact1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gfxVCMByNnFHLLQBaetbD1YUPzs.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/qU5bXObOxW8ci8AEuAZOJGpT1gr.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Series 2[/COLOR]</title>
+	<meta>
+	<imdb>tt13107070</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2022</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/pact/pact2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qezhMn3fKfpSmGFDiB8rPGDjzNR.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/qU5bXObOxW8ci8AEuAZOJGpT1gr.jpg</fanart>
+</dir>

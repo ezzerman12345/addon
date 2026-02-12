@@ -1,0 +1,24 @@
+<dir>
+	<title>[COLOR=white]Season 1[/COLOR]</title>
+	<meta>
+	<imdb>tt2077823</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>2020</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/pm/pm1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ajGOPBFxknwkVLiXD9f8nhsiyKn.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/qKHjFK5tae0elB4zaDmicmjb5qI.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 2[/COLOR]</title>
+	<meta>
+	<imdb>tt2077823</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2023</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/pm/pm2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/5QcaEyfSbJEmiaxf7ch8nBl0GO4.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/qKHjFK5tae0elB4zaDmicmjb5qI.jpg</fanart>
+</dir>
