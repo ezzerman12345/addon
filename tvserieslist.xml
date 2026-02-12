@@ -52,7 +52,7 @@
 
 <dir>
       <title>[B][I][COLOR lightskyblue]AGATHA CHRISTIE POIROT[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/tvseries/poirot/poirotlist.xml</link>
+      <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/poirot/poirotlist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/owEg4UjJCo60tPFckAZ4CPmR0Ra.jpg</thumbnail>
 </dir>
 
@@ -1993,6 +1993,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
