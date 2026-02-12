@@ -46,7 +46,7 @@
 
 <dir>
       <title>[B][I][COLOR lightskyblue]AGATHA CHRISTIE MARPLE[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/tvseries/agm/agmlist.xml</link>
+      <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/agm/agmlist.xml</link>
       <thumbnail>https://artworks.thetvdb.com/banners/posters/250440-3.jpg</thumbnail>
 </dir>
 
@@ -1993,6 +1993,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
