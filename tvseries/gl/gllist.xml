@@ -1,0 +1,37 @@
+
+<dir>
+	<title>[COLOR=white]Series 1[/COLOR]</title>
+	<meta>
+	<imdb>tt1477131</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>2009</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/gl/gl1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/k8RabOmOviFIrdxoXwvceqSARQ2.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280None</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Series 2[/COLOR]</title>
+	<meta>
+	<imdb>tt1477131</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2010</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/gl/gl2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/tEeof6cdPUDQGZwXllZ9p0NBwpn.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280None</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Series 3[/COLOR]</title>
+	<meta>
+	<imdb>tt1477131</imdb>
+	<content>season</content>
+	<season>3</season>
+	<year>2011</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/gl/gl3.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/tLH2E20jDwL8AkU7yLI46slI1YJ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280None</fanart>
+</dir>

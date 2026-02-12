@@ -1,0 +1,37 @@
+
+<dir>
+	<title>[COLOR=white]Season 1[/COLOR]</title>
+	<meta>
+	<imdb>tt3428912</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>2014</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/hv/hv1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/31m6RHneZMqlNeUkxcuAqbD2RUw.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/jr02ooBDhTnymi65dj1vXn2o7sx.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 2[/COLOR]</title>
+	<meta>
+	<imdb>tt3428912</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2016</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/hv/hv2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/g8Si0AF4nDyr5abAlmSz0xZ8vKs.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/jr02ooBDhTnymi65dj1vXn2o7sx.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 3[/COLOR]</title>
+	<meta>
+	<imdb>tt3428912</imdb>
+	<content>season</content>
+	<season>3</season>
+	<year>2023</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/hv/hv3.xml</link>
+	<thumbnail>https://www.themoviedb.org/t/p/w260_and_h390_bestv2/6qfk7TcLbam1bXWKaEwY5Wlu4Rn.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/jr02ooBDhTnymi65dj1vXn2o7sx.jpg</fanart>
+</dir>
