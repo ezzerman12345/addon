@@ -1,0 +1,24 @@
+<dir>
+	<title>[COLOR=white]Season 1[/COLOR]</title>
+	<meta>
+	<imdb>tt4567314</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>2015</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/shouse/shouse1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/n8oRloc4tjulxxmkb4G2XzhSSV1.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/vJvB2JtiLmHuZ6j5wkDdwWBqNLS.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]The Crow[/COLOR]</title>
+	<meta>
+	<imdb>tt4567314</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2017</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/shouse/shouse2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6z34iHiyh8jhcuHgOz4qwSJAyZQ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/vJvB2JtiLmHuZ6j5wkDdwWBqNLS.jpg</fanart>
+</dir>

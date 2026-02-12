@@ -1,0 +1,49 @@
+
+<dir>
+	<title>[COLOR=white]Series 1[/COLOR]</title>
+	<meta>
+	<imdb>tt1475582</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>2010</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/sherlock/sherlock1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/wQczbo7IKtHjmO49pVWTc2u5pSt.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/k66wW641A5Tok6OHMAsCbxM0UpG.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Series 2[/COLOR]</title>
+	<meta>
+	<imdb>tt1475582</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2012</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/sherlock/sherlock2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/hSf2frcLiEWAPUZ6wbOMTTNZ7b0.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/k66wW641A5Tok6OHMAsCbxM0UpG.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Series 3[/COLOR]</title>
+	<meta>
+	<imdb>tt1475582</imdb>
+	<content>season</content>
+	<season>3</season>
+	<year>2014</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/sherlock/sherlock3.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/z9ljxwZUQA2349ZBZAssBXpd0i6.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/k66wW641A5Tok6OHMAsCbxM0UpG.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Series 4[/COLOR]</title>
+	<meta>
+	<imdb>tt1475582</imdb>
+	<content>season</content>
+	<season>4</season>
+	<year>2017</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/sherlock/sherlock4.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/yVaWUlLmln0xqUDxVFc8JBuzHzK.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/k66wW641A5Tok6OHMAsCbxM0UpG.jpg</fanart>
+</dir>
