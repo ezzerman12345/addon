@@ -1,0 +1,36 @@
+<dir>
+	<title>[COLOR=white]Series 1[/COLOR]</title>
+	<meta>
+	<imdb>tt0118497</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>1997</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/te/te1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280None</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280None</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Series 2[/COLOR]</title>
+	<meta>
+	<imdb>tt0118497</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>1998</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/te/te2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280None</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280None</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Series 3[/COLOR]</title>
+	<meta>
+	<imdb>tt0118497</imdb>
+	<content>season</content>
+	<season>3</season>
+	<year>1999</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/te/te3.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280None</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280None</fanart>
+</dir>

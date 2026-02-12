@@ -1,0 +1,37 @@
+
+<dir>
+	<title>[COLOR=white]Season 1[/COLOR]</title>
+	<meta>
+	<imdb>tt2356777</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>2014</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/td/td1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/bppxcPh60DftSkKkj5wdmSua5sd.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/2Ahm0YjLNQKuzSf9LOkHrXk8qIE.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 2[/COLOR]</title>
+	<meta>
+	<imdb>tt2356777</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2015</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/td/td2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/4iVEUWO4aty0o7dJYddozOiXox8.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/2Ahm0YjLNQKuzSf9LOkHrXk8qIE.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 3[/COLOR]</title>
+	<meta>
+	<imdb>tt2356777</imdb>
+	<content>season</content>
+	<season>3</season>
+	<year>2019</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/td/td3.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/uOd2yMAxhfvwNd0pkVapHgRk1c1.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/2Ahm0YjLNQKuzSf9LOkHrXk8qIE.jpg</fanart>
+</dir>
