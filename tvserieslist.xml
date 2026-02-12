@@ -13,7 +13,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]ABOVE SUSPICION[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/as/aslist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/as/aslist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BNDg4ZTc2MzAtZjM0YS00ZjljLWIxMzUtMWEwMjM0M2M0NThkXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_UY268_CR5,0,182,268_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1993,3 +1993,4 @@
         <fanart></fanart>
 
 </dir>
+
