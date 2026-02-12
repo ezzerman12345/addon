@@ -1,0 +1,37 @@
+
+<dir>
+	<title>[COLOR=white]Season 1[/COLOR]</title>
+	<meta>
+	<imdb>tt6006350</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>2017</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/ml/ml1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fQbtvZLKlnw4UmFlAR2M0LXIIgg.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/2ya5NljjPTBtAG6WDgASEquNmSM.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 2[/COLOR]</title>
+	<meta>
+	<imdb>tt6006350</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2019</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/ml/ml2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6ZM9dRSftr8kCwpfQoj27DxtFkD.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/2ya5NljjPTBtAG6WDgASEquNmSM.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 3[/COLOR]</title>
+	<meta>
+	<imdb>tt6006350</imdb>
+	<content>season</content>
+	<season>3</season>
+	<year>2021</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/ml/ml3.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/uPbOPPujcekep5ZDkWlzlQxdr3t.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/2ya5NljjPTBtAG6WDgASEquNmSM.jpg</fanart>
+</dir>
