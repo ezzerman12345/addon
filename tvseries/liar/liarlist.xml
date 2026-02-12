@@ -1,0 +1,24 @@
+<dir>
+	<title>[COLOR=white]Series 1[/COLOR]</title>
+	<meta>
+	<imdb>tt6021284</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>2017</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/liar/liar1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/2Q7HWyDO3PCKJPcfZh0KzYws6ys.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/l5dOzjvjUAKPzRsIvBnAm2307we.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Series 2[/COLOR]</title>
+	<meta>
+	<imdb>tt6021284</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2020</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/liar/liar2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/hQFQok8j8vErenASWIUtBEsbTVY.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/l5dOzjvjUAKPzRsIvBnAm2307we.jpg</fanart>
+</dir>

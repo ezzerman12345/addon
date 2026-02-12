@@ -1,0 +1,37 @@
+<dir>
+	<title>[COLOR=white]Series 1[/COLOR]</title>
+	<meta>
+	<imdb>tt8571906</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>2019</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/lk/lk1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/yPANm0nWZ6hMZTv6tGn92V3bPM7.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/u8dxtoKqcfT9GlZPZDAf30PcQcZ.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Series 2[/COLOR]</title>
+	<meta>
+	<imdb>tt8571906</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2019</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/lk/lk2.xml</link>
+	<thumbnail>https://www.themoviedb.org/t/p/w1280/yPANm0nWZ6hMZTv6tGn92V3bPM7.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/u8dxtoKqcfT9GlZPZDAf30PcQcZ.jpg</fanart>
+</dir>
+
+<dir>
+	<title>[COLOR=white]Series 3[/COLOR]</title>
+	<meta>
+	<imdb>tt8571906</imdb>
+	<content>season</content>
+	<season>3</season>
+	<year>2022</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/lk/lk3.xml</link>
+	<thumbnail>https://www.themoviedb.org/t/p/w1280/yPANm0nWZ6hMZTv6tGn92V3bPM7.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/u8dxtoKqcfT9GlZPZDAf30PcQcZ.jpg</fanart>
+</dir>
