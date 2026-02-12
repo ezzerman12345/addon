@@ -1,0 +1,24 @@
+<dir>
+	<title>[COLOR=white]Season 1[/COLOR]</title>
+	<meta>
+	<imdb>tt2708480</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>2018</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/tt/tt1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qh57Yx2jBjg5KXKTpBRQVVv04b9.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/ssyZgYScV9eClakZDwu4sPrgMmy.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Infamy[/COLOR]</title>
+	<meta>
+	<imdb>tt2708480</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2019</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/tt/tt2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/j8lakGwVuPonS2wKNePFy35QbT.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/ssyZgYScV9eClakZDwu4sPrgMmy.jpg</fanart>
+</dir>

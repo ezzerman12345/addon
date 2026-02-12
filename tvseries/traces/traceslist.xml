@@ -1,0 +1,24 @@
+<dir>
+	<title>[COLOR=white]Season 1[/COLOR]</title>
+	<meta>
+	<imdb>tt9788012</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>2019</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/traces/traces1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/bP5CMdMtkmNBmdoSIe6ByfGh7ZN.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/bD9vRtuTPgP3OEBFBcLNWg62GiG.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 2[/COLOR]</title>
+	<meta>
+	<imdb>tt9788012</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2022</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/traces/traces2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/uFoKa5JrW3wAFi5H6FlHuWBKqVC.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/bD9vRtuTPgP3OEBFBcLNWg62GiG.jpg</fanart>
+</dir>
