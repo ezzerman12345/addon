@@ -1,0 +1,36 @@
+<dir>
+	<title>[COLOR=white]Season 1[/COLOR]</title>
+	<meta>
+	<imdb>tt0111890</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>1995</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/bog/bog1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/9Kfl1FLLz0kXJ5cc32xcDUdsfMY.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280None</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 2[/COLOR]</title>
+	<meta>
+	<imdb>tt0111890</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>1996</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/bog/bog2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/pWqCmFJyUkriGso7zTXMeWBOeVG.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280None</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 3[/COLOR]</title>
+	<meta>
+	<imdb>tt0111890</imdb>
+	<content>season</content>
+	<season>3</season>
+	<year>1997</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/bog/bog3.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gLNPXFVp8nAIrbb2tOwlpRj4EbS.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280None</fanart>
+</dir>

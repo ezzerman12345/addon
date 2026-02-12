@@ -1,0 +1,24 @@
+<dir>
+	<title>[COLOR=white]Season 1[/COLOR]</title>
+	<meta>
+	<imdb>tt8740790</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>2020</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/bridge/bridge1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qaewZKBKmXjb4ZfFBb1LCug6BE8.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/m7FqiUOvsSk7Ulg2oRMfFGcLeT9.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 2[/COLOR]</title>
+	<meta>
+	<imdb>tt8740790</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year></year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/bridge/bridge2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qaewZKBKmXjb4ZfFBb1LCug6BE8.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/m7FqiUOvsSk7Ulg2oRMfFGcLeT9.jpg</fanart>
+</dir>
