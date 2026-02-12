@@ -1,0 +1,49 @@
+
+<dir>
+	<title>[COLOR=white]Series 1[/COLOR]</title>
+	<meta>
+	<imdb>tt2299141</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>2012</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/syn/syn1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/37GcVKEhFHkzF31OmF14DZymIhC.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/4XQRsr1MgxFrvzcne9NFFAzYe3W.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Series 2[/COLOR]</title>
+	<meta>
+	<imdb>tt2299141</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2013</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/syn/syn2.xml</link>
+	<thumbnail>https://www.themoviedb.org/t/p/w260_and_h390_bestv2/spdcJQ1VAKJKHexXfgvjDKe0hgr.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/4XQRsr1MgxFrvzcne9NFFAzYe3W.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Series 3[/COLOR]</title>
+	<meta>
+	<imdb>tt2299141</imdb>
+	<content>season</content>
+	<season>3</season>
+	<year>2015</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/syn/syn3.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/spdcJQ1VAKJKHexXfgvjDKe0hgr.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/4XQRsr1MgxFrvzcne9NFFAzYe3W.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Series 4[/COLOR]</title>
+	<meta>
+	<imdb>tt2299141</imdb>
+	<content>season</content>
+	<season>4</season>
+	<year>2021</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/syn/syn4.xml</link>
+	<thumbnail>https://www.themoviedb.org/t/p/w260_and_h390_bestv2/spdcJQ1VAKJKHexXfgvjDKe0hgr.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/4XQRsr1MgxFrvzcne9NFFAzYe3W.jpg</fanart>
+</dir>
