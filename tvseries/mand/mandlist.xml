@@ -1,0 +1,24 @@
+<dir>
+	<title>[COLOR=white]Season 1[/COLOR]</title>
+	<meta>
+	<imdb>tt8111088</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>2019</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/mand/mand1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gcgkZIPu4drO5NCk4PIck0Z1hQk.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/9ijMGlJKqcslswWUzTEwScm82Gs.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 2[/COLOR]</title>
+	<meta>
+	<imdb>tt8111088</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2020</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/mand/mand2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/70gKT9a7Z6AlrRutNsU4SDacdy9.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/9ijMGlJKqcslswWUzTEwScm82Gs.jpg</fanart>
+</dir>

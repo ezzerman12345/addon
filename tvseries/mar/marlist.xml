@@ -1,0 +1,37 @@
+
+<dir>
+	<title>[COLOR=white]Series 1[/COLOR]</title>
+	<meta>
+	<imdb>tt5269594</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>2016</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/mar/mar1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gNTCkoF3U9IRzw21VRr8MnP8cLj.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/yINHWqgtoBhgDYVcMsmfVfAGBeT.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Series 2[/COLOR]</title>
+	<meta>
+	<imdb>tt5269594</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2018</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/mar/mar2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/rVabcWOhvJGEOesweLJfoZ5LxSv.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/yINHWqgtoBhgDYVcMsmfVfAGBeT.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Series 3[/COLOR]</title>
+	<meta>
+	<imdb>tt5269594</imdb>
+	<content>season</content>
+	<season>3</season>
+	<year>2021</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/mar/mar3.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/5OckSphqQgwQwnh3UiXwlIztDKV.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/yINHWqgtoBhgDYVcMsmfVfAGBeT.jpg</fanart>
+</dir>

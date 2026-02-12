@@ -1,0 +1,24 @@
+<dir>
+	<title>[COLOR=white]Season 1[/COLOR]</title>
+	<meta>
+	<imdb>tt7801964</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>2019</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/manhunt/manhunt1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/r2nhTCodJf3bjfASl8v4Px4iLYV.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/rBg4MGYEmVjaqU5380q2mx8j4cZ.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]The Night Stalker[/COLOR]</title>
+	<meta>
+	<imdb>tt7801964</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2021</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/manhunt/manhunt2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gkv776SMlKNjew683oGSQ0e1vUg.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/rBg4MGYEmVjaqU5380q2mx8j4cZ.jpg</fanart>
+</dir>
