@@ -58,7 +58,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]ALL CREATURES GREAT AND SMALL[/COLOR][/I][/B]</name>
-        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/accused/accusedlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/acgas/acgaslist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://ist3-6.filesor.com/pimpandhost.com/1/7/6/1/176180/4/D/R/E/4DRE9/fa1d2622-d929-4538-99fa-b96eef0b7474_zpsc0ff59fd.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1993,6 +1993,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
