@@ -1,0 +1,36 @@
+<dir>
+	<title>[COLOR=white]Season 1[/COLOR]</title>
+	<meta>
+	<imdb>tt0085111</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>1983</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/widows/widows1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/afDmPwC2pIrti7STYlZBsgHc3l3.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280None</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 2[/COLOR]</title>
+	<meta>
+	<imdb>tt0085111</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>1985</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/widows/widows2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ytDwuFluYLwQZ7h3FsaYVGlgZM3.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280None</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 3[/COLOR]</title>
+	<meta>
+	<imdb>tt0085111</imdb>
+	<content>season</content>
+	<season>3</season>
+	<year>1995</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/widows/widows3.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/2oDgz3eKHL6DFujyP046SjqL4f5.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280None</fanart>
+</dir>
