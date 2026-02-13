@@ -8,7 +8,10 @@
 	<season>5</season>
 	<episode>1</episode>
 	</meta>
-	<link>https://streamlare.com/v/4Jj8GzO6eZqDvPog/s05-e1-penny-for-the-guy-mkv</link>
+	<link>
+		<sublink>https://streamlare.com/v/4Jj8GzO6eZqDvPog/s05-e1-penny-for-the-guy-mkv</sublink>
+		<sublink>https://e.pcloud.link/publink/show?code=XZhjH3Zx5cBxmNA7t7hOTzbywM7gmCPUPey</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/kTFr7eWjEWs7vXi5CWZ4m6GcCxo.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/wPT3xuLb4OM5IKCAiHiMblxiqX.jpg</fanart>
 </item>
@@ -56,6 +59,7 @@
 	<thumbnail>https://image.tmdb.org/t/p/w1280/u3munIQyG9im8LhiTh6UM8YrpVu.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/wPT3xuLb4OM5IKCAiHiMblxiqX.jpg</fanart>
 </item>
+
 
 
 
