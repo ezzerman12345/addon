@@ -121,7 +121,7 @@
 
 <dir>
       <title>[B][I][COLOR lightskyblue]ASHES TO ASHES[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/tvseries/ata/atalist.xml</link>
+      <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/ata/atalist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/ky35fNxJQkO9bCwB010pB4brTL3.jpg</thumbnail>
 </dir>
 
@@ -1993,6 +1993,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
