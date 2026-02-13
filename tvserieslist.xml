@@ -127,7 +127,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]A TOUCH OF FROST[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/atof/atoflist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/atof/atoflist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BM2FlYjlkN2MtN2ZjZi00NTE2LWFmZjctNzRhMDM2MzY5ZTNjXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_UY268_CR8,0,182,268_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1993,6 +1993,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
