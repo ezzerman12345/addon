@@ -67,7 +67,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]ALL CREATURES GREAT AND SMALL 2020[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/acgasnew/acgasnewlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/acgasnew/acgasnewlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://pic.seriesvault.org/iw/W76lN.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1993,6 +1993,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
