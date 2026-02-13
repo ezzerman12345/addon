@@ -7,7 +7,7 @@
 	<season>1</season>
 	<year>2020</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/acgasnew/acgasnew1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/acgasnew/acgasnew1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/h9MJbYvqhEUSEGUc6Tjb3LmtybW.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/l61sjSZCsf99abjlnt2ToG442ol.jpg</fanart>
 </dir>
@@ -19,7 +19,7 @@
 	<season>2</season>
 	<year>2021</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/acgasnew/acgasnew2.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/acgasnew/acgasnew2.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/gqrxHNAkRWafqCCfMewthbwc27j.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/l61sjSZCsf99abjlnt2ToG442ol.jpg</fanart>
 </dir>
@@ -31,7 +31,8 @@
 	<season>3</season>
 	<year>2022</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/acgasnew/acgasnew3.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/acgasnew/acgasnew3.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/gqrxHNAkRWafqCCfMewthbwc27j.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/l61sjSZCsf99abjlnt2ToG442ol.jpg</fanart>
 </dir>
+
