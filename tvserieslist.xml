@@ -280,7 +280,7 @@
 
 <dir>
       <title>[B][I][COLOR lightskyblue]CASTLE ROCK[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/tvseries/cr/crlist.xml</link>
+      <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/cr/crlist.xml</link>
       <thumbnail>https://www.lookimg.com/images/2018/09/18/M3cZg.jpg</thumbnail>
 </dir>
 
@@ -1993,6 +1993,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
