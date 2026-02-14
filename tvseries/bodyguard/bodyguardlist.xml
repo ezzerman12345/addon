@@ -6,7 +6,8 @@
 	<season>1</season>
 	<year>2018</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/bodyguard/bodyguard1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/bodyguard/bodyguard1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/5DUJTrHTRLHLCKWriPhdusQogAv.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/b8TXO9j8x88k1HvweLnf1Dtmff8.jpg</fanart>
 </dir>
+
