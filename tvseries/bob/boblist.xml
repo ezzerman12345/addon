@@ -7,7 +7,8 @@
 	<season>1</season>
 	<year>2001</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/bob/bob1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/bob/bob1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/1dTx3cRcSpaOCe0mXOVEBjz25z3.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/29JYJokZaZJg7SWXnw7FsnTntew.jpg</fanart>
 </dir>
+
