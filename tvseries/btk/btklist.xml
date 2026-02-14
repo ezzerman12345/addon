@@ -6,7 +6,8 @@
 	<season>1</season>
 	<year>2017</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/btk/btl1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/btk/btk1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/ue0KxGca0CRiBb6XhfoM5JEh5t1.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/lTAZc4wxXt78HMenn1YjNIk58JU.jpg</fanart>
 </dir>
+
