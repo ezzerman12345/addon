@@ -286,7 +286,7 @@
 
 <dir>
       <title>[B][I][COLOR lightskyblue]CHANCE[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/tvseries/chance/chancelist.xml</link>
+      <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/chance/chancelist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/OC3QtOSM8fURbkV6nJ8guOUFnu.jpg</thumbnail>
 </dir>
 
@@ -1993,6 +1993,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
