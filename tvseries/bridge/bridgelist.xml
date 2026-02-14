@@ -18,8 +18,9 @@
 	<season>2</season>
 	<year></year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/bridge/bridge2.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/bridge/bridge2.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/qaewZKBKmXjb4ZfFBb1LCug6BE8.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/m7FqiUOvsSk7Ulg2oRMfFGcLeT9.jpg</fanart>
 </dir>
+
 
