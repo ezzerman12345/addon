@@ -19,7 +19,7 @@
 	<season>2</season>
 	<year>1994</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/cracker/cracker2.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/cracker/2cracker2.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/dRQQ7ZhgpBxiINLQhGt2qo2PFbS.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/puKcLOO8aLWGRa2odGa8OgXbDTS.jpg</fanart>
 </dir>
@@ -35,4 +35,5 @@
 	<thumbnail>https://image.tmdb.org/t/p/w1280/5Wie9azZPDbprAizRJsCCMNsaSZ.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/puKcLOO8aLWGRa2odGa8OgXbDTS.jpg</fanart>
 </dir>
+
 
