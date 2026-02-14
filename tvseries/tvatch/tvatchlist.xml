@@ -6,7 +6,8 @@
 	<season>1</season>
 	<year>2021</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/tvatch/tvatch1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/tvatch/tvatch1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/9s5Za1RYXSjIA1g0KO1R7uywGlA.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/41ZBU34r8WqCBSczUzL7SMQAgX3.jpg</fanart>
 </dir>
+
