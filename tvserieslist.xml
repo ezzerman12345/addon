@@ -379,7 +379,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]CRIMES THAT SHOOK BRITAIN[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/ctsb/ctsblist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/ctsb/ctsblist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/eVrIdM5nyXVPwoCAC5VO2OFU0r5.jpg</thumbnail>
 </dir>
@@ -1993,6 +1993,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
