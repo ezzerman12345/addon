@@ -19,7 +19,7 @@
 	<season>2</season>
 	<year>2015</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/bc/bc2.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/bc/bc2.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/rEvwy8L1byLxkekBmu8PP3rEuCO.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/mtjJ8vsXmHuZVGqr6T0QnjzOqdz.jpg</fanart>
 </dir>
@@ -35,4 +35,5 @@
 	<thumbnail>https://image.tmdb.org/t/p/w1280/1U2yss7kbA7UGWy1tEoStdpQYt1.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/mtjJ8vsXmHuZVGqr6T0QnjzOqdz.jpg</fanart>
 </dir>
+
 
