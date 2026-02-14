@@ -6,7 +6,7 @@
 	<season>1</season>
 	<year>1976</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/bss/bss1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/bss/bss1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/2Otp2Pmy9hWlFecoj0UKUX759wT.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/eRU8rB0WqlbfDLTJYvPSoLhUynB.jpg</fanart>
 </dir>
@@ -18,7 +18,8 @@
 	<season>2</season>
 	<year>1977</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/bss/bss2.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/bss/bss2.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/z1NoFvvx6sbjDYXvIG1BLZsRhoz.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/eRU8rB0WqlbfDLTJYvPSoLhUynB.jpg</fanart>
 </dir>
+
