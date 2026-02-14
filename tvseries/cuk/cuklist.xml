@@ -18,8 +18,9 @@
 	<season>2</season>
 	<year>2020</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/cuk/cuk2.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/cuk/cuk2.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/d3zZSbZQveOs8Xjjsn3XMROCsij.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/6kmWDNJlpbQIpun4BaeqaKcAz4j.jpg</fanart>
 </dir>
+
 
