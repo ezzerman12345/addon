@@ -6,7 +6,7 @@
 	<season>1</season>
 	<year>1971</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/budgie/budgie1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/budgie/budgie1.xml</link>
 	<thumbnail>https://www.themoviedb.org/t/p/w1280/a2S5Lha69WVFmu7y0dF1JeXphs2.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/74U4bCX4ntya5d5jTicykmmc7g.jpg</fanart>
 </dir>
@@ -22,3 +22,4 @@
 	<thumbnail>https://www.themoviedb.org/t/p/w1280/a2S5Lha69WVFmu7y0dF1JeXphs2.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/74U4bCX4ntya5d5jTicykmmc7g.jpg</fanart>
 </dir>
+
