@@ -30,7 +30,7 @@
 	<season>3</season>
 	<year>2012</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/ctsb/ctsb3.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/ctsb/ctsb3.xml</link>
 	<thumbnail>https://www.themoviedb.org/t/p/w1280/eVrIdM5nyXVPwoCAC5VO2OFU0r5.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280None</fanart>
 </dir>
@@ -94,5 +94,6 @@
 	<thumbnail>https://www.themoviedb.org/t/p/w1280/eVrIdM5nyXVPwoCAC5VO2OFU0r5.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280None</fanart>
 </dir>
+
 
 
