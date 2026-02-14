@@ -172,7 +172,7 @@
 
 <dir>
       <title>[B][I][COLOR lightskyblue]BEFORE WE DIE[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/miniseries/bwd/bwdlist.xml</link>
+      <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/bwd/bwdlist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/rBz7joOAR4SYm7oDElynmhziNVu.jpg</thumbnail>
 </dir>
 
@@ -1993,6 +1993,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
