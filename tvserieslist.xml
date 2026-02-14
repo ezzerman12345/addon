@@ -385,15 +385,6 @@
 </dir>
 
 <dir>
-        <name>[B][I][COLOR lightskyblue]CRIMINAL MINDS[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/cm/cmlist.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://m.media-amazon.com/images/M/MV5BNGE2ZmFkZTYtNjRiOS00ZjE3LThjOWMtZTViZjRmNDFjNTQwXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</dir>
-
-<dir>
         <name>[B][I][COLOR lightskyblue]CRIMINAL UK[/COLOR][/I][/B]</name>
         <link>http://www.ezzer-mac.com/Addon/text/tvseries/cuk/cuklist.xml</link>
         <animated_thumbnail></animated_thumbnail>
@@ -1993,6 +1984,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
