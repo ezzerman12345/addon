@@ -18,7 +18,7 @@
 	<season>2</season>
 	<year>2020</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/bproof/bproof2.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/bproof/bproof2.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/yiKT45qwaiXof4T6EG990qjk2wO.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/dLs1fcqgExAPLcZGz0650DNBiUD.jpg</fanart>
 </dir>
@@ -34,4 +34,5 @@
 	<thumbnail>https://image.tmdb.org/t/p/w1280/ruGa75yYQMI1l1n8FK4d7cuSrYH.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/dLs1fcqgExAPLcZGz0650DNBiUD.jpg</fanart>
 </dir>
+
 
