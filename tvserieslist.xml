@@ -355,7 +355,7 @@
 
 <dir>
       <title>[B][I][COLOR lightskyblue]COLUMBO[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/randomrequest/col/collist.xml</link>
+      <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/randomrequest/col/collist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/2JCD8vab3fircOU8cM2HJCxfv4I.jpg</thumbnail>
 </dir>
 
@@ -1993,6 +1993,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
