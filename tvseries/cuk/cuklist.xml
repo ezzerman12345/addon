@@ -6,7 +6,7 @@
 	<season>1</season>
 	<year>2019</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/cuk/cuk1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/cuk/cuk1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/dO3mVxy7yaOTCLya2UGkCpfSUPZ.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/6kmWDNJlpbQIpun4BaeqaKcAz4j.jpg</fanart>
 </dir>
@@ -22,3 +22,4 @@
 	<thumbnail>https://image.tmdb.org/t/p/w1280/d3zZSbZQveOs8Xjjsn3XMROCsij.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/6kmWDNJlpbQIpun4BaeqaKcAz4j.jpg</fanart>
 </dir>
+
