@@ -214,9 +214,9 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]BONFIRE OF DESTINY[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/bod/bodlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/bod/bodlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://m.media-amazon.com/images/M/MV5BOTg2MGY0YjMtODE1YS00NjZiLWE4MjQtOTA5MWM3YjhhYWY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY268_CR18,0,182,268_AL_.jpg</thumbnail>
+        <thumbnail>https://www.themoviedb.org/t/p/w1280/zAJ8MDAdmxMntcLYpvvfR4UkgDp.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart></fanart>
 </dir>
@@ -1993,6 +1993,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
