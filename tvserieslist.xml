@@ -241,7 +241,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]BRIDGERTON[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/bridge/bridgelist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/bridge/bridgelist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BYjIxMzZhMTMtNDQ1Mi00OTMwLTk2M2ItYzA0YmNjNDFlOTdhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1993,6 +1993,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
