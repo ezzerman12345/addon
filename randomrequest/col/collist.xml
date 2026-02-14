@@ -79,7 +79,7 @@
 	<season>7</season>
 	<year>1977</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/randomrequest/col/col7.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/randomrequest/col/col7.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/pBQofkbUfPpcvMhrbZ2NRTBUnhP.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/skWuseledUfSdS42GQaR5MPZpxS.jpg</fanart>
 </dir>
@@ -119,6 +119,7 @@
 	<thumbnail>https://image.tmdb.org/t/p/w1280/7uCtGcJBns5MaRnG0Ik1JFiu8Mn.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/skWuseledUfSdS42GQaR5MPZpxS.jpg</fanart>
 </dir>
+
 
 
 
