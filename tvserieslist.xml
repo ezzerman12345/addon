@@ -274,7 +274,7 @@
 
 <dir>
       <title>[B][I][COLOR lightskyblue]CARNIVAL ROW[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/tvseries/carnrow/carnrowlist.xml</link>
+      <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/carnrow/carnrowlist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/jyhxT10e2z9IDsKoIQDKhyxSQJt.jpg</thumbnail>
 </dir>
 
@@ -1993,6 +1993,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
