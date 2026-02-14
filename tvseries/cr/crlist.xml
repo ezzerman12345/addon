@@ -7,7 +7,7 @@
 	<season>1</season>
 	<year>2018</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/cr/cr1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/cr/cr1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/grlQvrtcHYGlHs7ABSratiGmgYh.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/qyRJPtJkJz7wtS4UJnJez9S3WOM.jpg</fanart>
 </dir>
@@ -23,3 +23,4 @@
 	<thumbnail>https://image.tmdb.org/t/p/w1280/h9AZ5r76kDGO9jAfFPSPJ9yXvMr.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/qyRJPtJkJz7wtS4UJnJez9S3WOM.jpg</fanart>
 </dir>
+
