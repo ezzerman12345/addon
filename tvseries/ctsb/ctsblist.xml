@@ -42,7 +42,7 @@
 	<season>4</season>
 	<year>2013</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/ctsb/ctsb4.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/ctsb/ctsb4.xml</link>
 	<thumbnail>https://www.themoviedb.org/t/p/w1280/eVrIdM5nyXVPwoCAC5VO2OFU0r5.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280None</fanart>
 </dir>
@@ -94,6 +94,7 @@
 	<thumbnail>https://www.themoviedb.org/t/p/w1280/eVrIdM5nyXVPwoCAC5VO2OFU0r5.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280None</fanart>
 </dir>
+
 
 
 
