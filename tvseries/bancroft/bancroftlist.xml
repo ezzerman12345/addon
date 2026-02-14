@@ -6,7 +6,7 @@
 	<season>1</season>
 	<year>2017</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/bancroft/bancroft1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/bancroft/bancroft1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/jiKwVVW0aZ9ZdCrKwLfro6OCuVI.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/eSjWaAn9H2AfqxlkwwKk7aKqCzv.jpg</fanart>
 </dir>
@@ -18,7 +18,8 @@
 	<season>2</season>
 	<year>2020</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/bancroft/bancroft2.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/bancroft/bancroft2.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280None</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/eSjWaAn9H2AfqxlkwwKk7aKqCzv.jpg</fanart>
 </dir>
+
