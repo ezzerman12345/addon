@@ -268,7 +268,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]BULLETPROOF[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/bproof/bprooflist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/bproof/bprooflist.xml</link>
         <thumbnail>https://www.lookimg.com/images/2018/07/03/dk1LV.jpg</thumbnail>
 </dir>
 
@@ -1993,6 +1993,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
