@@ -26,7 +26,10 @@
 	<season>1</season>
 	<episode>2</episode>
 	</meta>
-	<link>https://rg.to/file/9c6377f2fce64685abee12fcf2d2c774/accused.uk.s01e02.dvdrip.xvid-ingot.avi.html</link>
+	<link>
+		<sublink>https://rg.to/file/9c6377f2fce64685abee12fcf2d2c774/accused.uk.s01e02.dvdrip.xvid-ingot.avi.html</sublink>
+		<sublink>https://myvidplay.com/d/5ay3zssl0hy8</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/8ZAtqTOkENy20THOE7CvpUuEVjv.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/g61rFsbIVoN8tb08nChex1FERQu.jpg</fanart>
 </item>
@@ -86,6 +89,7 @@
 	<thumbnail>https://image.tmdb.org/t/p/w1280/xHjNtRDoewtBbToe493CMn62TwZ.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/g61rFsbIVoN8tb08nChex1FERQu.jpg</fanart>
 </item>
+
 
 
 
