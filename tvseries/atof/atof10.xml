@@ -8,7 +8,10 @@
 	<season>10</season>
 	<episode>1</episode>
 	</meta>
-	<link>https://rg.to/file/493d668cdec31480bc8cdf239daba225/Touch_of_Frost_1001__Hidden_truth.mkv.html</link>
+	<link>
+		<sublink>https://rg.to/file/493d668cdec31480bc8cdf239daba225/Touch_of_Frost_1001__Hidden_truth.mkv.html</sublink>
+		<sublink>https://myvidplay.com/d/uphu5ehvy01h</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/umGdQjOb7DrAMkxsM5NaABkFNgt.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/wPT3xuLb4OM5IKCAiHiMblxiqX.jpg</fanart>
 </item>
@@ -22,7 +25,10 @@
 	<season>10</season>
 	<episode>2</episode>
 	</meta>
-	<link>https://rg.to/file/485177373195c8b835d8278b9548f433/Touch_of_Frost_1002__Close_encounters.mkv.html</link>
+	<link>
+		<sublink>https://rg.to/file/485177373195c8b835d8278b9548f433/Touch_of_Frost_1002__Close_encounters.mkv.html</sublink>
+		<sublink>https://myvidplay.com/d/a0hxv07e0qfe</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/okPdQaIbCOa3t8LLBAEZMykGjAU.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/wPT3xuLb4OM5IKCAiHiMblxiqX.jpg</fanart>
 </item>
@@ -36,7 +42,11 @@
 	<season>10</season>
 	<episode>3</episode>
 	</meta>
-	<link>https://rg.to/file/1d8c9b19fb44f8c8a335d2a678a10f7b/Touch_of_Frost_1003__Held_in_trust.mkv.html</link>
+	<link>
+		<sublink>https://rg.to/file/1d8c9b19fb44f8c8a335d2a678a10f7b/Touch_of_Frost_1003__Held_in_trust.mkv.html</sublink>
+		<sublink>https://myvidplay.com/d/7yawud129vun</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/8kw5DPMedzzxriPQqWN8GotglCg.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/wPT3xuLb4OM5IKCAiHiMblxiqX.jpg</fanart>
 </item>
+
