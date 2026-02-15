@@ -1,5 +1,5 @@
 <item>
-	<title>[COLOR=white]Line of Fire (1) and (2)[/COLOR]</title>
+	<title>[COLOR=white]Line of Fire (1)[/COLOR]</title>
 	<meta>
 	<imdb>tt0108967</imdb>
 	<content>episode</content>
@@ -8,8 +8,30 @@
 	<season>7</season>
 	<episode>1</episode>
 	</meta>
-	<link>https://streamlare.com/v/b8K02DPQRQEzygB1/s07-e1-and-e2-line-of-fire-mkv-mp4</link>
+	<link>
+		<sublink>https://streamlare.com/v/b8K02DPQRQEzygB1/s07-e1-and-e2-line-of-fire-mkv-mp4</sublink>
+		<sublink>https://myvidplay.com/d/5m3iuhctzotf</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/omiJFqWnNT5smaRvkfmKAI7z87u.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/wPT3xuLb4OM5IKCAiHiMblxiqX.jpg</fanart>
 </item>
+
+<item>
+	<title>[COLOR=white]Line of Fire(2)[/COLOR]</title>
+	<meta>
+	<imdb>tt0108967</imdb>
+	<content>episode</content>
+	<tvshowtitle>A Touch of Frost</tvshowtitle>
+	<year>1999</year>
+	<season>7</season>
+	<episode>1</episode>
+	</meta>
+	<link>
+		<sublink>https://streamlare.com/v/b8K02DPQRQEzygB1/s07-e1-and-e2-line-of-fire-mkv-mp4</sublink>
+	    <sublink>https://myvidplay.com/d/bpqi9996q1g3</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/omiJFqWnNT5smaRvkfmKAI7z87u.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/wPT3xuLb4OM5IKCAiHiMblxiqX.jpg</fanart>
+</item>
+
 
