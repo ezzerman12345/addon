@@ -8,7 +8,10 @@
 	<season>9</season>
 	<episode>1</episode>
 	</meta>
-	<link>https://streamlare.com/v/WvBgrD83ALYnMZ64/s09-e1-mistaken-identity-part1-mkv-mp4</link>
+	<link>
+		<sublink>https://streamlare.com/v/WvBgrD83ALYnMZ64/s09-e1-mistaken-identity-part1-mkv-mp4</sublink>
+		<sublink>https://myvidplay.com/d/vk65cld63t6h</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/dFJHHCneZoIVk5VJSWBzDRb8aCA.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/wPT3xuLb4OM5IKCAiHiMblxiqX.jpg</fanart>
 </item>
@@ -22,7 +25,11 @@
 	<season>9</season>
 	<episode>2</episode>
 	</meta>
-	<link>https://streamlare.com/v/7GWaolEmRG9ldPVQ/s09-e1-mistaken-identity-part2-mkv-mp4</link>
+	<link>
+		<sublink>https://streamlare.com/v/7GWaolEmRG9ldPVQ/s09-e1-mistaken-identity-part2-mkv-mp4</sublink>
+		<sublink>https://myvidplay.com/d/1o2ab6qo53u5</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/nm9vZOpqzrHjZNZXXLnRsReV9bf.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/wPT3xuLb4OM5IKCAiHiMblxiqX.jpg</fanart>
 </item>
+
