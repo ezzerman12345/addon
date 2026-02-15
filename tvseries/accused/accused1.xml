@@ -43,7 +43,10 @@
 	<season>1</season>
 	<episode>3</episode>
 	</meta>
-	<link>https://rg.to/file/03862e513c3cf52b075b8fb9b7dbc929/Accused.UK.S01E03.DVDRip.XviD-iNGOT.avi.html</link>
+	<link>
+		<sublink>https://rg.to/file/03862e513c3cf52b075b8fb9b7dbc929/Accused.UK.S01E03.DVDRip.XviD-iNGOT.avi.html</sublink>
+		<sublink>https://myvidplay.com/d/plwn7vf11hkx</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/aauwcvxMW2X4ph8lFANVwUUyz51.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/g61rFsbIVoN8tb08nChex1FERQu.jpg</fanart>
 </item>
@@ -57,7 +60,10 @@
 	<season>1</season>
 	<episode>4</episode>
 	</meta>
-	<link>https://rg.to/file/3a0d82f2db49e4e3c847bb7021876ca9/accused.uk.s01e04.dvdrip.xvid-ingot.avi.html</link>
+	<link>
+		<sublink>https://rg.to/file/3a0d82f2db49e4e3c847bb7021876ca9/accused.uk.s01e04.dvdrip.xvid-ingot.avi.html</sublink>
+		<sublink>https://myvidplay.com/d/qs92itpaz79u</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/fgB7wgu0mRMchIQLbeR2IbbMHSX.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/g61rFsbIVoN8tb08nChex1FERQu.jpg</fanart>
 </item>
@@ -71,7 +77,10 @@
 	<season>1</season>
 	<episode>5</episode>
 	</meta>
-	<link>https://rg.to/file/d4d09140b1675ad3517b1a9b7fbc3696/accused.uk.s01e05.dvdrip.xvid-ingot.avi.html</link>
+	<link>
+		<sublink>https://rg.to/file/d4d09140b1675ad3517b1a9b7fbc3696/accused.uk.s01e05.dvdrip.xvid-ingot.avi.html</sublink>
+		<sublink>https://myvidplay.com/d/alqzrhvoldxn</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/7DKWzqhWsQTXTa2bq7BMNPfK8N3.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/g61rFsbIVoN8tb08nChex1FERQu.jpg</fanart>
 </item>
@@ -85,10 +94,14 @@
 	<season>1</season>
 	<episode>6</episode>
 	</meta>
-	<link>https://rg.to/file/330cf444addc48a0ba4c6d6f2a69023e/accused.uk.s01e06.dvdrip.xvid-ingot.avi.html</link>
+	<link>
+		<sublink>https://rg.to/file/330cf444addc48a0ba4c6d6f2a69023e/accused.uk.s01e06.dvdrip.xvid-ingot.avi.html</sublink>
+		<sublink>https://myvidplay.com/d/u2snezps7xy9</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/xHjNtRDoewtBbToe493CMn62TwZ.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/g61rFsbIVoN8tb08nChex1FERQu.jpg</fanart>
 </item>
+
 
 
 
