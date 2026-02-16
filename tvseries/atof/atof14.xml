@@ -8,7 +8,10 @@
 	<season>14</season>
 	<episode>1</episode>
 	</meta>
-	<link>https://rg.to/file/73757f11b94636a23709a0e299b5af4f/Touch_of_Frost_1401.Mind.games.mkv.html</link>
+	<link>
+		<sublink>https://rg.to/file/73757f11b94636a23709a0e299b5af4f/Touch_of_Frost_1401.Mind.games.mkv.html</sublink>
+		<sublink>https://myvidplay.com/d/zc01u1vzjqm7</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/UsTBMJBsDy9yZKAjtrT3L4N0kY.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/wPT3xuLb4OM5IKCAiHiMblxiqX.jpg</fanart>
 </item>
@@ -22,7 +25,10 @@
 	<season>14</season>
 	<episode>2</episode>
 	</meta>
-	<link>https://rg.to/file/c726ab247592478ee250526d75ffb393/Touch_of_Frost_1402.Dead.end.mkv.html</link>
+	<link>
+		<sublink>https://rg.to/file/c726ab247592478ee250526d75ffb393/Touch_of_Frost_1402.Dead.end.mkv.html</sublink>
+		<sublink>https://myvidplay.com/d/32wsirzgqi43</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/k6UMwx0gjzyIcRo4QAiy9ECi9v5.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/wPT3xuLb4OM5IKCAiHiMblxiqX.jpg</fanart>
 </item>
@@ -36,7 +42,11 @@
 	<season>14</season>
 	<episode>3</episode>
 	</meta>
-	<link>https://rg.to/file/4b327b241931985455af6890bcf881e4/Touch_of_Frost_1403.In.the.public.interest.mkv.html</link>
+	<link>
+		<sublink>https://rg.to/file/4b327b241931985455af6890bcf881e4/Touch_of_Frost_1403.In.the.public.interest.mkv.html</sublink>
+		<sublink>https://myvidplay.com/d/qccp92slwm25</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/55fuA6bU2jradaNZzFU249OxPOY.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/wPT3xuLb4OM5IKCAiHiMblxiqX.jpg</fanart>
 </item>
+
