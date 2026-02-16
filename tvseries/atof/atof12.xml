@@ -8,7 +8,11 @@
 	<season>12</season>
 	<episode>1</episode>
 	</meta>
-	<link>https://rg.to/file/d1f1c95fa941c4cf1dcc02e36cd49b06/Touch_of_Frost_1201_Near_Death_Experience.avi.html</link>
+	<link>
+		<sublink>https://rg.to/file/d1f1c95fa941c4cf1dcc02e36cd49b06/Touch_of_Frost_1201_Near_Death_Experience.avi.html</sublink>
+		<sublink>https://myvidplay.com/d/df16bci7nqet</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/OkL1tgGoafiBIQUlSXVCtXY3E1.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/wPT3xuLb4OM5IKCAiHiMblxiqX.jpg</fanart>
 </item>
+
