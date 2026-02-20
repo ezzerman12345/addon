@@ -6,7 +6,7 @@
 	<season>1</season>
 	<year>2020</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/dieh/dieh1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/dieh/dieh1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/lyRnZamD1uDDX85MAwTa1KTBRAA.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/tjedTWgt3QZJ1sAsAt6R4Oj40Kc.jpg</fanart>
 </dir>
@@ -18,7 +18,8 @@
 	<season>2</season>
 	<year>2023</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/dieh/dieh2.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/dieh/dieh2.xml</link>
 	<thumbnail>https://www.themoviedb.org/t/p/w260_and_h390_bestv2/pl51P4h9lynrunyDcvWjN7vxsXj.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/tjedTWgt3QZJ1sAsAt6R4Oj40Kc.jpg</fanart>
+
 </dir>
