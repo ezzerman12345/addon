@@ -6,7 +6,8 @@
 	<season>1</season>
 	<year>2019</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/du/du1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/du/du1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280None</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/udQDQL6OhOHhUefPAHR7sk70b1J.jpg</fanart>
 </dir>
+
