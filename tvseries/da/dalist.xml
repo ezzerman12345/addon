@@ -7,7 +7,7 @@
 	<season>1</season>
 	<year>2010</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/da/da1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/da/da1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/bOr7xgFSSwFbr2EKGyOS2V4NpiO.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/vXbSoGHWtzViIgHxcD3tqLTr0lc.jpg</fanart>
 </dir>
@@ -19,7 +19,7 @@
 	<season>2</season>
 	<year>2011</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/da/da2.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/da/da2.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/4gLxSVimJRcklWN6cdNrBGddBrM.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/vXbSoGHWtzViIgHxcD3tqLTr0lc.jpg</fanart>
 </dir>
@@ -31,7 +31,7 @@
 	<season>3</season>
 	<year>2012</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/da/da3.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/da/da3.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/aOtdVBeAAeya9Cwt7RB27hwglrQ.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/vXbSoGHWtzViIgHxcD3tqLTr0lc.jpg</fanart>
 </dir>
@@ -43,7 +43,7 @@
 	<season>4</season>
 	<year>2013</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/da/da4.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/da/da4.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/yys2CO2To8PqVylRALrrOd6lTRU.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/vXbSoGHWtzViIgHxcD3tqLTr0lc.jpg</fanart>
 </dir>
@@ -55,7 +55,7 @@
 	<season>5</season>
 	<year>2014</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/da/da5.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/da/da5.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/jEoyfoJtty7z8TqY3eTXN1qiqUx.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/vXbSoGHWtzViIgHxcD3tqLTr0lc.jpg</fanart>
 </dir>
@@ -67,7 +67,8 @@
 	<season>6</season>
 	<year>2015</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/da/da6.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/da/da6.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/cnSVdHgMul2gzzzitdFDWQGjFfk.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/vXbSoGHWtzViIgHxcD3tqLTr0lc.jpg</fanart>
 </dir>
+
