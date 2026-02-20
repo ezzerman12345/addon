@@ -431,7 +431,7 @@
 
 <dir>
       <title>[B][I][COLOR lightskyblue]DEATH IN PARADISE[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/tvseries/dip/diplist.xml</link>
+      <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/dip/diplist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/lFvpF2V0xkiSdAVAViVqqEeeCt9.jpg</thumbnail>
 </dir>
 
@@ -1984,6 +1984,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
