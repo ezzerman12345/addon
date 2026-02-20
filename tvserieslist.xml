@@ -422,7 +422,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]DEADWATER FELL[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/dwf/dwflist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/dwf/dwflist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BMzQxOTQyYTItYjE1NS00ZWU3LWEwN2EtZDk1MGEzZWFlYmU3XkEyXkFqcGdeQXVyNDk3ODk4OQ@@._V1_UY268_CR16,0,182,268_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1984,6 +1984,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
