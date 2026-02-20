@@ -464,7 +464,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]DEVIL UNCHAINED[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/du/dulist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/du/dulist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BZTE2ZTQwNGUtYzk5MS00MDUwLWI1MjEtM2E2ZTRkNzk0NDMyXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1984,6 +1984,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
