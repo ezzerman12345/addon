@@ -473,7 +473,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]DIAMOND GEEZER[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/dg/dglist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/dg/dglist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BMTIzOTA3MzQxNV5BMl5BanBnXkFtZTcwNTk1NTg0MQ@@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1984,6 +1984,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
