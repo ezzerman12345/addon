@@ -6,7 +6,8 @@
 	<season>1</season>
 	<year>2015</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/dick/dick1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/dick/dick1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/8WBY9MTNpqyWeAT5Co0MxSUCNYz.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/gjXuJORC5BmGj6cEvFppn2GHClR.jpg</fanart>
 </dir>
+
