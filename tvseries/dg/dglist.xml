@@ -7,7 +7,8 @@
 	<season>1</season>
 	<year>2007</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/dg/dg1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/dg/dg1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/t5viUyfVHsTbNdxJcEbNEySY0LR.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280None</fanart>
 </dir>
+
