@@ -536,7 +536,7 @@
 
 <dir>
       <title>[B][I][COLOR lightskyblue]ENDEAVOUR[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/tvseries/endev/endevlist.xml</link>
+      <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/endev/endevlist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/suX3F5e8XN9emrb52CQSwt2mRwx.jpg</thumbnail>
 </dir>
 
@@ -1984,6 +1984,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
