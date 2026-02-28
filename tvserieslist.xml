@@ -551,7 +551,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]FLESH AND BLOOD[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/fleshandblood/fleshandbloodlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/fleshandblood/fleshandbloodlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/3MZv8kEMPWkpjECLbg5S1dQzYnE.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -560,7 +560,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]FOR LIFE[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/forlife/forlifelist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/forlife/forlifelist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/2WeCMpWSrOOJNXoruq5bq8qmKEx.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1984,6 +1984,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
