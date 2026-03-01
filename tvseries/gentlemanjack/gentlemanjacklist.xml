@@ -6,7 +6,7 @@
 	<season>1</season>
 	<year>2019</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/gentlemanjack/gentlemanjack1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/gentlemanjack/gentlemanjack1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/ufyelFLvdnmilSJDkttsYQo8EdL.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/s9DGCAUeLc8Tiih571TZiCffn0U.jpg</fanart>
 </dir>
@@ -18,7 +18,8 @@
 	<season>1</season>
 	<year>2019</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/gentlemanjack/gentlemanjack2.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/gentlemanjack/gentlemanjack2.xml</link>
 	<thumbnail>https://www.themoviedb.org/t/p/w260_and_h390_bestv2/hLQl8LKLXdA4gF4ArR8TXzXGRYV.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/s9DGCAUeLc8Tiih571TZiCffn0U.jpg</fanart>
 </dir>
+
