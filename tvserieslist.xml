@@ -569,7 +569,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]GANGS OF LONDON[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/gol/gollist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/gol/gollist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://image.tmdb.org/t/p/w1280/fVgwa6wGw9ddGM5O7mqrrwB6gHK.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -578,7 +578,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]GARROW'S LAW[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/gl/gllist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/gl/gllist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BNDQ4ZGQxYzQtYWI5OC00ZjQyLTliYjQtZjBmM2U3MzVkMThhXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_UY268_CR5,0,182,268_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -587,7 +587,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]GENTLEMAN JACK[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/gentlemanjack/gentlemanjacklist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/gentlemanjack/gentlemanjacklist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/hLQl8LKLXdA4gF4ArR8TXzXGRYV.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -596,7 +596,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]GRACE[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/grace/gracelist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/grace/gracelist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/r9hE4eF8IGbcoyl419Nfllkv6Ag.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -605,7 +605,7 @@
 
 <dir>
       <title>[B][I][COLOR lightskyblue]GRANTCHESTER[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/tvseries/gran/granlist.xml</link>
+      <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/gran/granlist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/5Itrb1x7OiA5A0XUreRuevR1hA6.jpg</thumbnail>
 </dir>
 
@@ -1984,6 +1984,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
