@@ -6,7 +6,7 @@
 	<season>1</season>
 	<year>2021</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/grace/grace1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/grace/grace1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/r9hE4eF8IGbcoyl419Nfllkv6Ag.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/uR2qF4WHN3pnCHUvuELKHcwDVio.jpg</fanart>
 </dir>
@@ -18,7 +18,7 @@
 	<season>2</season>
 	<year>2022</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/grace/grace2.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/grace/grace2.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/r9hE4eF8IGbcoyl419Nfllkv6Ag.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/uR2qF4WHN3pnCHUvuELKHcwDVio.jpg</fanart>
 </dir>
@@ -30,7 +30,7 @@
 	<season>3</season>
 	<year>2023</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/grace/grace3.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/grace/grace3.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/r9hE4eF8IGbcoyl419Nfllkv6Ag.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/uR2qF4WHN3pnCHUvuELKHcwDVio.jpg</fanart>
 </dir>
@@ -54,9 +54,10 @@
 	<season>3</season>
 	<year>2025</year>
 	</meta>
-	<link>https://media.themoviedb.org/t/p/w260_and_h390_face/xieeE8IOjHuvlHjS4U9YWyeGMkp.jpg</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/r9hE4eF8IGbcoyl419Nfllkv6Ag.jpg</thumbnail>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/grace/grace5.xml</link>
+	<thumbnail>https://media.themoviedb.org/t/p/w260_and_h390_face/xieeE8IOjHuvlHjS4U9YWyeGMkp.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/uR2qF4WHN3pnCHUvuELKHcwDVio.jpg</fanart>
 </dir>
+
 
 
