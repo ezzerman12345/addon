@@ -34,3 +34,29 @@
 	<thumbnail>https://image.tmdb.org/t/p/w1280/r9hE4eF8IGbcoyl419Nfllkv6Ag.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/uR2qF4WHN3pnCHUvuELKHcwDVio.jpg</fanart>
 </dir>
+<dir>
+	<title>[COLOR=white]Season 4[/COLOR]</title>
+	<meta>
+	<imdb>tt11639300</imdb>
+	<content>season</content>
+	<season>3</season>
+	<year>2024</year>
+	</meta>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/grace/grace4.xml</link>
+	<thumbnail>https://media.themoviedb.org/t/p/w260_and_h390_face/5xmMLX0C6KmnzKYGUlNrTd1Ff0W.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/uR2qF4WHN3pnCHUvuELKHcwDVio.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 5[/COLOR]</title>
+	<meta>
+	<imdb>tt11639300</imdb>
+	<content>season</content>
+	<season>3</season>
+	<year>2025</year>
+	</meta>
+	<link>https://media.themoviedb.org/t/p/w260_and_h390_face/xieeE8IOjHuvlHjS4U9YWyeGMkp.jpg</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/r9hE4eF8IGbcoyl419Nfllkv6Ag.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/uR2qF4WHN3pnCHUvuELKHcwDVio.jpg</fanart>
+</dir>
+
+
