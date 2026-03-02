@@ -611,7 +611,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]HAPPY VALLEY[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/hv/hvlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/hv/hvlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BNTBmYTQ5ZDYtM2NjMC00M2Q2LTg4NDAtODUxZTk0ZmFjMGVjXkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -620,7 +620,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]HATTON GARDEN[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/hattongarden/hattongardenlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/hattongarden/hattongardenlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/hwpcXDkpCp7kMpWo0MbeP8iB3gU.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -629,7 +629,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]HOMELAND[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/hl/hllist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/hl/hllist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BMjA4MWM1OWQtMDdlMS00MmE4LWI2YTItODhhMGI5NTg0ODFhXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -638,7 +638,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]HOTEL PORTOFINO[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/hp/hplist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/hp/hplist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/4mVKQJ9cDO939sK7MvVxpUfOZHb.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -647,13 +647,13 @@
 
 <dir>
       <title>[B][I][COLOR lightskyblue]HOUDINI AND DOYLE[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/tvseries/handd/handdlist.xml</link>
+      <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/handd/handdlist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/yEyowhS6l1vwvvu92mcdrdUogXn.jpg</thumbnail>
 </dir>
 
 <dir>
       <title>[B][I][COLOR lightskyblue]HUSTLE[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/tvseries/hustle/hustlelist.xml</link>
+      <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/hustle/hustlelist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/6UTmAZnaqcIsWVKSBWm7pDmdDTI.jpg</thumbnail>
 </dir>
 
@@ -1984,6 +1984,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
