@@ -659,7 +659,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]INNOCENT[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/innocent/innocentlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/innocent/innocentlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BZjhjOTNhNGQtZDAyMC00MmMwLWE3OTktOGMzOTJlMDk4OGQ2XkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_SY1000_CR0,0,713,1000_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -668,7 +668,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]INSPECTOR GEORGE GENTLY[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/igg/igglist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/igg/igglist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/vNjE3e5zSLhz0fQdovTlGdSo6Gb.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -677,25 +677,25 @@
 
 <dir>
       <title>[B][I][COLOR lightskyblue]INSPECTOR MORSE[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/tvseries/morse/morselist.xml</link>
+      <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/morse/morselist.xmll</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/34M8vNNtYqnrV5ilokWkGbc51Ia.jpg</thumbnail>
 </dir>
 
 <dir>
       <title>[B][I][COLOR lightskyblue]INSTINCT[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/tvseries/instinct/instinctlist.xml</link>
+      <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/instinct/instinctlist.xml</link>
       <thumbnail>https://www.lookimg.com/images/2018/07/03/doZOd.jpg</thumbnail>
 </dir>
 
 <dir>
       <title>[B][I][COLOR lightskyblue]IN THE DARK[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/tvseries/itd/itdlist.xml</link>
+      <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/itd/itdlist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/dvfuQNUItkbQ8e2o80i6HgySLI8.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]ITS A SIN[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/ias/iaslist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/ias/iaslist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BNmEzMTczMWYtN2I0Yy00YTk1LWFkOGYtMGRmNmM4MmNlZDQwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1984,6 +1984,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
