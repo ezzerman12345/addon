@@ -7,7 +7,7 @@
 	<season>1</season>
 	<year>2004</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/hustle/hustle1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/hustle/hustle1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/2GF4VpvDbD2xBcCmJfg112r0kXJ.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/q7iwBG89RLMdkXoYGdVxC9rRg8Y.jpg</fanart>
 </dir>
@@ -19,7 +19,7 @@
 	<season>2</season>
 	<year>2005</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/hustle/hustle2.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/hustle/hustle2.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/3B4IgbW3tmuyu78Zdy9FfedOAVS.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/q7iwBG89RLMdkXoYGdVxC9rRg8Y.jpg</fanart>
 </dir>
@@ -31,7 +31,7 @@
 	<season>3</season>
 	<year>2006</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/hustle/hustle3.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/hustle/hustle3.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/s1T6Cfl7gLnU2xxgIrCAOKZtqOx.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/q7iwBG89RLMdkXoYGdVxC9rRg8Y.jpg</fanart>
 </dir>
@@ -43,7 +43,7 @@
 	<season>4</season>
 	<year>2007</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/hustle/hustle4.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/hustle/hustle4.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/zKghvsm0QQZD7QNOBr7WC1N6aDp.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/q7iwBG89RLMdkXoYGdVxC9rRg8Y.jpg</fanart>
 </dir>
@@ -55,7 +55,7 @@
 	<season>5</season>
 	<year>2009</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/hustle/hustle5.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/hustle/hustle5.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/3mWE8NODFkT6lB9oVCpH3RrUIQi.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/q7iwBG89RLMdkXoYGdVxC9rRg8Y.jpg</fanart>
 </dir>
@@ -67,7 +67,7 @@
 	<season>6</season>
 	<year>2010</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/hustle/hustle6.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/hustle/hustle6.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/kgBagC7vrBWm1PARcv2VebjiICq.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/q7iwBG89RLMdkXoYGdVxC9rRg8Y.jpg</fanart>
 </dir>
@@ -79,7 +79,7 @@
 	<season>7</season>
 	<year>2011</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/hustle/hustle7.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/hustle/hustle7.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/oaLZ6d4jrswAmdHPGprEyJz9OsR.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/q7iwBG89RLMdkXoYGdVxC9rRg8Y.jpg</fanart>
 </dir>
@@ -91,7 +91,8 @@
 	<season>8</season>
 	<year>2012</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/hustle/hustle8.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/hustle/hustle8.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/m6Ihg3Eo9YAlHw5XtrxfwH6Jqsi.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/q7iwBG89RLMdkXoYGdVxC9rRg8Y.jpg</fanart>
 </dir>
+
