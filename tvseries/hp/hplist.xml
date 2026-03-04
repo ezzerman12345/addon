@@ -6,7 +6,32 @@
 	<season>1</season>
 	<year>2022</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/hp/hp1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/hp/hp1.xml</link>
 	<thumbnail>https://www.themoviedb.org/t/p/w1280/4mVKQJ9cDO939sK7MvVxpUfOZHb.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280None</fanart>
 </dir>
+<dir>
+	<title>[COLOR=white]Season 2[/COLOR]</title>
+	<meta>
+	<imdb>tt14815774</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2024</year>
+	</meta>
+	<link>http://www.ezzer-mac.com/Addon/text/tvseries/hp/hp1.xml</link>
+	<thumbnail>https://media.themoviedb.org/t/p/w260_and_h390_face/ra4EnTPtqlRV9yl6cphUkP9YLjR.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280None</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 3[/COLOR]</title>
+	<meta>
+	<imdb>tt14815774</imdb>
+	<content>season</content>
+	<season>3</season>
+	<year>2025</year>
+	</meta>
+	<link>https://media.themoviedb.org/t/p/w260_and_h390_face/fq6VJLMGTaof1D3BTbOgd9zf3r1.jpgl</link>
+	<thumbnail>https://www.themoviedb.org/t/p/w1280/4mVKQJ9cDO939sK7MvVxpUfOZHb.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280None</fanart>
+</dir>
+
