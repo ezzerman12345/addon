@@ -18,7 +18,7 @@
 	<season>1</season>
 	<year>1987</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/morse/morse1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/morse/morse1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/oIXinlUHPelYNcgGACpPdoCVjkJ.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/lMafjedMJKWaMYV3ohaWjavHeSa.jpg</fanart>
 </dir>
@@ -30,7 +30,7 @@
 	<season>2</season>
 	<year>1987</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/morse/morse2.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/morse/morse2.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/3i8193SaawXb5vbOwM6iVl3zasj.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/lMafjedMJKWaMYV3ohaWjavHeSa.jpg</fanart>
 </dir>
@@ -42,7 +42,7 @@
 	<season>3</season>
 	<year>1989</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/morse/morse3.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/morse/morse3.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/nOG8sWV2tqiHhZFp1CDmeDFskrw.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/lMafjedMJKWaMYV3ohaWjavHeSa.jpg</fanart>
 </dir>
@@ -54,7 +54,7 @@
 	<season>4</season>
 	<year>1990</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/morse/morse4.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/morse/morse4.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/fxlA56EwfUpmEKE8ppN1cUpXjb8.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/lMafjedMJKWaMYV3ohaWjavHeSa.jpg</fanart>
 </dir>
@@ -66,7 +66,7 @@
 	<season>5</season>
 	<year>1991</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/morse/morse5.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/morse/morse5.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/eViHjMPf5GizGtoVZfODowV4SXz.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/lMafjedMJKWaMYV3ohaWjavHeSa.jpg</fanart>
 </dir>
@@ -78,7 +78,7 @@
 	<season>6</season>
 	<year>1992</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/morse/morse6.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/morse/morse6.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/1wstGU8KTX57yOtNCqNe9LV7qeh.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/lMafjedMJKWaMYV3ohaWjavHeSa.jpg</fanart>
 </dir>
@@ -90,7 +90,8 @@
 	<season>7</season>
 	<year>1993</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/morse/morse7.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/morse/morse7.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/xzeZXISgnAZQiyZQdg0vqNE7gVq.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/lMafjedMJKWaMYV3ohaWjavHeSa.jpg</fanart>
 </dir>
+
