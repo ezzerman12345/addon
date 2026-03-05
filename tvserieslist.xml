@@ -722,7 +722,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]JEKYLL AND HYDE[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/jah/jahlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/jah/jahlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BYWE5NDRmOTItNGU3ZS00M2RhLTkxMmMtMmFhYjUyZTg4ZmNkXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1984,6 +1984,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
