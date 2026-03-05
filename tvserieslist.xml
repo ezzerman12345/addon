@@ -704,9 +704,9 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]JACK THE RIPPER 1988[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/jtr88/jtr88list.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/jtr88/jtr88list.xml</link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://m.media-amazon.com/images/M/MV5BZGVmOWEwZjktYTQ5OC00MGMzLWFiZGYtNTAyZTFiNTEyZDM1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg</thumbnail>
+        <thumbnail>https://www.themoviedb.org/t/p/w1280/Ltuc0ebhS2zl22R2YQdinSlFjW.jpg</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart></fanart>
 </dir>
@@ -1984,6 +1984,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
