@@ -6,7 +6,7 @@
 	<season>1</season>
 	<year>2012</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/ltih/ltih1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/ltih/ltih1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/gGJ7dyYtDJoj8rOU3xv0DqfrVmO.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/vquWKQnwFIro7hQYhphUf7AH5J9.jpg</fanart>
 </dir>
@@ -18,7 +18,7 @@
 	<season>2</season>
 	<year>2013</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/ltih/ltih2.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/ltih/ltih2.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/xNYEYO0sppzjlZhCtPfKf76hO0G.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/vquWKQnwFIro7hQYhphUf7AH5J9.jpg</fanart>
 </dir>
@@ -30,7 +30,7 @@
 	<season>3</season>
 	<year>2014</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/ltih/ltih3.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/ltih/ltih3.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/5VF37Ro7xJJH6uvg6yZL7rZ3tWZ.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/vquWKQnwFIro7hQYhphUf7AH5J9.jpg</fanart>
 </dir>
@@ -42,7 +42,7 @@
 	<season>4</season>
 	<year>2016</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/ltih/ltih4.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/ltih/ltih4.xml</link>
 	<thumbnail>https://www.themoviedb.org/t/p/w260_and_h390_bestv2/5BWaau05V5vRxg4dxhz3RGu7YWr.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/vquWKQnwFIro7hQYhphUf7AH5J9.jpg</fanart>
 </dir>
@@ -54,7 +54,8 @@
 	<season>5</season>
 	<year>2020</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/ltih/ltih5.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/ltih/ltih5.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/kpIubS7v8ClGhlW3pciGnvzMQYP.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/vquWKQnwFIro7hQYhphUf7AH5J9.jpg</fanart>
 </dir>
+
