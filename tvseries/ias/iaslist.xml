@@ -7,7 +7,8 @@
 	<season>1</season>
 	<year>2021</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/ias/ias1.xml</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/A7jaowXMiviH85jjsDYzXK2A1h1.jpg</thumbnail>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/ias/iaslist.xml</link>
+	<thumbnail>https://www.themoviedb.org/t/p/w1280/tUaNS4b5TIiP1SwpHCYCbUoGpHG.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/aveywEVwIppkrHRQavbB4ybnZPe.jpg</fanart>
 </dir>
+
