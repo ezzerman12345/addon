@@ -758,7 +758,7 @@
 
 <dir>
       <title>[B][I][COLOR lightskyblue]LADYKILLERS[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/tvseries/ladyk/ladyklist.xml</link>
+      <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/ladyk/ladyklist.xml</link>
       <thumbnail>https://artworks.thetvdb.com/banners/posters/74429-1_t.jpg</thumbnail>
 </dir>
 
@@ -1984,6 +1984,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
