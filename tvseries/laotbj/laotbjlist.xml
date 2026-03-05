@@ -7,7 +7,8 @@
 	<season>1</season>
 	<year>2005</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/laotbj/laotbj1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/laotbj/laotbj1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/81kWlU4YNKuXhfrxxulMg8E4hqf.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/aP4z1ZLsr8dydQCypn3Dg0Uf0hd.jpg</fanart>
 </dir>
+
