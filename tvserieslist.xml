@@ -773,7 +773,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]LAW AND ORDER (1978)[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/lao1978/laolist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/lao1978/laolist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/yKmsUk9FSEjpWyPaQvmf4WoOGRF.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -800,7 +800,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]LEWIS[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/lewis/lewislist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/lewis/lewislist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BNmFhNGY4Y2ItOTVhNi00MmJiLThiMjQtM2Q1Mzg1YTNjYmU4XkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -809,7 +809,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]LIAR[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/liar/liarlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/liar/liarlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/hQFQok8j8vErenASWIUtBEsbTVY.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -818,7 +818,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]LIMITLESS[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/limitless/limitlesslist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/limitless/limitlesslist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/l5BERaKn3ozRTLhoylIiNwMDvax.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -827,7 +827,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]LINE OF DUTY[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/lineofduty/lineofdutylist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/lineofduty/lineofdutylist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/ysGUKnnR1pGYIndjXWcjupGbWpS.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -836,7 +836,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]LITTLE BOY BLUE[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/lbb/lbblist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/lbb/lbblist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BNDQzMmJhN2QtNWJiZi00YmU4LWJhZmEtMTBmYjEwZmRhNDc2XkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -845,7 +845,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]LONDON KILLS[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/lk/lklist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/lk/lklist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BOTA4MzQxYjAtMThmMC00Y2UwLTk2NDAtNzlkYWVjYWQ0ZTM4XkEyXkFqcGdeQXVyMjM5NDQzNTk@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -854,7 +854,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]LUTHER[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/luther/lutherlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/luther/lutherlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/hDxOMX8zzH1FiqKWVBzNaYGBkle.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1984,6 +1984,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
