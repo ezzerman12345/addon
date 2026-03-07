@@ -36,3 +36,17 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/u8dxtoKqcfT9GlZPZDAf30PcQcZ.jpg</fanart>
 </dir>
 
+<dir>
+	<title>[COLOR=white]Series 4[/COLOR]</title>
+	<meta>
+	<imdb>tt8571906</imdb>
+	<content>season</content>
+	<season>4</season>
+	<year>2023</year>
+	</meta>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/lk/lk4.xml</link>
+	<thumbnail>https://media.themoviedb.org/t/p/w260_and_h390_face/pYTfHTDj7IfKiNGpQ4yRPCNTpdm.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/u8dxtoKqcfT9GlZPZDAf30PcQcZ.jpg</fanart>
+</dir>
+
+
