@@ -872,7 +872,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]MANDALORIAN[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/mand/mandlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/mand/mandlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -881,7 +881,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]MANHUNT[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/manhunt/manhuntlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/manhunt/manhuntlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/nLjUC3ze3WxCFhg4GDbcwLRSgvJ.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -890,20 +890,20 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]MARCELLA[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/mar/marlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/mar/marlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://myself.2ix.ch/i/Fgyf.jpg</thumbnail>
 </dir>
 
 <dir>
       <title>[B][I][COLOR lightskyblue]MARY KILLS PEOPLE[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/tvseries/mkp/mkplist.xml</link>
+      <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/mkp/mkplist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/4zOZzlSjHjUJgc2Gp20iFfpkRBV.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]McDONALDS AND DODDS[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/mad/madlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/mad/madlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://artworks.thetvdb.com/banners/series/377023/posters/603d34d2d0729.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -912,7 +912,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]MIDNIGHT MASS[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/mm/mmlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/mm/mmlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/iYoMZYVD775MtBYJfv6OGY1FsnL.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -921,13 +921,13 @@
 
 <dir>
       <title>[B][I][COLOR lightskyblue]MIDSOMER MURDERS[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/tvseries/msm/msmlist.xml</link>
+      <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/msm/msmlist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/pz7tsWxe0TTdfJnWPjZAEnrSl5M.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]MINDHUNTER[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/mh/mhlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/mh/mhlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/fbKE87mojpIETWepSbD5Qt741fp.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -936,7 +936,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]MOBY DICK[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/md/mdlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/md/mdlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/fOiEbZuo7KZQhcCbn5EQ4wPsdTN.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -945,7 +945,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]MOONFLEET[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/moon/moonlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/moon/moonlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BYWU3NDJmZTUtODE4Yi00MmIzLTg0MTQtNGY0YTFlNDc4YzE3XkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -954,7 +954,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]MOTHERLAND[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/ml/mllist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/ml/mllist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BZGUwOWI3MDUtM2RiMS00YWE2LWFhY2YtOTI1ZWI0ZTE5NWI3XkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_UY1200_CR109,0,630,1200_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -963,19 +963,19 @@
 
 <dir>
       <title>[B][I][COLOR lightskyblue]MURDER CITY[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/tvseries/mc/mclist.xml</link>
+      <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/mc/mclist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/5ejJ4tRlAjX32IdQZ4F97wCuq7u.jpg</thumbnail>
 </dir>
 
 <dir>
       <title>[B][I][COLOR lightskyblue]MURDER MOST HORRID[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/tvseries/mmh/mmhlist.xml</link>
+      <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/mmh/mmhlist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/rNKAPAL5bNN64BjEWuhpb8pkom6.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]MURDER SHE WROTE[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/msw/mswlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/msw/mswlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/f5EErOqyT6wY6GomSej4Io5HR4P.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -984,7 +984,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]MURDOCH MYSTERIES[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/murdoch/mmlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/mm/mmlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/oDeViEDiqQtIaqIaxIQZgmxMgBz.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -993,13 +993,13 @@
 
 <dir>
       <title>[B][I][COLOR lightskyblue]MURPHYS LAW[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/tvseries/mlaw/mllist.xml</link>
+      <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/ml/mllist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/qLgkw20BhWnMiK6Dj12z8ObOXlU.jpg</thumbnail>
 </dir>
 
 <dir>
       <title>[B][I][COLOR lightskyblue]MURDER THEY HOPE[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/tvseries/mth/mthlist.xml</link>
+      <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/mth/mthlist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/rvxq9Uc56S8ZFb3VzSq9DYVrRnV.jpg</thumbnail>
 </dir>
 
@@ -1984,6 +1984,7 @@
         <fanart></fanart>
 
 </dir>
+
 
 
 
