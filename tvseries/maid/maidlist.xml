@@ -6,7 +6,8 @@
 	<season>1</season>
 	<year>2021</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/maid/maid1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/maid/maid1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/3lfj9FctMwDALRf5K79aT1u8tb2.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/yv5oliNUwu82JT1XUbz1WSKm18E.jpg</fanart>
 </dir>
+
