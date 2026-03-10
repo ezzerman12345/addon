@@ -30,9 +30,10 @@
 	<season>3</season>
 	<year>2022</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/mad/mad3.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/mad/mad3.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/8auwQobaXoFInSjRmGaTwEl13Nx.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/pIfw4FR4XB8m5PrJH3nHt0Ocd8T.jpg</fanart>
 </dir>
+
 
 
