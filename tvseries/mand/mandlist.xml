@@ -18,8 +18,9 @@
 	<season>2</season>
 	<year>2020</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/mand/mand2.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/mand/mand2.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/70gKT9a7Z6AlrRutNsU4SDacdy9.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/9ijMGlJKqcslswWUzTEwScm82Gs.jpg</fanart>
 </dir>
+
 
