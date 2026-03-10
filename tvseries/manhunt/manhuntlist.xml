@@ -18,8 +18,9 @@
 	<season>2</season>
 	<year>2021</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/manhunt/manhunt2.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/manhunt/manhunt2.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/gkv776SMlKNjew683oGSQ0e1vUg.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/rBg4MGYEmVjaqU5380q2mx8j4cZ.jpg</fanart>
 </dir>
+
 
