@@ -30,9 +30,10 @@
 	<season>3</season>
 	<year>2019</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/mkp/mkp3.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/mkp/mkp3.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/i4GzEBleFHJ0L7kkRG6hM0lwEgR.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/83oRTo6vDeLKfvkNTgSKxmju1MX.jpg</fanart>
 </dir>
+
 
 
