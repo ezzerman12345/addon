@@ -6,7 +6,7 @@
 	<season>1</season>
 	<year>2004</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/mc/mc1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/mc/mc1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/8ljXX2wWfdhpZNpd3wnRBQbt4m3.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/i0o8lVnCDkcCIep6PFhiCYZ9B31.jpg</fanart>
 </dir>
@@ -22,3 +22,4 @@
 	<thumbnail>https://image.tmdb.org/t/p/w1280/cHMJ9xhIZzLFMFihxnzCmow69Kd.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/i0o8lVnCDkcCIep6PFhiCYZ9B31.jpg</fanart>
 </dir>
+
