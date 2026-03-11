@@ -6,7 +6,7 @@
 	<season>1</season>
 	<year>2017</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/mh/mh1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/mh/mh1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/lJFRiAeD83gKyzpoqStRM3ebKul.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/a906PH7CDmSOdS7kmnAgdWk5mhv.jpg</fanart>
 </dir>
@@ -22,3 +22,4 @@
 	<thumbnail>https://image.tmdb.org/t/p/w1280/ge5B0uzU7ggvzMMgtuQnBAaxvVx.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/a906PH7CDmSOdS7kmnAgdWk5mhv.jpg</fanart>
 </dir>
+
