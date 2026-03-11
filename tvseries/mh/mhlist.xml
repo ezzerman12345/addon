@@ -18,8 +18,9 @@
 	<season>2</season>
 	<year>2019</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/mh/mh2.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/mh/mh2.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/ge5B0uzU7ggvzMMgtuQnBAaxvVx.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/a906PH7CDmSOdS7kmnAgdWk5mhv.jpg</fanart>
 </dir>
+
 
