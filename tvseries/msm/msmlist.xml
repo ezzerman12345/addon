@@ -55,7 +55,7 @@
 	<season>5</season>
 	<year>2002</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/msm/msm5.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/msm/msm5.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/8du776xdhwTDOd8iNe1S0fK5Kcx.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/pvPWqLpPjax8WVv3cfZ5f7nbyEU.jpg</fanart>
 </dir>
