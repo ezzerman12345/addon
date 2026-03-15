@@ -127,7 +127,7 @@
 	<season>11</season>
 	<year>2008</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/msm/msm11.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/msm/msm11.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/wTvqHF2HiPBq1Y1AWQB1z3Bzrh5.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/pvPWqLpPjax8WVv3cfZ5f7nbyEU.jpg</fanart>
 </dir>
