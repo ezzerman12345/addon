@@ -31,7 +31,7 @@
 	<season>3</season>
 	<year>1999</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/msm/msm3.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/msm/msm3.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/1MRgidncCyQPD1eLJlrchbid49h.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/pvPWqLpPjax8WVv3cfZ5f7nbyEU.jpg</fanart>
 </dir>
