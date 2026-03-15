@@ -271,7 +271,7 @@
 	<season>23</season>
 	<year>2022</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/msm/msm23.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/msm/msm23.xml</link>
 	<thumbnail>https://www.themoviedb.org/t/p/w260_and_h390_bestv2/AisXkh8bpC2wUM89VvgRlNAWQUm.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/pvPWqLpPjax8WVv3cfZ5f7nbyEU.jpg</fanart>
 </dir>
