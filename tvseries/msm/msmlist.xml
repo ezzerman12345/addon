@@ -19,7 +19,7 @@
 	<season>2</season>
 	<year>1999</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/msm/msm2.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/msm/msm2.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/9EHcpSDYSc8UH1alSsU93nvs3QK.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/pvPWqLpPjax8WVv3cfZ5f7nbyEU.jpg</fanart>
 </dir>
