@@ -67,7 +67,7 @@
 	<season>6</season>
 	<year>2003</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/msm/msm6.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/msm/msm6.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/4VNayIa1TWuooeN8PzXQb1abbV5.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/pvPWqLpPjax8WVv3cfZ5f7nbyEU.jpg</fanart>
 </dir>
