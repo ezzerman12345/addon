@@ -67,7 +67,7 @@
 	<season>6</season>
 	<year>2009</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/nt/nt6.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/nt/nt6.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/hDbK4J3k1SqMFH35sY2kZSQ4iog.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/nsHoeUGwtjFHWE6guvbdcBKu2f.jpg</fanart>
 </dir>
