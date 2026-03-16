@@ -139,7 +139,7 @@
 	<season>12</season>
 	<year>2015</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/nt/nt12.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/nt/nt12.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/eyOUvtPHUEWJLlc1SNlu0Bzgdab.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/nsHoeUGwtjFHWE6guvbdcBKu2f.jpg</fanart>
 </dir>
