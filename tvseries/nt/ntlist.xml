@@ -91,7 +91,7 @@
 	<season>8</season>
 	<year>2011</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/nt/nt8.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/nt/nt8.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/8qR4c4tjXGLdCFSl6Tao2fLJy15.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/nsHoeUGwtjFHWE6guvbdcBKu2f.jpg</fanart>
 </dir>
