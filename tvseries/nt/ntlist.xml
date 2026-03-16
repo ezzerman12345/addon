@@ -43,7 +43,7 @@
 	<season>4</season>
 	<year>2007</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/nt/nt4.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/nt/nt4.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/9u7s33SJRSqBGP9Ia8lLAyY8F3j.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/nsHoeUGwtjFHWE6guvbdcBKu2f.jpg</fanart>
 </dir>
