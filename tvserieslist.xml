@@ -1005,7 +1005,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]NEW TRICKS[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/nt/ntlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/nt/ntlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BNTRkNmIwZTAtYjBiNC00ZDVhLWE2OTYtYzRmNWI2MjlhMjRkXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_UY268_CR5,0,182,268_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
