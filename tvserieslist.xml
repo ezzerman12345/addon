@@ -1014,7 +1014,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]NO RETURN[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/nr/nrlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/nr/nrlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/r3ccVDrDI2yWqG0Qg0Vhpyop1uH.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1023,7 +1023,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]ONE DAY IN AMERICA[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/odia/odialist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/odia/odialist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/krPWzmNcQ8PqV5FwXAnTWtvBKNO.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1032,7 +1032,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]OUR GIRL[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/ourgirls/oglist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/ourgirls/oglist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/4RL153WVbce7i9oemTzzBiD6B1Q.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1041,7 +1041,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]OZARK[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/ozark/ozarklist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/ozark/ozarklist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BM2Q3MjQ3NDAtZDk4NS00MDIwLTllZGUtMmY1ZDU2OTJkNGY2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
