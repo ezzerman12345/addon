@@ -30,7 +30,7 @@
 	<season>3</season>
 	<year>2020</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/ozark/ozark3.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/ozark/ozark3.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/ptRaE7lPLbrM0cuwoDKHHisZPMi.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/gD830J0sf5gEeZvzkRVPdGxJmSR.jpg</fanart>
 </dir>
