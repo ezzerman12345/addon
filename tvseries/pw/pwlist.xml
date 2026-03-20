@@ -6,7 +6,7 @@
 	<season>1</season>
 	<year>2012</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/pw/pw1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/pw/pw1.xml</link>
 	<thumbnail>https://www.themoviedb.org/t/p/w1280/A6gRla5qY3OMKmAUzK6vMHj87jZ.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/njNdIexkE0nkHqnEGp66TdKel8v.jpg</fanart>
 </dir>
@@ -18,7 +18,7 @@
 	<season>2</season>
 	<year>2013</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/pw/pw2.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/pw/pw2.xml</link>
 	<thumbnail>https://www.themoviedb.org/t/p/w1280/A6gRla5qY3OMKmAUzK6vMHj87jZ.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/njNdIexkE0nkHqnEGp66TdKel8v.jpg</fanart>
 </dir>
