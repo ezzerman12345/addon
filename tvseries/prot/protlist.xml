@@ -34,3 +34,15 @@
 	<thumbnail>https://media.themoviedb.org/t/p/w260_and_h390_face/mkfrtiVjBjOPLBNRo1wXtgJSgfo.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/oCTj6MI1rfo3GFsrOxYGHNV4ihK.jpg</fanart>
 </dir>
+<dir>
+	<title>[COLOR=white]Season 4[/COLOR]</title>
+	<meta>
+	<imdb>tt11981644</imdb>
+	<content>season</content>
+	<season>4</season>
+	<year>2025</year>
+	</meta>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/prot/prot4.xml</link>
+	<thumbnail>https://media.themoviedb.org/t/p/w260_and_h390_face/mkfrtiVjBjOPLBNRo1wXtgJSgfo.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/oCTj6MI1rfo3GFsrOxYGHNV4ihK.jpg</fanart>
+</dir>
