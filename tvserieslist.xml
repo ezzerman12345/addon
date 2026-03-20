@@ -1104,7 +1104,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]QUEEN OF THE SOUTH[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/qots/qotslist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/qots/qotslist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/rzdC5EHkkKJE6OPVdh6gT1pR1c9.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1113,7 +1113,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]QUIZ[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/quiz/quizlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/quiz/quizlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/yCHBUpRwtRpGuIRy0bMGSc5Xd1I.jpg</thumbnail>
         <animated_fanart></animated_fanart>
