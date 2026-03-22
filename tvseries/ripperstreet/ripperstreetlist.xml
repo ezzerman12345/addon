@@ -31,7 +31,7 @@
 	<season>3</season>
 	<year>2014</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/ripperstreet/ripperstreet3.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/ripperstreet/ripperstreet3.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/uQYvJG0ryWK1tRlxnFDkyF2pzgq.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/snSylVifJ29t7mxiIi5dxi6x2q2.jpg</fanart>
 </dir>
