@@ -18,7 +18,7 @@
 	<season>2</season>
 	<year>2022</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/rbw/rbw2.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/rbw/rbw2.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/j10Ztxyfxp7zqYI6GvaWO3HFnxO.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/na2xUduK8HviOFT97TiFG2MkJmY.jpg</fanart>
 </dir>
