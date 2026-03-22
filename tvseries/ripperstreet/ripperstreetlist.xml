@@ -43,7 +43,7 @@
 	<season>4</season>
 	<year>2016</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/ripperstreet/ripperstreet4.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/ripperstreet/ripperstreet4.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/3o2Oj3FsWGBVw2MOv4iwN5KCW8N.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/snSylVifJ29t7mxiIi5dxi6x2q2.jpg</fanart>
 </dir>
