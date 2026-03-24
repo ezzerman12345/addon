@@ -6,7 +6,7 @@
 	<season>1</season>
 	<year>2022</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/sh/sh1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/sh/sh1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/oBqlO6ZjTcVFiE0lBj89lAOi18s.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/fg9psAEDJXX0svqSd3h6KNiWPBE.jpg</fanart>
 </dir>
