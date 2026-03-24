@@ -6,7 +6,7 @@
 	<season>1</season>
 	<year>2021</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/sss/sss1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/sss/sss1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/30MqitTOgIfeOhvwdMHkrM9p5mD.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/naudQkDg4MY2OFlYLBFU8Gq18Yt.jpg</fanart>
 </dir>
