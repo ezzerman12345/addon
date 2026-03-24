@@ -43,7 +43,7 @@
 	<season>4</season>
 	<year>2017</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/sherlock/sherlock4.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/sherlock/sherlock4.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/yVaWUlLmln0xqUDxVFc8JBuzHzK.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/k66wW641A5Tok6OHMAsCbxM0UpG.jpg</fanart>
 </dir>
