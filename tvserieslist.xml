@@ -1189,14 +1189,14 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]SAFE HOUSE[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/shouse/shouselist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/sh/shlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://cdn2.pixstash.net/2021/01/05/5eec91bd0f300.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]SAVE ME[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/saveme/savemelist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/saveme/savemelist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/uc7TY2yKnXz3DFPkyGRa3eIWyMA.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1205,7 +1205,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]SCOTT AND BAILEY[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/sab/sablist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/sab/sablist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/2WD6BxjA2ZE1DejMXenZXnlm1Fz.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1214,7 +1214,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]SCREW[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/screw/screwlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/screw/screwlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/wHGYdkcV8gLBi1TLVylyR4VUho.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1223,7 +1223,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]SECRETS OF SULPHUR SPRINGS[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/sss/ssslist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/sss/ssslist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/2huc4Ef44MBNlbYMa2qjqFvyW2q.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1232,7 +1232,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]SEE NO EVIL[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/snes/snelist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/sne/snelist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/dwYzpyRwf2rytD3PSLProDMLJ1c.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1241,7 +1241,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]SEE NO EVIL - THE MOORS MURDERS[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/sne/snelist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/sne/snelist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BMmE1ODliYzktMTg3Ny00MzhiLWFkZGYtYTM4MDY1MjYzOThmXkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1250,7 +1250,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]SELF MADE[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/selfmade/selfmadelist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/selfmade/selfmadelist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/2TMkFGAbsTfN3DHJu5AemEpdcEE.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1259,7 +1259,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]SHADES OF BLUE[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/sob/soblist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/sob/soblist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BYjJjMDA4NTItZWY2Mi00ZWRkLWFlZGQtNTU2ZGY1MDY5YTdmXkEyXkFqcGdeQXVyNjMxNzcwOTI@._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1268,7 +1268,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]SHERLOCK[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/sherlock/sherlocklist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/sherlock/sherlocklist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BMWY3NTljMjEtYzRiMi00NWM2LTkzNjItZTVmZjE0MTdjMjJhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTQ4NTc5OTU@._V1_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1277,20 +1277,20 @@
 
 <dir>
       <title>[B][I][COLOR lightskyblue]SILENT WITNESS[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/tvseries/sw/swlist.xml</link>
+      <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/sw/swlist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/15OhthfCEbCBSjcWAGykyxM2vYM.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]SLOW HORSES[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/sh/shlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/sh/shlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/8FM8KCgZQSbLLXcZew0MSj6so1k.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]SMOTHER[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/smother/smotherlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/smother/smotherlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/liE0KylYp5uzqONbDT07bVUUNUa.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1299,14 +1299,14 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]SOLDIER SOLDIER[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/ss/sslist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/ss/sslist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://myself.2ix.ch/img/5eec943a6b137.jpg</thumbnail>
 </dir>
 
 <dir>
         <name>[B][I][COLOR lightskyblue]SPENDER[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/spender/spenderlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/spender/spenderlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BYjRlYjU5OTYtMjBjNy00ODYwLWEwMjUtOTBmYTg2ODI0NzIxXkEyXkFqcGdeQXVyMTIwOTI0NTE@._V1_UY268_CR6,0,182,268_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1315,7 +1315,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]SPOOKS[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/spook/spooklist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/spook/spooklist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/5kODxCYihuM49oQWke6GfHdsRT6.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1324,7 +1324,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]STRIKING OUT[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/so/solist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/so/solist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://img16.pixhost.to/images/246/62065259_capture.jpg</thumbnail>
 </dir>
