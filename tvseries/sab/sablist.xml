@@ -30,7 +30,7 @@
 	<season>3</season>
 	<year>2013</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/sab/sab3.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/sab/sab3.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/bmi3v3ZbwotcwNkelbZtTfLtOuS.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/lMSiidH9VijMxgUOnKtfvg7ys5Y.jpg</fanart>
 </dir>
