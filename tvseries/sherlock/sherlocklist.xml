@@ -31,7 +31,7 @@
 	<season>3</season>
 	<year>2014</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/sherlock/sherlock3.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/sherlock/sherlock3.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/z9ljxwZUQA2349ZBZAssBXpd0i6.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/k66wW641A5Tok6OHMAsCbxM0UpG.jpg</fanart>
 </dir>
