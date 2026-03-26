@@ -114,7 +114,7 @@
 	<season>10</season>
 	<year>2011</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/spook/spook10.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/spook/spook10.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/o25Rv5jLbNZWLeZS0vQSnl2zZFA.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/huWw8v01wsznHGPek2pJITV57hO.jpg</fanart>
 </dir>
