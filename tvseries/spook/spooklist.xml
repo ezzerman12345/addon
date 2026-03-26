@@ -18,7 +18,7 @@
 	<season>2</season>
 	<year>2003</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/spook/spook2.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/spook/spook2.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/dPac25BPMEVmy6Q2dIDDwSXMBVq.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/huWw8v01wsznHGPek2pJITV57hO.jpg</fanart>
 </dir>
