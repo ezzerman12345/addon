@@ -6,7 +6,7 @@
 	<season>1</season>
 	<year>2017</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/taken/taken1.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/taken/taken1.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/z8p11dxeHbbYHnvsrfXdHHBdR8l.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/f3kPFcnHNFFIb0fVZpbiJHX5GYb.jpg</fanart>
 </dir>
