@@ -1331,7 +1331,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]TABOO[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/taboo/taboolist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/taboo/taboolist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/om1wVOuEtwH3krHutIWO9sJzkS5.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1340,7 +1340,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]TAKEN[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/taken/takenlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/taken/takenlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BMTYxNzQ2MTUwMF5BMl5BanBnXkFtZTgwNTMwMDIzNDM@._V1_UY268_CR10,0,182,268_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1358,7 +1358,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]THE BAY[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/thebay/thebaylist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/thebay/thebaylist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/jDXt6xzGrE7uw8aC2rK33RzJ4Jy.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1376,7 +1376,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]THE BROKENWOOD MYSTERIES[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/thebrokenwood/thebrokenwoodlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/thebrokenwood/thebrokenwoodlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/vDHHuYyVmgmtKNXQCVd8AOUItqD.jpg</thumbnail>
         <animated_fanart></animated_fanart>
@@ -1385,7 +1385,7 @@
 
 <dir>
       <title>[B][I][COLOR lightskyblue]THE CAPTURE[/COLOR][/I][/B]</title>
-      <link>http://www.ezzer-mac.com/Addon/text/miniseries/thecap/thecaplist.xml</link>
+      <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/miniseries/thecap/thecaplist.xml</link>
       <thumbnail>https://www.themoviedb.org/t/p/w1280/3JDXPHPxX5ugSNLy6yNEpSSP4Qf.jpg</thumbnail>
 </dir>
 
