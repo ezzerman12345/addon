@@ -87,10 +87,46 @@
 	<meta>
 	<imdb>tt3640276</imdb>
 	<content>season</content>
-	<season>7</season>
+	<season>8</season>
 	<year>2021</year>
 	</meta>
 	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/thebrokenwood/thebrokenwood8.xml</link>
 	<thumbnail>https://www.themoviedb.org/t/p/w260_and_h390_bestv2/wQ90HEvTnWXRltPQICbm3pthCTV.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/k1juCeDWcPXnX4OjtCZ5wFVOgtK.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 9[/COLOR]</title>
+	<meta>
+	<imdb>tt3640276</imdb>
+	<content>season</content>
+	<season>9</season>
+	<year>2023</year>
+	</meta>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/thebrokenwood/thebrokenwood9.xml</link>
+	<thumbnail>https://media.themoviedb.org/t/p/w260_and_h390_face/uAHZvWX6JLlbhJpIiX0No1zh1a5.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/k1juCeDWcPXnX4OjtCZ5wFVOgtK.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 10[/COLOR]</title>
+	<meta>
+	<imdb>tt3640276</imdb>
+	<content>season</content>
+	<season>10</season>
+	<year>2024</year>
+	</meta>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/thebrokenwood/thebrokenwood10.xml</link>
+	<thumbnail>https://media.themoviedb.org/t/p/w260_and_h390_face/zbKXBSq6vZx4w2g1aZp3RdijG6I.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/k1juCeDWcPXnX4OjtCZ5wFVOgtK.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 11[/COLOR]</title>
+	<meta>
+	<imdb>tt3640276</imdb>
+	<content>season</content>
+	<season>11</season>
+	<year>2025</year>
+	</meta>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/thebrokenwood/thebrokenwood10.xml</link>
+	<thumbnail>https://media.themoviedb.org/t/p/w260_and_h390_face/yQuhK73qg8CY0fzxoACB6eVCa9c.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/k1juCeDWcPXnX4OjtCZ5wFVOgtK.jpg</fanart>
 </dir>
