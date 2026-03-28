@@ -30,7 +30,7 @@
 	<season>3</season>
 	<year>2022</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/thebay/thebay3.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/thebay/thebay3.xml</link>
 	<thumbnail>https://www.themoviedb.org/t/p/w260_and_h390_bestv2/19rCS7AHFopxLBHk6tsxJUW0ujO.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/2rJcG9Ti9Bj3bKOsCKYy5nu6U1j.jpg</fanart>
 </dir>
