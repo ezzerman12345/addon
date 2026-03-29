@@ -1398,7 +1398,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]THE CROWN[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/crown/crownlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/crown/crownlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/1M876KPjulVwppEpldhdc8V4o68.jpg</thumbnail>
         <animated_fanart></animated_fanart>
