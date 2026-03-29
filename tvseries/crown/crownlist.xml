@@ -55,8 +55,21 @@
 	<season>5</season>
 	<year>2022</year>
 	</meta>
-	<link>http://www.ezzer-mac.com/Addon/text/tvseries/crown/crown5.xml</link>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/crown/crown5.xmll</link>
 	<thumbnail>https://www.themoviedb.org/t/p/w260_and_h390_bestv2/tjUEdX1Pzn1VqNlpUduEnnhhRH4.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/4InrdamBEM31unNiuEHGYTPX1e2.jpg</fanart>
+</dir>
+
+<dir>
+	<title>[COLOR=white]Season 6[/COLOR]</title>
+	<meta>
+	<imdb>tt4786824</imdb>
+	<content>season</content>
+	<season>6</season>
+	<year>2023</year>
+	</meta>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/crown/crown6.xmll</link>
+	<thumbnail>https://media.themoviedb.org/t/p/w260_and_h390_face/AeU4KANJ1H4Tlpg8duav9BBn3hs.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/4InrdamBEM31unNiuEHGYTPX1e2.jpg</fanart>
 </dir>
 
