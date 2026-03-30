@@ -1474,7 +1474,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]THE GREAT TRAIN ROBBERY[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/tgtr/tgtrlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/tgtr/tgtrlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BMTY4MzhiZGUtZjdhNy00NTZkLTk2MGYtNmFmM2VlMzUzNWY0XkEyXkFqcGdeQXVyNTM4OTY2MDU@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
