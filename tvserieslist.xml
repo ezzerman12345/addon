@@ -1465,7 +1465,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]THE GOVERNOR[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/gov/govlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/gov/govlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/1xPdtgnM3hDSkHrfFy7Uh3odSzA.jpg</thumbnail>
         <animated_fanart></animated_fanart>
