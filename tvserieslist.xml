@@ -1483,7 +1483,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]THE HANDMAIDS TALE[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/thmt/thmtlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/thmt/thmtlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BMTU0MTI0MDAyM15BMl5BanBnXkFtZTgwMDg5MzYyNTM@._V1_SY1000_CR0,0,684,1000_AL_.jpg</thumbnail>
         <animated_fanart></animated_fanart>
