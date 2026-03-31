@@ -1456,7 +1456,7 @@
 
 <dir>
         <name>[B][I][COLOR lightskyblue]THE GOOD KARMA HOSPITAL[/COLOR][/I][/B]</name>
-        <link>http://www.ezzer-mac.com/Addon/text/tvseries/tgkh/tgkhlist.xml</link>
+        <link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/tgkh/tgkhlist.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://www.themoviedb.org/t/p/w1280/oD1nCks7AeBBwP9rB2JaFrDOHKL.jpg</thumbnail>
         <animated_fanart></animated_fanart>
