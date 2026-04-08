@@ -25,7 +25,10 @@
 	<season>1</season>
 	<episode>2</episode>
 	</meta>
-	<link>https://myvidplay.com/d/cy35f46ipvig</link>
+	<link>
+		<sublink>https://myvidplay.com/d/cy35f46ipvig</sublink>
+		<sublink>https://hexload.com/nl6s7qsfq2qa</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/l769M1R72sJbbvdG9UCWLY5JwGR.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/snSylVifJ29t7mxiIi5dxi6x2q2.jpg</fanart>
 </item>
