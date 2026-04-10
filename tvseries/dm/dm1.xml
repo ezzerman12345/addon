@@ -8,7 +8,10 @@
 	<season>1</season>
 	<episode>1</episode>
 	</meta>
-	<link>https://myvidplay.com/d/29wfb6kt0y1e</link>
+	<link>
+		<sublink>https://myvidplay.com/d/29wfb6kt0y1e</sublink>
+		<sublink>https://playmogo.com/d/29wfb6kt0y1e</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/f8CiTNjQvvjUWcyP23UA1kvI7U4.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/uW8S2gIk9xrP7Af0tHOb6rI9U6b.jpg</fanart>
 </item>
