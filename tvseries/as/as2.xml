@@ -8,7 +8,10 @@
 	<season>2</season>
 	<episode>1</episode>
 	</meta>
-	<link>https://myvidplay.com/d/voypwg7dw9g8</link>
+	<link>
+		<sublink>https://myvidplay.com/d/voypwg7dw9g8</sublink>
+		<sublink>https://media.cm/vy7caiygbw5w</sublinnk>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/aXrbn4FRDIodNwYNvxGEyDqSzRK.jpg</fanart>
 </item>
@@ -25,6 +28,7 @@
 	<link>
 		<sublink>https://rg.to/file/ded0bdf4b351cc3876ace28edb0011de/above.suspicion.s02e02.hdtv.xvid_bia.avi.html</sublink>
 		<sublink>https://myvidplay.com/d/mqfu24gh4zxy</sublink>
+		<sublink>https://media.cm/5wjsccy9rj69</sublink>
 	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/aXrbn4FRDIodNwYNvxGEyDqSzRK.jpg</fanart>
@@ -42,6 +46,7 @@
 	<link>
 		<sublink>https://rg.to/file/796a9218079dde061bd5e7e90c6e2192/above.suspicion.s02e03.hdtv.xvid_bia.avi.html</sublink>
 		<sublink>https://myvidplay.com/d/3ctz6842ya5t</sublink>
+		<sublink>https://media.cm/tftf8gnavn25</sublink>
 	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/aXrbn4FRDIodNwYNvxGEyDqSzRK.jpg</fanart>
