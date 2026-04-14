@@ -8,7 +8,10 @@
 	<season>1</season>
 	<episode>1</episode>
 	</meta>
-	<link>https://myvidplay.com/d/an3spqf36259</link>
+	<link>
+		<sublink>https://myvidplay.com/d/an3spqf36259</sublink>
+		<sublink>https://media.cm/k5uq11gd4ypl</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/eOzFhkzIibE0Gt7EEJB9xnUi1Vk.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/9TyOYxzQr0SOmruw2i9F4vb1wXW.jpg</fanart>
 </item>
@@ -22,7 +25,10 @@
 	<season>1</season>
 	<episode>2</episode>
 	</meta>
-	<link>https://myvidplay.com/d/e2872ox19hw6</link>
+	<link>
+		<sublink>https://myvidplay.com/d/e2872ox19hw6</sublink>
+		<sublink>https://media.cm/jy1kfwiwhwjr</sublink>
+    </link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/j3CfsdjOJMKvu99VZcqy81hQ3C4.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/9TyOYxzQr0SOmruw2i9F4vb1wXW.jpg</fanart>
 </item>
@@ -36,7 +42,10 @@
 	<season>1</season>
 	<episode>3</episode>
 	</meta>
-	<link>https://myvidplay.com/d/i3akdptqmsb0</link>
+	<link>
+		<sublink>https://myvidplay.com/d/i3akdptqmsb0</sublink>
+		<sublink>https://media.cm/ibqq5buh0mmz</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/mhzIZTUVXegTHUB99GMzAiZkn1p.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/9TyOYxzQr0SOmruw2i9F4vb1wXW.jpg</fanart>
 </item>
@@ -50,7 +59,10 @@
 	<season>1</season>
 	<episode>4</episode>
 	</meta>
-	<link>https://myvidplay.com/d/59dq1r9pvx7n</link>
+	<link>
+		<sublink>https://myvidplay.com/d/59dq1r9pvx7n</sublink>
+		<sublink>https://media.cm/iaiwodapomo4</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/pGrCOsKKXbpApzX3S1r6qIxLbNn.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/9TyOYxzQr0SOmruw2i9F4vb1wXW.jpg</fanart>
 </item>
@@ -64,7 +76,10 @@
 	<season>1</season>
 	<episode>5</episode>
 	</meta>
-	<link>https://myvidplay.com/d/6goo660dlhqp</link>
+	<link>
+		<sublink>https://myvidplay.com/d/6goo660dlhqp</sublink>
+		<sublink>https://media.cm/tm19iw8s5pcd</sublink>	
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/qT68vQO4yxQUCtJ6Bix5cAsnYVj.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/9TyOYxzQr0SOmruw2i9F4vb1wXW.jpg</fanart>
 </item>
@@ -78,7 +93,10 @@
 	<season>1</season>
 	<episode>6</episode>
 	</meta>
-	<link>https://myvidplay.com/d/3z6ewpa79ptc</link>
+	<link>
+		<sublink>https://myvidplay.com/d/3z6ewpa79ptc</sublink>
+		<sublink>https://media.cm/onpeg70unyuu</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/owashz8xViRFF8AMnSBOs28144U.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/9TyOYxzQr0SOmruw2i9F4vb1wXW.jpg</fanart>
 </item>
