@@ -8,7 +8,10 @@
 	<season>3</season>
 	<episode>1</episode>
 	</meta>
-	<link>https://myvidplay.com/d/svprestlf1bb</link>
+	<link>
+		<sublink>https://myvidplay.com/d/svprestlf1bb</sublink>
+		<sublink>https://media.cm/e61cxa1t96dr</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/R3zOkNboDZziLTn83aUAba8AOg.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/6erwzMbBnuw4iRZ91mO6oW5mnX5.jpg</fanart>
 </item>
