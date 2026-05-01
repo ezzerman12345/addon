@@ -43,7 +43,11 @@
 	<season>1</season>
 	<episode>3</episode>
 	</meta>
-	<link>https://myvidplay.com/d/aibnod4db84l</link>
+	<link>
+		<sublink>
+			<sublink>https://myvidplay.com/d/aibnod4db84l</sublink>
+			<sublink>https://hexload.com/i04vlztbyi9c</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/3RoyzYq3tDQqU4rTdPamiA4fMXC.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/231CwAOIUwApgh8m3TC9xaBtokz.jpg</fanart>
 </item>
