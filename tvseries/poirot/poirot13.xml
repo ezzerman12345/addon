@@ -8,7 +8,10 @@
 	<season>13</season>
 	<episode>1</episode>
 	</meta>
-	<link>https://myvidplay.com/d/jppje7utw89b</link>
+	<link>
+		<sublink>https://myvidplay.com/d/jppje7utw89b</sublink>
+		<sublink>https://luluvid.com/d/rjhg9svwjz8j</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/2XGADVL2rq23HckR7eYjZtAwghq.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/6erwzMbBnuw4iRZ91mO6oW5mnX5.jpg</fanart>
 </item>
@@ -22,7 +25,10 @@
 	<season>13</season>
 	<episode>2</episode>
 	</meta>
-	<link>https://myvidplay.com/d/7ovmnlzxbb8q</link>
+	<link>
+		<sublink>https://myvidplay.com/d/7ovmnlzxbb8q</sublink>
+		<sublink>https://luluvid.com/d/ojnybg0oazit</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/7oyynl0PC8sCXAay8qhY8o5y9g4.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/6erwzMbBnuw4iRZ91mO6oW5mnX5.jpg</fanart>
 </item>
@@ -36,7 +42,10 @@
 	<season>13</season>
 	<episode>3</episode>
 	</meta>
-	<link>https://myvidplay.com/d/b10sfdbafkfm</link>
+	<link>
+		<sublink>https://myvidplay.com/d/b10sfdbafkfm</sublink>
+		<sublink>https://luluvid.com/d/snndhzfg52k2</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/7ADW3MIVfypT8eDcT7UBlLoIIF8.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/6erwzMbBnuw4iRZ91mO6oW5mnX5.jpg</fanart>
 </item>
@@ -50,7 +59,10 @@
 	<season>13</season>
 	<episode>4</episode>
 	</meta>
-	<link>https://myvidplay.com/d/mywwo5biy2qy</link>
+	<link>
+		<sublink>https://myvidplay.com/d/mywwo5biy2qy</sublink>
+		<sublink>https://luluvid.com/d/b00q5jt0s3m8</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/9ISRkkw47EztezHxRKCZ2aKdtKf.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/6erwzMbBnuw4iRZ91mO6oW5mnX5.jpg</fanart>
 </item>
@@ -64,7 +76,10 @@
 	<season>13</season>
 	<episode>5</episode>
 	</meta>
-	<link>https://myvidplay.com/d/q7xng7pr0cbd</link>
+	<link>
+		<sublink>https://myvidplay.com/d/q7xng7pr0cbd</sublink>
+		<sublink>https://luluvid.com/d/4apnupx4vw6d</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/ptNDuxfpm6d4tpC7riKzB6p950c.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/6erwzMbBnuw4iRZ91mO6oW5mnX5.jpg</fanart>
 </item>
