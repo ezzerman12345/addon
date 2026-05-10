@@ -8,7 +8,10 @@
 	<season>4</season>
 	<episode>1</episode>
 	</meta>
-	<link>https://myvidplay.com/d/50w998jiihyj</link>
+	<link>
+		<sublink>https://myvidplay.com/d/50w998jiihyj</sublink>
+		<sublink>https://luluvid.com/d/bxgenbj16osj</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/v5irqCjtediKB9nFRSfoThXUZKL.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/6erwzMbBnuw4iRZ91mO6oW5mnX5.jpg</fanart>
 </item>
@@ -22,7 +25,10 @@
 	<season>4</season>
 	<episode>2</episode>
 	</meta>
-	<link>https://myvidplay.com/d/iukhwvlyzu74</link>
+	<link>
+		<sublink>https://myvidplay.com/d/iukhwvlyzu74</sublink>
+		<sublink>https://luluvid.com/d/xky0wt9li3am</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/k7DWVa83Zn0ioB8RfHHnHR3wPFa.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/6erwzMbBnuw4iRZ91mO6oW5mnX5.jpg</fanart>
 </item>
@@ -36,7 +42,10 @@
 	<season>4</season>
 	<episode>3</episode>
 	</meta>
-	<link>https://myvidplay.com/d/txsh5eqll8cb</link>
+	<link>
+		<sublink>https://myvidplay.com/d/txsh5eqll8cb</sublink>
+		<sublink>https://luluvid.com/d/cfjf345c3he3</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/tyOt0oyaARX5qlL43fc20WWK9Dh.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/6erwzMbBnuw4iRZ91mO6oW5mnX5.jpg</fanart>
 </item>
