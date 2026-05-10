@@ -8,7 +8,10 @@
 	<season>12</season>
 	<episode>1</episode>
 	</meta>
-	<link>https://myvidplay.com/d/hfgxmt6pzwo6</link>
+	<link>
+		<sublink>https://myvidplay.com/d/hfgxmt6pzwo6</sublink>
+		<sublink>https://luluvid.com/d/07t75me1fkid</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/iKASMLgHdkbQTfpcwCMxkbrQGHV.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/6erwzMbBnuw4iRZ91mO6oW5mnX5.jpg</fanart>
 </item>
@@ -22,7 +25,10 @@
 	<season>12</season>
 	<episode>2</episode>
 	</meta>
-	<link>https://myvidplay.com/d/2csctncd54fu</link>
+	<link>
+		<sublink>https://myvidplay.com/d/2csctncd54fu</sublink>
+		<sublink>https://luluvid.com/d/xwarus7p4a3q</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/iS8AMxLRYzr7aWDdax86sYNawHC.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/6erwzMbBnuw4iRZ91mO6oW5mnX5.jpg</fanart>
 </item>
@@ -36,7 +42,10 @@
 	<season>12</season>
 	<episode>3</episode>
 	</meta>
-	<link>https://myvidplay.com/d/ebmebuxmngml</link>
+	<link>
+		<sublink>https://myvidplay.com/d/ebmebuxmngml</sublink>
+		<sublink>https://luluvid.com/d/x8ubthviaw42</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/9QgMTbxuRwxpTosLBrB78QPng6J.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/6erwzMbBnuw4iRZ91mO6oW5mnX5.jpg</fanart>
 </item>
@@ -50,7 +59,10 @@
 	<season>12</season>
 	<episode>4</episode>
 	</meta>
-	<link>https://myvidplay.com/d/2pjxj3wmsyvj</link>
+	<link>
+		<sublink>https://myvidplay.com/d/2pjxj3wmsyvj</sublink>
+		<sublink>https://luluvid.com/d/xxftlfe4mlnv</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/tNjkjI2szCGBLyRtPjrN4WFvNlQ.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/6erwzMbBnuw4iRZ91mO6oW5mnX5.jpg</fanart>
 </item>
