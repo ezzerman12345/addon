@@ -8,7 +8,10 @@
 	<season>10</season>
 	<episode>1</episode>
 	</meta>
-	<link>https://myvidplay.com/d/j0bcpq8qdt74</link>
+	<link>
+		<sublink>https://myvidplay.com/d/j0bcpq8qdt74</sublink>
+		<sublink>https://luluvid.com/d/50qj727j7icv</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/8GUanRDaoEDi89OcWK5fhUjTtRv.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/6erwzMbBnuw4iRZ91mO6oW5mnX5.jpg</fanart>
 </item>
@@ -22,7 +25,10 @@
 	<season>10</season>
 	<episode>2</episode>
 	</meta>
-	<link>https://myvidplay.com/d/h7ving17822w</link>
+	<link>
+		<sublink>https://myvidplay.com/d/h7ving17822w</sublink>
+		<sublink>https://luluvid.com/d/lhsh1d4xka1b</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/yEqaErwX1hlsou52cw3zBnNMuu4.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/6erwzMbBnuw4iRZ91mO6oW5mnX5.jpg</fanart>
 </item>
@@ -36,7 +42,10 @@
 	<season>10</season>
 	<episode>3</episode>
 	</meta>
-	<link>https://myvidplay.com/d/vtt84ajcnwmu</link>
+	<link>
+		<sublink>https://myvidplay.com/d/vtt84ajcnwmu</sublink>
+		<sublink>https://luluvid.com/d/hdfb9p1mfog9</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/q3lQFt33fyhv7ETp69Bn3m7XGk2.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/6erwzMbBnuw4iRZ91mO6oW5mnX5.jpg</fanart>
 </item>
@@ -50,7 +59,10 @@
 	<season>10</season>
 	<episode>4</episode>
 	</meta>
-	<link>https://myvidplay.com/d/mc1tzaci5zyf</link>
+	<link>
+		<sublink>https://myvidplay.com/d/mc1tzaci5zyf</sublink>
+		<sublink>https://luluvid.com/d/2gg2wrxeuokb</sublink>
+	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/5oE3BuuUkRahdVAXH1SRoeOiVrS.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/6erwzMbBnuw4iRZ91mO6oW5mnX5.jpg</fanart>
 </item>
