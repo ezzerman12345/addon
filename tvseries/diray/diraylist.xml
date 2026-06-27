@@ -11,3 +11,16 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/kg2VbulFToXGU83M4AGpqcldwFn.jpg</fanart>
 </dir>
 
+<dir>
+	<title>[COLOR=white]Season 2[/COLOR]</title>
+	<meta>
+	<imdb>tt15536118</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2024</year>
+	</meta>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/diray/diray2.xml</link>
+	<thumbnail>https://media.themoviedb.org/t/p/w260_and_h390_face/4vc1smKAqlaqwxfxjaTfsEcSGHU.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/kg2VbulFToXGU83M4AGpqcldwFn.jpg</fanart>
+</dir>
+
