@@ -11,3 +11,16 @@
 	<fanart>https://image.tmdb.org/t/p/w1280/2VDmT4e5OSae8udIy5eXmIx4h9X.jpg</fanart>
 </dir>
 
+<dir>
+	<title>[COLOR=white]Miniseries[/COLOR]</title>
+	<meta>
+	<imdb>tt9179552</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2022</year>
+	</meta>
+	<link>https://raw.githubusercontent.com/ezzerman12345/addon/refs/heads/main/tvseries/dd/dd2.xml</link>
+	<thumbnail>https://media.themoviedb.org/t/p/w260_and_h390_face/pNnmxTSc2ixac4xk8T80wchec0r.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/2VDmT4e5OSae8udIy5eXmIx4h9X.jpg</fanart>
+</dir>
+
